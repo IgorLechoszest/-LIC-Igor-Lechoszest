@@ -1,0 +1,1001 @@
+"checking_status","duration","credit_history","savings_status","installment_commitment","property_magnitude","age","other_payment_plans","num_dependents","foreign_worker","class"
+"<0",6,"critical/other existing credit","no known savings",4,"real estate",67,"none",1,"yes",1
+"0<=X<200",48,"existing paid","<100",2,"real estate",22,"none",1,"yes",2
+"no checking",12,"critical/other existing credit","<100",2,"real estate",49,"none",2,"yes",1
+"<0",42,"existing paid","<100",2,"life insurance",45,"none",2,"yes",1
+"<0",24,"delayed previously","<100",3,"no known property",53,"none",2,"yes",2
+"no checking",36,"existing paid","no known savings",2,"no known property",35,"none",2,"yes",1
+"no checking",24,"existing paid","500<=X<1000",3,"life insurance",53,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",2,"car",35,"none",1,"yes",1
+"no checking",12,"existing paid",">=1000",2,"real estate",61,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"car",28,"none",1,"yes",2
+"0<=X<200",12,"existing paid","<100",3,"car",25,"none",1,"yes",2
+"<0",18,"existing paid","<100",3,"life insurance",24,"none",1,"yes",2
+"0<=X<200",12,"existing paid","<100",1,"car",22,"none",1,"yes",1
+"<0",24,"critical/other existing credit","<100",4,"car",60,"none",1,"yes",2
+"<0",15,"existing paid","<100",2,"car",28,"none",1,"yes",1
+"<0",24,"existing paid","100<=X<500",4,"car",32,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","no known savings",4,"life insurance",53,"none",1,"yes",1
+"<0",30,"no credits/all paid","no known savings",2,"car",25,"bank",1,"yes",1
+"no checking",24,"existing paid","<100",4,"no known property",44,"none",1,"yes",2
+"no checking",18,"existing paid","500<=X<1000",3,"car",31,"none",2,"yes",1
+"no checking",9,"critical/other existing credit","<100",4,"car",48,"none",1,"yes",1
+"<0",6,"existing paid","500<=X<1000",2,"real estate",44,"none",2,"yes",1
+"<0",10,"critical/other existing credit","<100",1,"real estate",48,"none",2,"no",1
+"0<=X<200",12,"critical/other existing credit","100<=X<500",3,"life insurance",44,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","no known savings",2,"car",26,"none",1,"no",1
+"<0",6,"existing paid","<100",1,"real estate",36,"none",1,"yes",1
+"no checking",18,"no credits/all paid","<100",4,"car",39,"none",1,"yes",1
+">=200",12,"all paid",">=1000",3,"real estate",42,"none",1,"yes",1
+"0<=X<200",7,"existing paid","<100",3,"real estate",34,"none",1,"yes",1
+"<0",60,"delayed previously","<100",3,"no known property",63,"none",1,"yes",2
+"0<=X<200",18,"existing paid",">=1000",3,"real estate",36,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"car",27,"stores",1,"yes",1
+"0<=X<200",18,"existing paid","100<=X<500",2,"car",30,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",4,"no known property",57,"none",1,"yes",1
+">=200",12,"existing paid","<100",4,"life insurance",33,"none",1,"yes",1
+"0<=X<200",45,"critical/other existing credit","<100",4,"life insurance",25,"none",1,"yes",2
+"no checking",48,"critical/other existing credit","<100",1,"no known property",31,"bank",1,"yes",1
+">=200",18,"existing paid","<100",4,"real estate",37,"stores",1,"yes",2
+">=200",10,"existing paid","<100",2,"car",37,"none",1,"yes",1
+"no checking",9,"existing paid","<100",4,"real estate",24,"none",1,"yes",1
+"no checking",30,"existing paid","500<=X<1000",4,"car",30,"none",1,"yes",1
+"0<=X<200",12,"existing paid","500<=X<1000",3,"car",26,"none",1,"yes",1
+"0<=X<200",18,"delayed previously","<100",2,"real estate",44,"none",2,"yes",1
+"<0",30,"critical/other existing credit","100<=X<500",1,"car",24,"none",1,"yes",1
+"<0",48,"critical/other existing credit","<100",4,"no known property",58,"stores",1,"yes",2
+"no checking",11,"critical/other existing credit","<100",4,"car",35,"none",1,"yes",1
+"no checking",36,"existing paid","500<=X<1000",4,"car",39,"none",1,"yes",1
+"<0",6,"existing paid","500<=X<1000",1,"life insurance",23,"none",1,"yes",1
+"no checking",11,"critical/other existing credit","<100",1,"life insurance",39,"none",1,"yes",1
+"no checking",12,"existing paid","100<=X<500",4,"real estate",28,"none",1,"yes",1
+"0<=X<200",24,"delayed previously","no known savings",4,"life insurance",29,"bank",1,"yes",1
+"0<=X<200",27,"delayed previously","<100",1,"car",30,"none",1,"yes",1
+"no checking",12,"existing paid","<100",3,"car",25,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",2,"life insurance",31,"none",1,"yes",1
+"0<=X<200",36,"delayed previously","<100",4,"no known property",57,"bank",1,"yes",2
+"no checking",6,"all paid","no known savings",1,"real estate",26,"none",2,"yes",1
+"0<=X<200",12,"existing paid","no known savings",2,"no known property",52,"none",1,"yes",2
+"no checking",36,"critical/other existing credit","<100",2,"car",31,"none",1,"yes",1
+">=200",18,"existing paid","<100",3,"car",23,"none",1,"yes",1
+"<0",36,"critical/other existing credit","<100",4,"no known property",23,"none",1,"yes",2
+"0<=X<200",9,"existing paid","<100",2,"real estate",27,"bank",1,"yes",1
+"0<=X<200",15,"critical/other existing credit","no known savings",4,"real estate",50,"none",1,"yes",1
+"0<=X<200",36,"no credits/all paid","<100",4,"no known property",61,"none",1,"yes",2
+"0<=X<200",48,"no credits/all paid","<100",2,"car",25,"none",1,"yes",2
+"no checking",24,"existing paid","<100",4,"life insurance",26,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",4,"life insurance",48,"none",2,"yes",1
+"no checking",12,"existing paid","<100",2,"car",29,"bank",1,"yes",1
+"0<=X<200",12,"existing paid",">=1000",4,"real estate",22,"none",1,"yes",1
+"no checking",36,"existing paid","<100",4,"no known property",37,"stores",1,"yes",2
+"no checking",36,"existing paid","no known savings",4,"car",25,"none",1,"yes",1
+"no checking",36,"existing paid","<100",1,"life insurance",30,"bank",1,"yes",1
+"no checking",7,"critical/other existing credit","no known savings",4,"life insurance",46,"none",1,"yes",1
+"<0",8,"critical/other existing credit","<100",3,"no known property",51,"bank",2,"yes",1
+"0<=X<200",42,"critical/other existing credit","<100",2,"real estate",41,"bank",1,"yes",1
+"<0",36,"existing paid","no known savings",4,"no known property",40,"none",1,"yes",2
+"<0",12,"critical/other existing credit","<100",4,"no known property",66,"none",1,"yes",1
+"<0",42,"existing paid","<100",4,"car",34,"none",1,"yes",2
+"0<=X<200",11,"delayed previously","<100",2,"life insurance",51,"none",1,"yes",1
+"no checking",54,"no credits/all paid","no known savings",2,"life insurance",39,"none",2,"yes",1
+"0<=X<200",30,"existing paid","<100",2,"life insurance",22,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",1,"car",44,"none",1,"yes",2
+"no checking",15,"existing paid","500<=X<1000",4,"life insurance",47,"none",1,"yes",1
+"no checking",18,"existing paid","100<=X<500",3,"life insurance",24,"none",1,"yes",1
+"<0",24,"existing paid","<100",4,"real estate",58,"none",1,"yes",1
+"<0",10,"existing paid","<100",3,"real estate",52,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",4,"real estate",29,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"life insurance",27,"none",1,"yes",1
+"0<=X<200",18,"existing paid","100<=X<500",1,"no known property",47,"none",2,"yes",2
+"<0",18,"existing paid","100<=X<500",4,"car",30,"none",2,"yes",1
+"<0",12,"no credits/all paid","<100",4,"real estate",28,"none",1,"yes",2
+"no checking",12,"critical/other existing credit","<100",4,"real estate",56,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",4,"real estate",54,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",4,"life insurance",33,"bank",2,"yes",2
+">=200",24,"critical/other existing credit","no known savings",4,"no known property",20,"none",1,"yes",1
+"0<=X<200",12,"existing paid",">=1000",4,"real estate",54,"none",1,"yes",1
+"0<=X<200",54,"no credits/all paid","<100",3,"no known property",58,"none",1,"yes",2
+"no checking",12,"critical/other existing credit","no known savings",4,"car",61,"none",1,"yes",1
+"0<=X<200",18,"existing paid","100<=X<500",4,"car",34,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"real estate",36,"none",1,"yes",1
+"0<=X<200",20,"delayed previously","no known savings",3,"life insurance",36,"bank",2,"yes",1
+"no checking",24,"existing paid","100<=X<500",4,"real estate",41,"none",1,"yes",1
+"0<=X<200",36,"existing paid","<100",4,"car",24,"none",1,"yes",1
+"no checking",6,"delayed previously","<100",3,"real estate",24,"none",1,"yes",1
+"0<=X<200",9,"critical/other existing credit","<100",4,"car",35,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",2,"car",26,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","<100",2,"car",39,"none",2,"yes",2
+"no checking",18,"all paid","<100",2,"no known property",39,"bank",2,"yes",2
+"0<=X<200",12,"existing paid","<100",2,"car",32,"none",1,"yes",1
+"<0",24,"existing paid","no known savings",1,"life insurance",30,"none",1,"no",1
+"0<=X<200",14,"existing paid","500<=X<1000",1,"real estate",35,"none",1,"yes",1
+"0<=X<200",6,"delayed previously","100<=X<500",1,"car",31,"none",2,"yes",1
+">=200",15,"existing paid","<100",4,"life insurance",23,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",3,"real estate",28,"none",1,"yes",1
+"no checking",36,"critical/other existing credit","<100",4,"real estate",25,"stores",1,"yes",2
+"<0",12,"existing paid","500<=X<1000",3,"real estate",35,"none",1,"yes",1
+"no checking",48,"critical/other existing credit","no known savings",4,"real estate",47,"none",1,"yes",1
+"<0",42,"existing paid","no known savings",4,"car",30,"none",1,"yes",2
+"<0",18,"critical/other existing credit","no known savings",2,"real estate",27,"none",1,"no",1
+"<0",33,"critical/other existing credit","500<=X<1000",1,"car",23,"none",1,"yes",2
+"0<=X<200",18,"critical/other existing credit","500<=X<1000",3,"car",36,"none",1,"yes",1
+"<0",21,"existing paid","<100",3,"real estate",25,"none",1,"yes",2
+"no checking",18,"critical/other existing credit","<100",4,"car",41,"none",1,"yes",1
+"no checking",12,"existing paid","<100",3,"real estate",24,"none",1,"yes",1
+">=200",10,"critical/other existing credit","<100",4,"no known property",63,"none",1,"yes",1
+"0<=X<200",18,"existing paid","no known savings",4,"real estate",27,"none",1,"yes",2
+"<0",12,"critical/other existing credit","<100",4,"life insurance",30,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"real estate",40,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"car",30,"none",1,"yes",2
+"0<=X<200",12,"critical/other existing credit","<100",4,"car",34,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",3,"real estate",29,"none",1,"yes",2
+"0<=X<200",48,"existing paid","no known savings",1,"car",24,"none",1,"yes",1
+"<0",18,"delayed previously","<100",4,"life insurance",29,"stores",1,"yes",2
+"no checking",15,"existing paid","<100",2,"life insurance",27,"bank",1,"yes",1
+"no checking",18,"existing paid","<100",4,"no known property",47,"bank",1,"yes",1
+"no checking",60,"existing paid","100<=X<500",2,"real estate",21,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",4,"real estate",38,"none",1,"yes",1
+"no checking",27,"delayed previously",">=1000",2,"car",27,"none",1,"yes",1
+"0<=X<200",12,"existing paid","500<=X<1000",4,"real estate",66,"none",1,"yes",2
+"0<=X<200",15,"critical/other existing credit","no known savings",4,"real estate",35,"bank",1,"yes",1
+">=200",12,"existing paid","<100",2,"car",44,"none",1,"yes",1
+">=200",6,"existing paid",">=1000",2,"real estate",27,"none",1,"no",1
+"0<=X<200",36,"existing paid","<100",4,"no known property",30,"none",1,"yes",1
+"<0",27,"existing paid","<100",3,"car",27,"none",1,"yes",1
+"no checking",18,"existing paid","<100",2,"car",22,"none",1,"yes",2
+"no checking",18,"critical/other existing credit","<100",4,"life insurance",23,"none",1,"yes",1
+"0<=X<200",48,"all paid","100<=X<500",4,"car",30,"none",1,"yes",1
+"<0",6,"critical/other existing credit","<100",1,"no known property",39,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","100<=X<500",4,"car",51,"none",1,"yes",1
+"<0",36,"critical/other existing credit","<100",3,"life insurance",28,"none",1,"yes",1
+"no checking",18,"critical/other existing credit",">=1000",4,"car",46,"none",1,"yes",1
+"no checking",6,"existing paid","100<=X<500",2,"no known property",42,"bank",2,"yes",1
+"no checking",10,"existing paid","<100",1,"life insurance",38,"none",1,"no",1
+">=200",18,"existing paid","<100",4,"car",24,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit",">=1000",2,"no known property",29,"none",1,"yes",1
+"0<=X<200",24,"delayed previously","100<=X<500",4,"car",36,"none",1,"yes",1
+"<0",12,"existing paid","<100",2,"car",20,"none",1,"yes",2
+"<0",9,"critical/other existing credit","100<=X<500",3,"real estate",48,"none",2,"no",1
+"<0",12,"all paid","<100",4,"car",45,"bank",1,"yes",1
+"0<=X<200",24,"existing paid","100<=X<500",2,"car",38,"bank",1,"yes",1
+"no checking",6,"critical/other existing credit","no known savings",1,"real estate",34,"none",2,"yes",1
+"no checking",24,"critical/other existing credit","100<=X<500",3,"real estate",36,"none",2,"yes",1
+"no checking",18,"critical/other existing credit","<100",4,"life insurance",30,"none",1,"yes",1
+"no checking",15,"existing paid","500<=X<1000",4,"life insurance",36,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",2,"no known property",70,"bank",1,"yes",1
+"no checking",36,"existing paid","500<=X<1000",4,"life insurance",36,"none",1,"yes",1
+"no checking",18,"existing paid","500<=X<1000",1,"car",32,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"car",33,"none",1,"yes",2
+"0<=X<200",11,"existing paid",">=1000",4,"real estate",20,"none",1,"yes",1
+"no checking",24,"existing paid","<100",2,"life insurance",25,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","<100",4,"real estate",31,"none",1,"yes",2
+"<0",15,"no credits/all paid","<100",4,"car",33,"none",2,"yes",2
+"no checking",12,"existing paid","<100",4,"real estate",26,"none",1,"yes",1
+"0<=X<200",24,"delayed previously","<100",3,"life insurance",34,"none",1,"yes",2
+"0<=X<200",8,"existing paid","<100",4,"real estate",33,"none",1,"no",1
+"no checking",21,"delayed previously","<100",2,"life insurance",26,"none",1,"yes",2
+"no checking",30,"all paid","no known savings",4,"real estate",53,"none",1,"yes",2
+"<0",18,"existing paid","<100",2,"car",42,"none",1,"yes",1
+"<0",6,"critical/other existing credit","500<=X<1000",4,"car",52,"none",1,"yes",1
+"no checking",12,"existing paid","<100",4,"car",31,"none",2,"yes",1
+"<0",21,"critical/other existing credit","<100",4,"real estate",65,"none",1,"yes",1
+"no checking",36,"delayed previously","<100",1,"car",28,"none",1,"yes",2
+"0<=X<200",36,"delayed previously","<100",2,"real estate",30,"stores",1,"yes",2
+"<0",21,"all paid","no known savings",4,"life insurance",40,"none",2,"yes",2
+"no checking",24,"critical/other existing credit",">=1000",4,"real estate",50,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"car",36,"bank",2,"yes",2
+"no checking",15,"critical/other existing credit","<100",4,"life insurance",31,"none",1,"yes",1
+"0<=X<200",9,"all paid","<100",2,"no known property",74,"bank",2,"yes",2
+"0<=X<200",16,"critical/other existing credit","<100",2,"car",68,"none",1,"yes",1
+"<0",12,"existing paid","100<=X<500",4,"life insurance",20,"none",1,"yes",2
+"0<=X<200",18,"no credits/all paid","<100",1,"car",33,"none",1,"yes",1
+"no checking",24,"existing paid",">=1000",2,"life insurance",54,"none",1,"yes",2
+"0<=X<200",48,"no credits/all paid","100<=X<500",4,"no known property",34,"none",2,"yes",2
+"0<=X<200",27,"existing paid","<100",4,"car",36,"none",2,"yes",2
+"no checking",6,"existing paid","<100",2,"real estate",29,"none",1,"yes",1
+"0<=X<200",45,"existing paid","100<=X<500",4,"life insurance",21,"none",1,"yes",2
+"0<=X<200",9,"critical/other existing credit","<100",2,"car",34,"none",1,"yes",2
+"no checking",18,"critical/other existing credit","<100",1,"car",28,"none",1,"yes",1
+"0<=X<200",12,"existing paid","100<=X<500",4,"car",27,"bank",1,"yes",2
+"0<=X<200",24,"existing paid","no known savings",4,"no known property",36,"bank",1,"yes",1
+"0<=X<200",18,"delayed previously","<100",4,"no known property",40,"none",1,"yes",2
+"no checking",9,"critical/other existing credit","500<=X<1000",4,"car",52,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"real estate",27,"none",1,"yes",1
+"no checking",27,"delayed previously","<100",3,"car",26,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"life insurance",21,"none",1,"yes",2
+"no checking",12,"critical/other existing credit","<100",4,"real estate",38,"none",2,"yes",1
+"<0",18,"critical/other existing credit","<100",3,"no known property",38,"none",2,"yes",1
+"no checking",12,"critical/other existing credit","<100",4,"real estate",43,"none",1,"yes",1
+"0<=X<200",12,"critical/other existing credit","<100",4,"life insurance",26,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"car",21,"stores",1,"yes",1
+"no checking",12,"existing paid",">=1000",3,"life insurance",55,"none",1,"no",1
+"no checking",18,"critical/other existing credit","no known savings",1,"real estate",33,"none",2,"yes",1
+"no checking",36,"existing paid","no known savings",2,"real estate",45,"none",1,"yes",1
+"<0",27,"no credits/all paid","<100",2,"life insurance",50,"stores",1,"yes",2
+">=200",30,"delayed previously","<100",4,"real estate",66,"none",1,"yes",2
+"no checking",36,"critical/other existing credit","no known savings",4,"car",51,"none",1,"yes",1
+"0<=X<200",6,"critical/other existing credit","no known savings",1,"life insurance",39,"none",1,"yes",1
+"<0",18,"no credits/all paid","<100",3,"life insurance",31,"bank",1,"yes",1
+"no checking",36,"existing paid","<100",2,"real estate",23,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"real estate",24,"none",1,"yes",1
+"no checking",10,"existing paid","<100",2,"car",64,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"real estate",26,"bank",1,"yes",1
+"<0",12,"existing paid","no known savings",4,"life insurance",23,"bank",1,"yes",1
+"no checking",12,"existing paid","<100",4,"real estate",30,"bank",1,"yes",1
+"no checking",24,"delayed previously","no known savings",4,"real estate",32,"none",2,"yes",1
+"no checking",15,"existing paid","<100",3,"car",30,"none",1,"yes",1
+"no checking",36,"no credits/all paid","<100",4,"car",27,"none",1,"yes",1
+"0<=X<200",18,"existing paid",">=1000",1,"no known property",27,"bank",1,"yes",2
+"<0",12,"existing paid","<100",4,"no known property",53,"none",1,"yes",2
+"no checking",18,"existing paid","<100",4,"car",22,"none",1,"yes",2
+"<0",24,"existing paid","<100",4,"no known property",22,"bank",1,"yes",1
+">=200",36,"existing paid","<100",4,"car",26,"none",1,"yes",2
+"no checking",9,"existing paid","500<=X<1000",2,"no known property",51,"none",1,"yes",1
+"no checking",12,"existing paid","100<=X<500",3,"no known property",35,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",4,"real estate",25,"none",1,"yes",1
+"no checking",4,"critical/other existing credit","<100",2,"real estate",42,"none",2,"yes",1
+"<0",24,"existing paid","<100",4,"car",30,"stores",2,"yes",2
+"0<=X<200",6,"existing paid","no known savings",1,"life insurance",23,"none",1,"yes",2
+"0<=X<200",21,"existing paid","100<=X<500",4,"car",61,"bank",1,"yes",2
+"no checking",12,"critical/other existing credit","<100",4,"life insurance",35,"none",1,"yes",1
+"<0",18,"existing paid","<100",1,"life insurance",39,"none",2,"yes",1
+"<0",24,"existing paid","no known savings",4,"car",29,"bank",1,"yes",2
+"no checking",6,"existing paid","<100",3,"life insurance",51,"none",2,"yes",1
+"<0",48,"no credits/all paid","<100",3,"no known property",24,"none",2,"yes",2
+"no checking",12,"critical/other existing credit","<100",3,"real estate",27,"none",1,"yes",1
+"no checking",12,"all paid","500<=X<1000",4,"real estate",35,"none",2,"yes",1
+"no checking",24,"existing paid","<100",4,"real estate",25,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",4,"real estate",52,"none",1,"yes",1
+"no checking",6,"no credits/all paid","100<=X<500",4,"no known property",35,"bank",1,"no",1
+">=200",18,"existing paid","<100",2,"real estate",26,"none",1,"yes",1
+"no checking",18,"existing paid","<100",3,"real estate",22,"none",1,"yes",2
+"<0",6,"critical/other existing credit",">=1000",3,"real estate",39,"none",1,"yes",1
+">=200",18,"existing paid","<100",1,"car",46,"none",1,"yes",1
+"0<=X<200",30,"existing paid","<100",4,"no known property",24,"none",1,"yes",2
+"no checking",24,"delayed previously","100<=X<500",2,"life insurance",35,"none",1,"yes",1
+"0<=X<200",9,"existing paid","no known savings",2,"car",24,"none",1,"yes",1
+"0<=X<200",60,"delayed previously","no known savings",1,"real estate",27,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"real estate",35,"none",1,"yes",1
+"<0",12,"all paid","<100",4,"no known property",29,"none",1,"yes",2
+"no checking",15,"existing paid","100<=X<500",1,"car",23,"none",1,"yes",1
+"no checking",11,"critical/other existing credit","100<=X<500",4,"real estate",57,"none",1,"yes",1
+"<0",12,"existing paid","<100",2,"real estate",27,"none",1,"yes",1
+"<0",24,"existing paid","<100",4,"car",55,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",2,"no known property",36,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",2,"no known property",57,"bank",1,"yes",1
+"no checking",10,"critical/other existing credit","<100",3,"real estate",32,"none",2,"no",1
+"0<=X<200",15,"existing paid","<100",4,"car",37,"none",2,"yes",2
+"no checking",36,"critical/other existing credit","no known savings",4,"real estate",36,"none",1,"yes",1
+"no checking",18,"existing paid","<100",4,"car",38,"stores",1,"yes",1
+"<0",14,"existing paid","<100",1,"life insurance",45,"none",1,"no",2
+"no checking",24,"existing paid","no known savings",4,"car",25,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",4,"life insurance",32,"none",1,"no",1
+"no checking",18,"critical/other existing credit","500<=X<1000",3,"car",37,"none",1,"yes",1
+"0<=X<200",48,"all paid","no known savings",4,"no known property",36,"none",1,"yes",1
+"0<=X<200",48,"existing paid","<100",4,"real estate",28,"none",1,"yes",2
+"<0",30,"existing paid","<100",1,"no known property",34,"none",1,"yes",2
+"no checking",9,"existing paid","<100",1,"real estate",32,"none",2,"yes",1
+"no checking",18,"critical/other existing credit","<100",2,"car",26,"none",1,"yes",1
+"<0",12,"existing paid","no known savings",2,"life insurance",49,"none",1,"yes",1
+"no checking",6,"existing paid","<100",1,"life insurance",32,"none",1,"yes",2
+"no checking",24,"existing paid","100<=X<500",4,"car",29,"none",1,"yes",1
+"no checking",18,"critical/other existing credit",">=1000",3,"no known property",23,"none",1,"yes",1
+"no checking",12,"existing paid","<100",4,"real estate",50,"none",1,"yes",1
+">=200",18,"all paid","no known savings",4,"car",49,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","no known savings",4,"life insurance",63,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","100<=X<500",4,"car",37,"none",1,"yes",1
+"<0",18,"existing paid","<100",1,"real estate",35,"none",1,"yes",1
+"<0",48,"existing paid","<100",4,"life insurance",26,"none",2,"yes",1
+"no checking",48,"delayed previously","100<=X<500",2,"no known property",31,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"real estate",49,"none",1,"yes",1
+"<0",24,"delayed previously","<100",4,"real estate",48,"stores",1,"yes",2
+"no checking",18,"existing paid","<100",2,"real estate",26,"none",1,"no",1
+"0<=X<200",36,"existing paid","<100",1,"car",28,"none",1,"yes",2
+"<0",24,"critical/other existing credit","<100",2,"no known property",44,"none",2,"yes",1
+">=200",42,"critical/other existing credit","<100",4,"no known property",56,"none",1,"yes",1
+"no checking",48,"critical/other existing credit","no known savings",4,"car",46,"bank",2,"yes",1
+"0<=X<200",48,"existing paid","<100",1,"car",26,"none",1,"yes",2
+"no checking",12,"existing paid","no known savings",1,"car",20,"none",1,"yes",1
+"no checking",10,"existing paid","no known savings",4,"life insurance",45,"none",1,"no",1
+"no checking",18,"existing paid","<100",3,"real estate",43,"none",1,"yes",1
+"0<=X<200",21,"critical/other existing credit",">=1000",3,"car",32,"none",1,"yes",1
+"no checking",6,"existing paid","<100",1,"real estate",54,"none",1,"yes",1
+"0<=X<200",36,"no credits/all paid","<100",4,"car",42,"none",1,"yes",2
+">=200",24,"critical/other existing credit","no known savings",4,"real estate",37,"bank",2,"yes",2
+"<0",10,"critical/other existing credit","<100",4,"life insurance",49,"none",1,"yes",1
+"no checking",48,"critical/other existing credit","500<=X<1000",2,"no known property",44,"bank",1,"yes",2
+"no checking",6,"existing paid",">=1000",4,"real estate",33,"none",1,"yes",1
+"no checking",30,"existing paid","no known savings",2,"life insurance",24,"none",1,"yes",1
+"<0",12,"existing paid","100<=X<500",4,"no known property",33,"none",1,"yes",2
+"0<=X<200",8,"existing paid","<100",3,"real estate",24,"none",1,"yes",2
+"0<=X<200",9,"existing paid","<100",4,"real estate",22,"none",1,"yes",1
+"0<=X<200",48,"existing paid","no known savings",3,"no known property",40,"bank",1,"yes",1
+"no checking",24,"existing paid","100<=X<500",4,"car",25,"stores",1,"yes",1
+">=200",24,"existing paid","<100",2,"car",26,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",2,"car",25,"none",1,"yes",2
+">=200",4,"existing paid","no known savings",1,"real estate",29,"none",2,"no",1
+"<0",36,"all paid","<100",4,"car",31,"bank",1,"yes",2
+"<0",12,"existing paid","<100",2,"life insurance",38,"none",2,"yes",1
+"0<=X<200",24,"existing paid","no known savings",1,"life insurance",48,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",4,"car",32,"none",1,"yes",1
+"<0",15,"delayed previously","<100",1,"life insurance",27,"none",1,"yes",1
+"0<=X<200",30,"critical/other existing credit","<100",4,"car",28,"none",1,"yes",2
+"no checking",24,"existing paid","<100",4,"life insurance",32,"none",1,"yes",2
+"<0",24,"existing paid","<100",2,"no known property",34,"none",1,"yes",1
+"<0",18,"existing paid",">=1000",4,"car",28,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",4,"real estate",36,"none",1,"yes",1
+"<0",8,"critical/other existing credit","<100",1,"real estate",39,"none",1,"no",1
+"no checking",12,"critical/other existing credit","no known savings",2,"life insurance",49,"none",1,"yes",1
+"no checking",24,"existing paid",">=1000",4,"car",34,"none",2,"yes",1
+">=200",36,"existing paid","<100",4,"car",31,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",4,"car",28,"none",2,"yes",1
+"<0",24,"critical/other existing credit","<100",2,"no known property",75,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","100<=X<500",4,"real estate",30,"none",1,"yes",2
+"0<=X<200",60,"existing paid","100<=X<500",4,"life insurance",24,"none",1,"yes",2
+"no checking",48,"critical/other existing credit","100<=X<500",2,"car",24,"bank",1,"yes",2
+"<0",18,"no credits/all paid","<100",3,"no known property",23,"bank",2,"yes",2
+"<0",6,"critical/other existing credit","<100",1,"real estate",44,"none",1,"yes",2
+"0<=X<200",13,"existing paid","<100",2,"life insurance",23,"none",1,"yes",1
+"<0",15,"existing paid","no known savings",4,"car",24,"none",1,"yes",2
+"<0",18,"existing paid","<100",4,"life insurance",28,"none",1,"yes",1
+"no checking",10,"existing paid","<100",4,"car",31,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","<100",2,"no known property",24,"none",1,"yes",1
+"<0",21,"existing paid","<100",1,"car",26,"none",1,"yes",1
+"0<=X<200",18,"existing paid","500<=X<1000",1,"real estate",25,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",1,"real estate",33,"bank",1,"yes",1
+">=200",10,"existing paid","<100",1,"life insurance",37,"none",2,"yes",1
+"no checking",15,"critical/other existing credit","<100",4,"car",43,"none",1,"yes",1
+"0<=X<200",13,"critical/other existing credit","<100",4,"real estate",23,"none",1,"yes",1
+"0<=X<200",24,"existing paid","500<=X<1000",1,"no known property",23,"none",1,"yes",1
+"no checking",6,"delayed previously","100<=X<500",1,"real estate",34,"none",1,"yes",1
+"0<=X<200",9,"critical/other existing credit",">=1000",4,"no known property",32,"none",2,"yes",2
+"no checking",9,"existing paid","<100",1,"real estate",23,"none",1,"yes",1
+"0<=X<200",9,"existing paid","<100",1,"car",29,"none",1,"no",2
+"no checking",18,"critical/other existing credit","no known savings",2,"no known property",38,"none",1,"yes",1
+"<0",12,"no credits/all paid","<100",4,"life insurance",28,"none",1,"yes",2
+"no checking",10,"existing paid","500<=X<1000",4,"no known property",46,"none",1,"yes",1
+"0<=X<200",24,"existing paid","<100",4,"real estate",23,"stores",1,"yes",2
+"no checking",12,"critical/other existing credit","no known savings",1,"real estate",49,"none",1,"yes",1
+"no checking",36,"delayed previously","<100",4,"car",26,"none",1,"yes",2
+"no checking",12,"existing paid","<100",4,"real estate",28,"none",1,"yes",1
+"<0",30,"existing paid","<100",4,"real estate",23,"none",1,"yes",2
+"0<=X<200",18,"existing paid","no known savings",4,"no known property",61,"none",1,"yes",1
+">=200",12,"existing paid","no known savings",2,"car",37,"none",1,"yes",1
+">=200",12,"delayed previously","<100",2,"car",36,"stores",1,"yes",1
+"no checking",6,"existing paid","<100",1,"life insurance",21,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"car",25,"none",1,"yes",2
+"no checking",12,"existing paid","<100",2,"car",36,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",3,"car",27,"none",1,"yes",1
+"<0",18,"existing paid","<100",1,"car",22,"none",1,"yes",1
+"<0",36,"existing paid","<100",4,"car",42,"none",2,"yes",2
+"0<=X<200",18,"existing paid","<100",2,"real estate",40,"none",1,"yes",1
+"no checking",36,"existing paid","no known savings",4,"real estate",36,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",3,"car",33,"none",1,"yes",1
+"no checking",10,"critical/other existing credit","<100",1,"real estate",23,"none",1,"yes",1
+"no checking",60,"critical/other existing credit","no known savings",2,"no known property",63,"none",1,"yes",1
+"0<=X<200",60,"all paid","100<=X<500",3,"no known property",60,"bank",1,"yes",2
+"<0",48,"all paid","<100",2,"car",37,"none",1,"yes",2
+"no checking",18,"delayed previously","<100",2,"real estate",34,"none",1,"yes",1
+"no checking",7,"delayed previously","no known savings",3,"no known property",36,"none",1,"yes",1
+"0<=X<200",36,"existing paid","<100",4,"no known property",57,"none",1,"yes",2
+"no checking",6,"critical/other existing credit","100<=X<500",4,"car",52,"none",1,"yes",1
+"<0",20,"existing paid","no known savings",4,"car",39,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",3,"no known property",38,"none",1,"yes",2
+"no checking",22,"existing paid","no known savings",4,"life insurance",25,"none",1,"yes",1
+">=200",12,"existing paid","<100",4,"real estate",26,"none",1,"yes",1
+"no checking",30,"delayed previously","100<=X<500",2,"life insurance",26,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",2,"car",25,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",4,"real estate",21,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"life insurance",40,"none",1,"yes",1
+"0<=X<200",15,"critical/other existing credit","500<=X<1000",2,"car",27,"bank",1,"yes",1
+"no checking",9,"existing paid","<100",3,"car",27,"none",1,"yes",1
+"no checking",18,"existing paid","<100",2,"life insurance",30,"none",1,"yes",1
+"0<=X<200",12,"existing paid",">=1000",1,"real estate",19,"none",1,"yes",1
+"<0",36,"existing paid","<100",2,"no known property",39,"bank",2,"yes",1
+"<0",6,"critical/other existing credit","<100",1,"car",31,"none",1,"yes",1
+"no checking",9,"critical/other existing credit","<100",2,"car",31,"none",1,"yes",1
+"0<=X<200",39,"delayed previously","100<=X<500",2,"no known property",32,"none",1,"yes",1
+"<0",12,"existing paid","<100",3,"no known property",55,"none",1,"yes",1
+"<0",36,"critical/other existing credit","<100",3,"life insurance",46,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",1,"real estate",46,"none",1,"yes",2
+"no checking",24,"critical/other existing credit",">=1000",4,"real estate",43,"none",1,"yes",1
+"no checking",18,"existing paid","<100",3,"real estate",39,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","no known savings",4,"real estate",28,"bank",1,"yes",1
+"no checking",24,"delayed previously","<100",2,"car",27,"bank",1,"yes",2
+"no checking",14,"delayed previously","<100",4,"car",27,"none",1,"yes",1
+"0<=X<200",18,"delayed previously","no known savings",4,"car",43,"none",2,"yes",1
+"0<=X<200",24,"existing paid","<100",1,"life insurance",22,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","no known savings",4,"car",43,"none",2,"yes",1
+"<0",15,"existing paid","<100",4,"real estate",27,"none",1,"no",1
+"no checking",24,"existing paid","500<=X<1000",3,"car",26,"none",1,"yes",1
+">=200",12,"critical/other existing credit","500<=X<1000",4,"real estate",28,"none",1,"yes",2
+"0<=X<200",24,"existing paid","<100",4,"car",20,"none",1,"yes",1
+"no checking",33,"critical/other existing credit","<100",3,"car",35,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",4,"car",42,"stores",1,"yes",2
+"no checking",10,"existing paid","500<=X<1000",3,"no known property",40,"none",2,"no",1
+"<0",24,"existing paid","no known savings",4,"life insurance",35,"none",1,"yes",2
+"no checking",36,"critical/other existing credit","<100",2,"life insurance",35,"none",2,"yes",1
+"<0",12,"existing paid","<100",4,"real estate",33,"none",2,"yes",2
+"<0",18,"delayed previously","no known savings",1,"car",23,"none",1,"yes",1
+"no checking",21,"existing paid","500<=X<1000",1,"car",31,"bank",1,"yes",1
+"0<=X<200",18,"existing paid","no known savings",4,"life insurance",33,"none",1,"yes",2
+"no checking",15,"existing paid",">=1000",2,"car",20,"none",1,"yes",1
+"0<=X<200",12,"existing paid","no known savings",4,"car",30,"none",1,"yes",1
+"0<=X<200",12,"critical/other existing credit","<100",2,"real estate",47,"none",2,"yes",1
+"no checking",21,"delayed previously","100<=X<500",4,"real estate",34,"none",1,"yes",1
+"0<=X<200",12,"existing paid","no known savings",1,"life insurance",25,"bank",1,"yes",2
+"0<=X<200",18,"existing paid","<100",1,"car",21,"none",1,"yes",1
+"no checking",28,"critical/other existing credit","<100",4,"car",29,"none",1,"yes",1
+"no checking",18,"critical/other existing credit",">=1000",4,"real estate",46,"none",1,"yes",1
+"no checking",9,"existing paid","<100",1,"car",20,"none",1,"yes",1
+"<0",18,"critical/other existing credit","<100",2,"no known property",55,"none",2,"yes",2
+"no checking",5,"existing paid","<100",1,"real estate",74,"none",1,"yes",1
+"0<=X<200",24,"existing paid","<100",2,"car",29,"none",1,"yes",2
+"<0",6,"critical/other existing credit","<100",4,"no known property",36,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"real estate",33,"none",1,"yes",1
+"<0",9,"existing paid","<100",3,"real estate",25,"none",1,"yes",1
+"0<=X<200",12,"existing paid","no known savings",2,"real estate",25,"none",1,"yes",2
+"no checking",6,"existing paid","500<=X<1000",2,"real estate",23,"none",1,"yes",1
+"no checking",24,"critical/other existing credit",">=1000",4,"real estate",37,"none",1,"yes",1
+"<0",42,"critical/other existing credit","<100",4,"car",65,"none",1,"yes",1
+">=200",12,"all paid","<100",4,"real estate",26,"none",1,"yes",2
+"no checking",12,"existing paid","<100",4,"car",39,"none",1,"yes",1
+"<0",18,"existing paid","<100",2,"life insurance",30,"none",1,"yes",1
+"0<=X<200",20,"delayed previously","<100",2,"car",29,"bank",1,"yes",1
+"no checking",12,"existing paid","<100",4,"car",41,"none",2,"yes",2
+"no checking",48,"critical/other existing credit","<100",2,"car",30,"none",1,"yes",2
+"no checking",9,"critical/other existing credit","no known savings",4,"life insurance",41,"none",1,"yes",1
+"<0",36,"existing paid","<100",4,"car",34,"none",1,"yes",2
+"0<=X<200",7,"existing paid","<100",2,"real estate",35,"none",1,"yes",1
+">=200",12,"existing paid","no known savings",3,"real estate",55,"none",1,"yes",1
+"0<=X<200",15,"delayed previously",">=1000",3,"life insurance",61,"stores",1,"yes",2
+"no checking",36,"critical/other existing credit","no known savings",4,"car",30,"none",1,"yes",1
+"no checking",6,"existing paid","<100",3,"real estate",29,"none",1,"yes",1
+"no checking",12,"no credits/all paid","<100",2,"life insurance",34,"none",1,"yes",1
+"no checking",24,"existing paid","<100",4,"car",35,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"life insurance",31,"none",1,"yes",2
+"no checking",24,"existing paid","<100",4,"no known property",29,"none",1,"yes",1
+"<0",11,"critical/other existing credit","<100",2,"real estate",36,"none",2,"yes",1
+"<0",12,"existing paid","<100",3,"no known property",35,"none",1,"yes",2
+"<0",6,"existing paid","<100",4,"real estate",27,"none",1,"yes",1
+"no checking",18,"existing paid","<100",3,"car",32,"none",1,"yes",1
+"<0",36,"existing paid","<100",1,"life insurance",37,"none",2,"yes",1
+"<0",15,"existing paid","<100",2,"real estate",36,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",3,"real estate",34,"none",1,"yes",1
+"0<=X<200",18,"existing paid","no known savings",4,"life insurance",38,"none",1,"yes",1
+"no checking",18,"existing paid","<100",4,"car",34,"stores",1,"yes",1
+"<0",24,"existing paid","<100",3,"no known property",63,"bank",2,"yes",1
+"<0",24,"delayed previously","<100",4,"car",29,"none",1,"yes",2
+"no checking",48,"delayed previously","no known savings",3,"car",32,"bank",2,"yes",1
+"no checking",18,"delayed previously","<100",2,"car",26,"none",1,"yes",1
+"no checking",24,"delayed previously","<100",3,"car",35,"none",1,"yes",1
+"0<=X<200",18,"existing paid","100<=X<500",3,"car",22,"none",1,"yes",2
+"<0",6,"existing paid","<100",4,"life insurance",23,"none",1,"yes",2
+"no checking",9,"existing paid","<100",4,"car",28,"none",1,"yes",2
+"no checking",6,"existing paid","no known savings",4,"life insurance",36,"none",2,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",4,"car",33,"none",1,"yes",2
+"<0",18,"no credits/all paid","<100",1,"life insurance",26,"none",1,"yes",2
+"no checking",39,"existing paid","500<=X<1000",4,"car",24,"none",1,"yes",1
+">=200",24,"existing paid","<100",4,"car",25,"bank",1,"yes",1
+"0<=X<200",12,"existing paid","100<=X<500",3,"real estate",39,"none",1,"yes",1
+"<0",15,"critical/other existing credit","<100",4,"car",44,"none",2,"yes",1
+"0<=X<200",12,"critical/other existing credit","<100",1,"real estate",23,"none",1,"yes",1
+"0<=X<200",24,"existing paid","<100",4,"life insurance",26,"none",1,"yes",1
+"<0",30,"existing paid",">=1000",4,"life insurance",57,"none",1,"yes",1
+"no checking",15,"delayed previously",">=1000",3,"life insurance",30,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","500<=X<1000",4,"real estate",44,"none",1,"yes",1
+"0<=X<200",6,"delayed previously","<100",4,"life insurance",47,"none",1,"yes",2
+"no checking",12,"existing paid","<100",2,"car",52,"none",1,"yes",1
+"no checking",24,"existing paid","<100",4,"no known property",62,"none",1,"yes",1
+"no checking",10,"existing paid","100<=X<500",3,"real estate",35,"none",1,"no",1
+"no checking",6,"existing paid","<100",2,"life insurance",26,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",2,"no known property",26,"none",1,"yes",1
+"0<=X<200",27,"no credits/all paid","<100",2,"no known property",42,"none",1,"yes",2
+"no checking",6,"critical/other existing credit","100<=X<500",1,"life insurance",27,"none",1,"yes",1
+"0<=X<200",6,"existing paid","no known savings",4,"life insurance",38,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",3,"real estate",39,"none",2,"no",1
+"<0",24,"existing paid","no known savings",2,"car",20,"none",1,"yes",2
+"0<=X<200",36,"existing paid","100<=X<500",4,"no known property",29,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","<100",4,"life insurance",40,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",4,"real estate",32,"none",1,"yes",1
+">=200",6,"critical/other existing credit","100<=X<500",2,"car",28,"none",2,"yes",1
+"<0",24,"existing paid","<100",4,"life insurance",27,"none",1,"yes",2
+"<0",36,"existing paid","<100",2,"no known property",42,"none",2,"yes",1
+">=200",18,"existing paid","100<=X<500",2,"real estate",49,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","100<=X<500",4,"no known property",38,"bank",2,"yes",2
+"<0",24,"existing paid","<100",4,"life insurance",24,"none",1,"yes",2
+"no checking",10,"existing paid","no known savings",4,"life insurance",27,"none",1,"yes",2
+">=200",15,"critical/other existing credit","500<=X<1000",2,"car",36,"none",1,"yes",1
+"0<=X<200",15,"all paid","100<=X<500",1,"life insurance",34,"none",2,"yes",2
+"no checking",24,"existing paid","<100",4,"life insurance",28,"none",1,"yes",1
+"no checking",39,"existing paid","100<=X<500",4,"car",45,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"real estate",26,"none",1,"yes",2
+"no checking",36,"existing paid","<100",2,"no known property",32,"none",1,"yes",1
+">=200",15,"existing paid","<100",2,"life insurance",26,"none",1,"yes",1
+"no checking",12,"delayed previously","<100",4,"real estate",20,"none",1,"yes",1
+"no checking",24,"existing paid","no known savings",4,"life insurance",54,"none",1,"yes",1
+"<0",18,"critical/other existing credit","<100",4,"life insurance",37,"none",1,"no",1
+"no checking",6,"critical/other existing credit","<100",2,"real estate",40,"none",2,"no",1
+"no checking",36,"critical/other existing credit","<100",2,"life insurance",23,"none",1,"yes",2
+"<0",6,"existing paid","100<=X<500",3,"life insurance",43,"none",1,"yes",1
+"no checking",6,"critical/other existing credit","no known savings",4,"no known property",36,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",3,"no known property",44,"none",1,"yes",1
+"<0",18,"existing paid","<100",2,"real estate",24,"none",1,"yes",2
+"<0",48,"no credits/all paid","<100",3,"no known property",53,"none",2,"yes",2
+"no checking",24,"existing paid","100<=X<500",3,"car",23,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",4,"real estate",26,"none",2,"yes",1
+"0<=X<200",26,"existing paid","<100",2,"car",30,"none",1,"yes",1
+"no checking",15,"critical/other existing credit","100<=X<500",4,"car",31,"none",1,"yes",1
+"no checking",4,"critical/other existing credit","<100",2,"real estate",42,"none",2,"yes",1
+"<0",36,"existing paid","<100",4,"car",31,"none",1,"yes",2
+"no checking",6,"existing paid","<100",3,"real estate",41,"none",2,"yes",1
+"0<=X<200",36,"existing paid","<100",3,"car",32,"none",2,"yes",1
+"0<=X<200",15,"existing paid","100<=X<500",2,"car",28,"none",1,"yes",2
+"no checking",12,"delayed previously","<100",4,"real estate",41,"none",1,"yes",1
+"no checking",18,"existing paid","100<=X<500",4,"life insurance",26,"none",1,"yes",1
+"no checking",24,"existing paid","no known savings",4,"car",25,"none",1,"yes",1
+">=200",21,"critical/other existing credit","<100",2,"car",33,"none",1,"yes",2
+"<0",18,"existing paid","no known savings",4,"life insurance",75,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",3,"life insurance",37,"none",1,"yes",1
+"<0",48,"existing paid","<100",4,"no known property",42,"bank",1,"yes",2
+">=200",18,"existing paid","<100",1,"life insurance",45,"stores",1,"yes",1
+"0<=X<200",12,"existing paid","<100",1,"real estate",23,"none",1,"yes",2
+"no checking",18,"delayed previously","<100",4,"no known property",60,"none",1,"yes",1
+"<0",30,"existing paid","no known savings",4,"life insurance",31,"none",1,"yes",2
+"no checking",18,"existing paid","<100",2,"real estate",34,"none",2,"yes",2
+"no checking",12,"critical/other existing credit","<100",4,"real estate",61,"none",1,"yes",1
+"<0",24,"delayed previously","<100",4,"real estate",43,"none",2,"yes",2
+"no checking",24,"critical/other existing credit","<100",4,"car",37,"none",1,"yes",1
+"no checking",24,"existing paid","<100",3,"car",32,"none",2,"yes",1
+"<0",12,"all paid","<100",4,"real estate",24,"bank",1,"yes",2
+"no checking",18,"critical/other existing credit","no known savings",2,"no known property",35,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",4,"real estate",23,"none",1,"yes",1
+"no checking",6,"all paid","500<=X<1000",2,"life insurance",45,"bank",2,"yes",1
+"<0",48,"existing paid","<100",1,"real estate",34,"none",1,"yes",2
+"0<=X<200",12,"critical/other existing credit","100<=X<500",4,"car",27,"none",1,"yes",1
+"0<=X<200",9,"existing paid","<100",4,"life insurance",67,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",2,"car",22,"stores",1,"yes",2
+"0<=X<200",18,"no credits/all paid","100<=X<500",3,"car",28,"none",1,"yes",2
+"no checking",21,"no credits/all paid","no known savings",1,"life insurance",29,"bank",1,"yes",2
+"<0",24,"all paid","<100",3,"car",27,"bank",1,"yes",2
+"0<=X<200",18,"critical/other existing credit","<100",2,"real estate",31,"none",1,"yes",2
+"<0",24,"existing paid","no known savings",4,"no known property",49,"bank",2,"yes",1
+"<0",24,"all paid","<100",4,"car",24,"bank",1,"yes",2
+">=200",6,"delayed previously","<100",2,"life insurance",29,"bank",1,"yes",1
+"0<=X<200",36,"existing paid","no known savings",1,"no known property",37,"none",1,"yes",2
+"0<=X<200",24,"delayed previously","no known savings",4,"life insurance",37,"bank",1,"yes",1
+"0<=X<200",24,"delayed previously","100<=X<500",3,"life insurance",23,"none",1,"yes",1
+"<0",12,"existing paid","<100",2,"car",36,"none",1,"yes",2
+"no checking",24,"critical/other existing credit",">=1000",2,"car",34,"none",1,"yes",1
+"0<=X<200",48,"existing paid","no known savings",4,"car",41,"none",2,"yes",1
+"<0",48,"existing paid","<100",3,"car",31,"none",1,"yes",2
+"<0",18,"existing paid","<100",4,"real estate",23,"none",1,"yes",2
+"no checking",30,"critical/other existing credit","<100",3,"car",38,"none",1,"yes",1
+"no checking",24,"existing paid","no known savings",2,"life insurance",26,"none",1,"yes",1
+"<0",15,"existing paid","<100",4,"life insurance",22,"none",1,"yes",1
+"0<=X<200",9,"existing paid","<100",4,"car",27,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",2,"car",24,"bank",1,"yes",1
+"0<=X<200",12,"existing paid","<100",2,"real estate",27,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","no known savings",3,"car",33,"none",1,"yes",1
+"0<=X<200",36,"critical/other existing credit","<100",4,"car",27,"none",1,"yes",2
+"no checking",24,"existing paid","<100",4,"car",27,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",3,"real estate",30,"bank",1,"yes",2
+"0<=X<200",12,"critical/other existing credit","<100",1,"real estate",49,"bank",2,"yes",1
+"no checking",9,"existing paid","<100",4,"real estate",26,"none",1,"yes",1
+"0<=X<200",36,"existing paid","<100",4,"no known property",33,"none",1,"yes",2
+"no checking",12,"existing paid","no known savings",4,"no known property",52,"none",1,"yes",1
+"<0",18,"existing paid","<100",1,"real estate",20,"bank",1,"yes",2
+"no checking",9,"critical/other existing credit","<100",2,"real estate",36,"none",2,"yes",1
+"<0",12,"existing paid","<100",4,"life insurance",21,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"real estate",47,"none",1,"yes",2
+"<0",18,"critical/other existing credit","<100",3,"life insurance",60,"none",1,"yes",2
+"<0",12,"critical/other existing credit","<100",4,"real estate",58,"none",1,"yes",1
+"0<=X<200",24,"delayed previously","no known savings",4,"car",42,"none",1,"yes",1
+"no checking",21,"existing paid",">=1000",4,"real estate",36,"bank",1,"yes",1
+"0<=X<200",24,"existing paid","<100",3,"life insurance",20,"none",1,"yes",2
+"<0",24,"all paid","no known savings",4,"car",40,"stores",1,"yes",2
+"0<=X<200",6,"all paid","100<=X<500",1,"life insurance",32,"stores",1,"yes",2
+"<0",24,"existing paid","<100",4,"car",23,"none",1,"yes",2
+"0<=X<200",24,"no credits/all paid","<100",1,"real estate",36,"none",1,"yes",2
+"no checking",18,"critical/other existing credit","<100",2,"life insurance",31,"bank",1,"yes",2
+"no checking",24,"delayed previously","<100",1,"no known property",32,"none",1,"yes",1
+"0<=X<200",7,"existing paid","<100",1,"real estate",45,"none",1,"yes",1
+"no checking",18,"existing paid","<100",4,"life insurance",30,"none",1,"yes",2
+"0<=X<200",24,"all paid","<100",4,"no known property",34,"bank",1,"yes",2
+"no checking",36,"existing paid","<100",4,"car",28,"none",1,"yes",2
+">=200",10,"existing paid","<100",4,"life insurance",23,"none",1,"yes",1
+"<0",18,"all paid","500<=X<1000",4,"real estate",22,"stores",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",3,"real estate",74,"none",1,"yes",1
+"0<=X<200",36,"existing paid","100<=X<500",4,"no known property",50,"none",1,"yes",2
+"no checking",18,"existing paid","<100",4,"real estate",33,"none",1,"yes",1
+"no checking",15,"existing paid","no known savings",4,"no known property",45,"bank",2,"yes",1
+"<0",12,"existing paid","100<=X<500",4,"life insurance",22,"none",1,"yes",2
+">=200",10,"existing paid","100<=X<500",1,"no known property",48,"none",2,"yes",2
+"<0",21,"existing paid",">=1000",4,"car",29,"none",1,"yes",1
+"<0",24,"all paid","<100",1,"car",22,"bank",1,"no",1
+"no checking",18,"delayed previously","<100",4,"real estate",22,"none",1,"yes",2
+"0<=X<200",48,"no credits/all paid","no known savings",2,"car",48,"bank",1,"yes",1
+"no checking",60,"delayed previously","no known savings",2,"no known property",27,"none",1,"yes",1
+"no checking",6,"critical/other existing credit","<100",1,"real estate",37,"none",2,"yes",1
+"0<=X<200",30,"existing paid","100<=X<500",2,"car",21,"none",1,"yes",2
+"no checking",12,"existing paid","<100",4,"real estate",49,"none",1,"yes",1
+"0<=X<200",21,"critical/other existing credit","<100",2,"life insurance",27,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",3,"life insurance",32,"bank",1,"yes",2
+"no checking",48,"existing paid","no known savings",4,"real estate",38,"bank",1,"yes",2
+"no checking",12,"existing paid","<100",4,"car",22,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"no known property",65,"none",1,"yes",2
+"no checking",15,"existing paid","no known savings",4,"car",35,"none",1,"yes",1
+">=200",6,"existing paid","<100",2,"real estate",41,"none",1,"yes",1
+"0<=X<200",9,"all paid","100<=X<500",2,"no known property",29,"none",1,"yes",2
+"no checking",42,"critical/other existing credit","500<=X<1000",4,"real estate",36,"none",1,"yes",1
+"no checking",9,"existing paid","no known savings",1,"real estate",64,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"car",28,"none",1,"yes",1
+"<0",18,"all paid","<100",4,"car",44,"bank",1,"yes",2
+"0<=X<200",15,"existing paid","no known savings",4,"life insurance",23,"none",1,"yes",1
+"no checking",9,"existing paid","<100",2,"car",19,"none",1,"yes",2
+"0<=X<200",24,"existing paid","<100",3,"car",25,"none",1,"yes",2
+"no checking",12,"existing paid","<100",4,"life insurance",47,"bank",2,"yes",1
+"no checking",24,"existing paid","500<=X<1000",4,"car",28,"none",1,"yes",1
+"no checking",60,"delayed previously","<100",2,"car",21,"none",1,"yes",1
+"no checking",12,"existing paid","<100",4,"car",34,"none",2,"yes",1
+"<0",42,"delayed previously","<100",3,"life insurance",26,"bank",2,"yes",2
+"<0",18,"existing paid","<100",4,"real estate",27,"none",1,"yes",2
+"0<=X<200",15,"existing paid","<100",4,"car",38,"none",1,"yes",1
+"no checking",15,"existing paid","100<=X<500",3,"life insurance",40,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","<100",4,"car",33,"none",1,"yes",1
+"<0",18,"critical/other existing credit","<100",4,"life insurance",32,"none",1,"yes",1
+"no checking",36,"delayed previously","no known savings",4,"car",27,"none",1,"yes",2
+"no checking",30,"no credits/all paid","<100",2,"real estate",32,"none",1,"yes",1
+"no checking",12,"existing paid","500<=X<1000",2,"life insurance",26,"none",1,"yes",2
+">=200",24,"existing paid","<100",4,"no known property",38,"bank",2,"yes",2
+"<0",12,"existing paid","<100",4,"car",40,"none",2,"yes",2
+"<0",48,"existing paid","<100",4,"no known property",50,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"life insurance",37,"none",1,"yes",2
+"<0",24,"existing paid","<100",4,"real estate",45,"none",1,"yes",2
+"0<=X<200",18,"delayed previously","100<=X<500",2,"car",42,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","<100",4,"car",35,"none",1,"yes",1
+"<0",14,"existing paid","<100",1,"no known property",22,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"car",41,"bank",2,"yes",2
+"no checking",48,"existing paid","no known savings",4,"car",37,"stores",1,"yes",1
+"no checking",30,"no credits/all paid","<100",2,"car",28,"none",1,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",2,"no known property",41,"none",1,"yes",1
+">=200",12,"existing paid","<100",3,"real estate",23,"none",1,"yes",1
+"<0",12,"existing paid","no known savings",4,"car",23,"none",1,"yes",2
+"no checking",21,"existing paid","<100",4,"real estate",50,"none",1,"yes",1
+"0<=X<200",6,"delayed previously","<100",4,"life insurance",35,"stores",1,"yes",1
+">=200",6,"critical/other existing credit","<100",2,"life insurance",50,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"no known property",27,"bank",1,"yes",1
+"0<=X<200",18,"all paid",">=1000",4,"car",34,"stores",2,"yes",1
+"no checking",48,"all paid","<100",1,"real estate",27,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",3,"life insurance",43,"none",1,"yes",2
+">=200",30,"critical/other existing credit","<100",4,"life insurance",47,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","100<=X<500",3,"life insurance",27,"none",1,"yes",1
+"no checking",36,"existing paid","100<=X<500",2,"car",31,"none",1,"yes",1
+"no checking",60,"existing paid","<100",2,"life insurance",42,"none",1,"yes",1
+"no checking",6,"critical/other existing credit","500<=X<1000",1,"car",24,"none",1,"yes",1
+"no checking",21,"delayed previously","500<=X<1000",4,"real estate",41,"bank",2,"yes",2
+"no checking",30,"critical/other existing credit","<100",4,"car",26,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"car",33,"none",1,"yes",1
+"0<=X<200",18,"existing paid","100<=X<500",2,"car",24,"none",1,"yes",2
+"<0",24,"existing paid","<100",4,"real estate",64,"bank",1,"yes",1
+"no checking",18,"existing paid","<100",3,"real estate",26,"none",1,"yes",1
+"no checking",6,"existing paid","<100",1,"no known property",56,"none",1,"yes",1
+"no checking",12,"existing paid","no known savings",4,"no known property",37,"none",1,"yes",1
+"no checking",18,"delayed previously","<100",4,"real estate",33,"bank",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",3,"no known property",47,"none",1,"yes",1
+"0<=X<200",36,"delayed previously","100<=X<500",1,"life insurance",31,"none",2,"yes",1
+"no checking",60,"existing paid","no known savings",4,"no known property",34,"none",2,"yes",1
+">=200",18,"critical/other existing credit","no known savings",4,"life insurance",27,"none",1,"yes",1
+"0<=X<200",36,"delayed previously","100<=X<500",4,"no known property",30,"none",1,"yes",1
+"no checking",9,"existing paid","100<=X<500",3,"car",35,"none",1,"yes",1
+"<0",12,"existing paid",">=1000",1,"life insurance",31,"none",2,"yes",1
+"<0",18,"critical/other existing credit","<100",2,"life insurance",25,"none",1,"yes",1
+"0<=X<200",15,"existing paid","100<=X<500",3,"real estate",25,"none",1,"yes",1
+"0<=X<200",24,"existing paid","100<=X<500",2,"car",29,"none",1,"yes",1
+"<0",6,"critical/other existing credit","no known savings",1,"real estate",44,"none",2,"yes",1
+"no checking",24,"existing paid","<100",4,"car",28,"none",1,"yes",1
+"no checking",6,"existing paid","500<=X<1000",2,"life insurance",50,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",4,"real estate",29,"none",1,"no",1
+"no checking",12,"critical/other existing credit","<100",1,"life insurance",38,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",4,"car",24,"none",1,"yes",1
+"no checking",15,"existing paid","<100",4,"car",40,"none",1,"yes",1
+"no checking",12,"existing paid","500<=X<1000",4,"car",29,"none",1,"yes",2
+"<0",18,"critical/other existing credit","<100",4,"no known property",46,"none",1,"yes",2
+">=200",24,"existing paid","100<=X<500",4,"no known property",47,"none",1,"yes",1
+"0<=X<200",30,"delayed previously","100<=X<500",4,"life insurance",41,"stores",1,"yes",1
+"0<=X<200",27,"existing paid","<100",4,"life insurance",32,"none",2,"yes",1
+"no checking",15,"existing paid","500<=X<1000",1,"no known property",35,"none",1,"yes",1
+"0<=X<200",48,"existing paid","100<=X<500",3,"life insurance",24,"none",1,"yes",2
+"0<=X<200",18,"no credits/all paid","<100",4,"life insurance",25,"none",1,"yes",2
+"0<=X<200",18,"existing paid","<100",4,"real estate",25,"none",1,"yes",1
+"0<=X<200",9,"existing paid","<100",2,"real estate",37,"none",2,"yes",1
+"no checking",18,"critical/other existing credit","500<=X<1000",4,"life insurance",32,"none",1,"yes",1
+"<0",6,"all paid","<100",4,"no known property",35,"none",1,"yes",2
+"no checking",21,"existing paid","no known savings",4,"real estate",46,"none",1,"yes",1
+"<0",9,"critical/other existing credit","<100",4,"real estate",25,"none",1,"yes",1
+"0<=X<200",60,"existing paid","<100",4,"no known property",27,"none",1,"yes",2
+"no checking",30,"critical/other existing credit","no known savings",1,"car",63,"none",1,"yes",1
+"no checking",30,"critical/other existing credit","no known savings",3,"car",40,"none",2,"yes",1
+"no checking",18,"existing paid","<100",4,"no known property",32,"none",1,"yes",1
+">=200",24,"critical/other existing credit","no known savings",3,"car",31,"none",1,"yes",1
+"0<=X<200",20,"no credits/all paid","100<=X<500",3,"car",31,"bank",1,"yes",1
+">=200",9,"no credits/all paid","<100",4,"car",34,"none",1,"yes",2
+"0<=X<200",6,"all paid",">=1000",4,"life insurance",24,"bank",2,"yes",2
+"<0",12,"existing paid","<100",4,"real estate",24,"none",1,"yes",2
+"0<=X<200",9,"existing paid","500<=X<1000",4,"real estate",66,"none",1,"yes",1
+"no checking",27,"existing paid","<100",3,"real estate",21,"none",1,"yes",2
+"no checking",6,"critical/other existing credit",">=1000",2,"real estate",41,"bank",1,"yes",1
+"no checking",15,"critical/other existing credit","500<=X<1000",2,"life insurance",47,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"car",25,"bank",1,"yes",2
+"0<=X<200",48,"all paid","<100",4,"no known property",59,"none",1,"yes",2
+">=200",24,"critical/other existing credit",">=1000",2,"real estate",36,"none",1,"yes",1
+"0<=X<200",24,"delayed previously","<100",1,"car",33,"none",1,"yes",1
+"<0",24,"existing paid","<100",2,"real estate",21,"none",2,"yes",2
+"0<=X<200",8,"existing paid","<100",4,"real estate",44,"none",1,"yes",1
+"no checking",24,"existing paid",">=1000",2,"car",28,"none",1,"yes",1
+"no checking",4,"critical/other existing credit","<100",1,"real estate",37,"none",2,"yes",1
+"0<=X<200",36,"all paid","no known savings",3,"no known property",29,"none",1,"yes",1
+"0<=X<200",24,"existing paid","<100",1,"car",23,"none",1,"yes",2
+"<0",18,"existing paid","100<=X<500",3,"car",35,"none",2,"yes",1
+"no checking",6,"critical/other existing credit","<100",1,"no known property",45,"none",2,"yes",1
+"0<=X<200",30,"no credits/all paid","100<=X<500",4,"car",26,"none",1,"yes",2
+"<0",24,"all paid","100<=X<500",2,"car",32,"none",1,"yes",1
+"0<=X<200",10,"all paid","<100",4,"real estate",23,"stores",1,"yes",1
+"no checking",21,"existing paid","no known savings",4,"life insurance",41,"none",1,"yes",1
+"<0",24,"all paid","500<=X<1000",4,"real estate",22,"stores",1,"yes",1
+"<0",39,"critical/other existing credit","no known savings",4,"life insurance",30,"none",1,"yes",1
+"<0",13,"critical/other existing credit","<100",3,"life insurance",28,"bank",1,"yes",1
+"no checking",15,"existing paid","<100",1,"car",23,"none",1,"yes",1
+"<0",12,"existing paid","<100",3,"real estate",37,"none",1,"yes",2
+"no checking",18,"existing paid","no known savings",1,"car",26,"none",1,"yes",1
+"no checking",15,"existing paid","<100",2,"car",33,"none",1,"yes",1
+"<0",6,"existing paid","<100",2,"life insurance",49,"bank",1,"yes",1
+"<0",18,"existing paid","<100",1,"car",23,"none",1,"yes",2
+"0<=X<200",12,"existing paid","100<=X<500",2,"real estate",23,"none",1,"yes",1
+"no checking",30,"critical/other existing credit","<100",4,"car",25,"none",1,"yes",1
+"no checking",12,"delayed previously",">=1000",4,"no known property",55,"none",2,"yes",2
+"<0",24,"existing paid","no known savings",4,"no known property",32,"none",1,"yes",2
+">=200",6,"critical/other existing credit","<100",1,"real estate",74,"none",2,"no",1
+">=200",15,"critical/other existing credit","no known savings",3,"no known property",39,"none",1,"yes",2
+"no checking",24,"existing paid","<100",2,"real estate",31,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",4,"life insurance",35,"none",1,"yes",2
+"no checking",15,"critical/other existing credit","no known savings",1,"car",59,"none",1,"yes",1
+"<0",18,"critical/other existing credit","<100",4,"real estate",24,"none",1,"yes",2
+"<0",12,"existing paid","<100",4,"life insurance",24,"none",1,"yes",1
+"no checking",21,"critical/other existing credit","no known savings",4,"no known property",30,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","100<=X<500",4,"life insurance",27,"none",1,"yes",1
+"0<=X<200",12,"existing paid","<100",3,"real estate",40,"bank",1,"yes",1
+"<0",30,"existing paid","<100",2,"life insurance",31,"none",1,"yes",2
+"no checking",18,"existing paid","no known savings",1,"real estate",31,"none",1,"yes",1
+"0<=X<200",12,"critical/other existing credit","<100",1,"car",28,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",2,"real estate",63,"none",1,"yes",1
+"no checking",24,"existing paid","no known savings",2,"real estate",26,"none",1,"yes",1
+"<0",36,"critical/other existing credit","<100",3,"no known property",25,"none",1,"yes",2
+"no checking",21,"critical/other existing credit","<100",1,"car",36,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","100<=X<500",4,"life insurance",52,"bank",1,"yes",1
+">=200",12,"critical/other existing credit","500<=X<1000",2,"no known property",66,"bank",1,"yes",1
+"<0",24,"existing paid","no known savings",4,"real estate",25,"none",1,"yes",2
+"no checking",36,"critical/other existing credit","<100",4,"car",37,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"real estate",25,"none",1,"yes",1
+"no checking",36,"critical/other existing credit",">=1000",4,"car",38,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",2,"car",67,"none",1,"yes",1
+"0<=X<200",39,"critical/other existing credit","<100",2,"real estate",25,"none",1,"yes",2
+"no checking",24,"critical/other existing credit",">=1000",4,"real estate",60,"none",1,"yes",1
+"0<=X<200",18,"no credits/all paid","<100",2,"real estate",31,"none",1,"yes",1
+"no checking",12,"existing paid","100<=X<500",4,"life insurance",23,"bank",1,"yes",2
+"0<=X<200",20,"existing paid","no known savings",1,"real estate",60,"none",1,"yes",1
+"0<=X<200",18,"existing paid",">=1000",4,"life insurance",35,"none",1,"yes",1
+"no checking",22,"existing paid","500<=X<1000",3,"car",40,"none",1,"yes",1
+"no checking",48,"critical/other existing credit","no known savings",4,"car",38,"none",2,"yes",1
+"0<=X<200",48,"delayed previously","<100",4,"no known property",50,"none",1,"yes",2
+"<0",40,"critical/other existing credit","<100",4,"no known property",27,"bank",1,"yes",2
+"0<=X<200",21,"existing paid","<100",2,"life insurance",39,"none",2,"yes",2
+"no checking",24,"existing paid","no known savings",3,"car",41,"none",2,"yes",1
+"no checking",6,"critical/other existing credit","no known savings",1,"life insurance",27,"none",1,"yes",1
+"no checking",24,"existing paid","<100",3,"no known property",51,"none",1,"yes",1
+"no checking",24,"existing paid","500<=X<1000",4,"no known property",32,"none",1,"yes",1
+"no checking",9,"existing paid","100<=X<500",2,"life insurance",22,"none",1,"yes",1
+"<0",18,"existing paid","no known savings",1,"life insurance",51,"none",2,"yes",2
+"no checking",18,"critical/other existing credit","<100",2,"life insurance",22,"none",1,"yes",1
+"no checking",24,"delayed previously","no known savings",4,"car",54,"none",1,"yes",1
+"0<=X<200",9,"existing paid","no known savings",4,"real estate",35,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"no known property",54,"none",2,"yes",1
+"0<=X<200",18,"critical/other existing credit","<100",3,"real estate",48,"bank",1,"yes",1
+"<0",20,"critical/other existing credit","<100",1,"life insurance",24,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",4,"car",35,"none",1,"yes",1
+"no checking",12,"existing paid","no known savings",1,"real estate",24,"none",1,"yes",1
+"<0",18,"existing paid","<100",2,"car",24,"none",1,"yes",2
+"0<=X<200",6,"existing paid","<100",3,"real estate",26,"none",1,"no",1
+"no checking",18,"critical/other existing credit","no known savings",4,"real estate",65,"none",1,"yes",1
+"0<=X<200",42,"all paid","<100",1,"no known property",55,"bank",1,"yes",1
+"0<=X<200",15,"no credits/all paid","<100",2,"real estate",26,"none",1,"yes",2
+"0<=X<200",8,"existing paid","<100",3,"real estate",26,"none",1,"yes",1
+"0<=X<200",6,"existing paid","<100",3,"real estate",28,"bank",1,"yes",1
+"<0",36,"critical/other existing credit","<100",4,"car",24,"none",1,"yes",2
+"<0",48,"existing paid","<100",3,"car",54,"none",1,"yes",2
+"<0",18,"existing paid","<100",4,"no known property",46,"none",2,"yes",2
+"0<=X<200",36,"delayed previously","<100",2,"life insurance",54,"none",1,"yes",1
+"no checking",6,"existing paid","500<=X<1000",1,"real estate",62,"none",1,"yes",1
+"no checking",6,"critical/other existing credit","<100",1,"car",24,"none",1,"yes",1
+"<0",36,"existing paid","<100",2,"car",43,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"real estate",26,"bank",1,"yes",2
+"no checking",12,"existing paid","<100",3,"real estate",27,"none",1,"yes",1
+">=200",12,"existing paid","<100",3,"car",24,"none",1,"yes",1
+"<0",36,"existing paid","<100",2,"life insurance",41,"bank",2,"yes",2
+"<0",8,"critical/other existing credit","<100",4,"real estate",47,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",3,"car",35,"none",1,"yes",1
+"<0",21,"critical/other existing credit","<100",4,"car",30,"none",1,"yes",1
+"<0",18,"critical/other existing credit","<100",1,"real estate",33,"bank",1,"yes",2
+"no checking",18,"no credits/all paid","<100",2,"car",36,"stores",2,"yes",2
+"<0",36,"existing paid","no known savings",3,"no known property",47,"none",1,"yes",2
+"0<=X<200",48,"delayed previously","no known savings",4,"no known property",38,"none",2,"yes",1
+"no checking",24,"delayed previously","500<=X<1000",4,"car",44,"none",2,"yes",1
+"<0",18,"existing paid","<100",4,"car",23,"none",1,"yes",2
+"<0",18,"no credits/all paid","<100",2,"car",29,"none",1,"yes",2
+"0<=X<200",24,"existing paid","no known savings",2,"car",42,"none",1,"yes",1
+">=200",15,"existing paid","<100",2,"real estate",25,"none",1,"yes",2
+"<0",12,"no credits/all paid","<100",4,"car",48,"bank",1,"yes",2
+"no checking",12,"existing paid","no known savings",4,"car",21,"none",1,"yes",1
+"no checking",4,"existing paid","<100",1,"real estate",23,"none",2,"yes",1
+"<0",24,"critical/other existing credit","<100",4,"life insurance",63,"none",1,"yes",1
+"no checking",24,"critical/other existing credit","<100",4,"real estate",46,"none",1,"yes",1
+"<0",36,"existing paid","<100",4,"life insurance",29,"none",1,"yes",2
+"no checking",21,"delayed previously","<100",3,"real estate",28,"stores",1,"yes",1
+"no checking",18,"existing paid","<100",4,"real estate",23,"none",1,"yes",2
+"no checking",24,"all paid","<100",4,"car",50,"none",1,"yes",1
+"no checking",18,"existing paid","<100",4,"life insurance",47,"bank",2,"yes",1
+"0<=X<200",21,"existing paid","no known savings",2,"car",35,"none",1,"yes",1
+"no checking",18,"existing paid","no known savings",2,"car",68,"none",1,"yes",2
+"no checking",18,"existing paid","<100",4,"real estate",28,"none",1,"yes",1
+"<0",9,"existing paid","<100",3,"real estate",59,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"real estate",57,"stores",1,"yes",2
+"no checking",20,"critical/other existing credit","<100",4,"life insurance",33,"bank",1,"no",2
+"no checking",18,"critical/other existing credit","no known savings",3,"life insurance",43,"none",1,"yes",1
+"no checking",15,"critical/other existing credit","<100",4,"no known property",35,"none",1,"yes",1
+"<0",18,"all paid","<100",4,"no known property",32,"none",2,"yes",2
+"no checking",36,"delayed previously","<100",2,"car",45,"none",2,"yes",1
+"no checking",24,"existing paid","100<=X<500",4,"real estate",33,"none",1,"yes",1
+"no checking",10,"existing paid","no known savings",4,"life insurance",40,"none",1,"yes",1
+"no checking",15,"critical/other existing credit","<100",4,"no known property",28,"none",1,"yes",1
+"<0",15,"existing paid","<100",3,"life insurance",29,"none",1,"yes",2
+"no checking",9,"existing paid","100<=X<500",1,"real estate",26,"none",2,"no",1
+"no checking",24,"critical/other existing credit",">=1000",4,"real estate",27,"none",1,"yes",1
+"no checking",18,"delayed previously","<100",4,"car",28,"none",1,"yes",2
+"<0",24,"existing paid","<100",4,"real estate",35,"none",1,"yes",2
+"no checking",27,"critical/other existing credit",">=1000",4,"real estate",32,"stores",2,"yes",1
+"no checking",10,"existing paid","<100",2,"real estate",25,"bank",1,"yes",2
+"no checking",15,"existing paid","500<=X<1000",2,"car",20,"none",1,"yes",1
+"<0",18,"existing paid","<100",4,"car",27,"stores",1,"yes",1
+"no checking",12,"critical/other existing credit","<100",2,"life insurance",42,"stores",1,"yes",1
+"no checking",36,"existing paid","no known savings",3,"life insurance",37,"none",1,"yes",1
+"<0",12,"existing paid","<100",4,"life insurance",24,"none",1,"yes",1
+"no checking",36,"delayed previously","500<=X<1000",2,"car",40,"none",1,"yes",1
+">=200",6,"critical/other existing credit","<100",1,"real estate",46,"none",2,"no",1
+"<0",24,"critical/other existing credit","100<=X<500",4,"real estate",26,"none",1,"yes",1
+"no checking",15,"existing paid","no known savings",4,"real estate",24,"none",1,"yes",1
+"<0",12,"existing paid","<100",2,"life insurance",29,"none",2,"yes",1
+"0<=X<200",11,"critical/other existing credit",">=1000",4,"car",40,"none",1,"yes",1
+"<0",18,"all paid","<100",3,"no known property",36,"bank",1,"yes",1
+"no checking",36,"existing paid","<100",4,"car",28,"none",1,"yes",1
+"<0",18,"existing paid","<100",3,"no known property",27,"none",1,"yes",2
+"no checking",30,"critical/other existing credit","no known savings",2,"life insurance",36,"none",1,"yes",1
+"no checking",18,"existing paid","<100",3,"car",38,"none",1,"yes",1
+"no checking",24,"existing paid","no known savings",2,"no known property",48,"none",1,"yes",1
+"0<=X<200",30,"critical/other existing credit","no known savings",4,"real estate",36,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","<100",4,"car",65,"none",1,"yes",1
+"0<=X<200",24,"existing paid","<100",3,"car",43,"none",1,"yes",2
+"no checking",12,"existing paid","<100",4,"life insurance",53,"none",1,"yes",2
+"0<=X<200",24,"critical/other existing credit","no known savings",4,"no known property",34,"none",2,"yes",1
+"0<=X<200",48,"existing paid","<100",2,"car",23,"none",1,"yes",2
+"no checking",36,"critical/other existing credit","<100",4,"car",34,"none",1,"yes",1
+"no checking",18,"all paid","no known savings",3,"real estate",40,"bank",2,"yes",1
+"<0",27,"critical/other existing credit","<100",4,"car",43,"stores",2,"yes",1
+"no checking",15,"critical/other existing credit","<100",4,"car",46,"none",1,"yes",1
+"<0",12,"critical/other existing credit","<100",4,"life insurance",38,"none",1,"no",1
+"0<=X<200",18,"critical/other existing credit","<100",3,"car",34,"none",1,"yes",1
+"no checking",18,"critical/other existing credit","no known savings",4,"life insurance",29,"none",1,"yes",1
+"no checking",36,"delayed previously","no known savings",3,"car",31,"stores",2,"yes",1
+"<0",21,"existing paid","<100",4,"life insurance",28,"none",1,"yes",1
+"no checking",12,"critical/other existing credit",">=1000",3,"life insurance",35,"none",1,"no",1
+"no checking",15,"existing paid","no known savings",1,"real estate",33,"bank",1,"yes",1
+"<0",18,"existing paid","<100",2,"car",42,"none",1,"yes",2
+"<0",18,"critical/other existing credit","<100",2,"life insurance",43,"none",1,"yes",2
+"no checking",20,"critical/other existing credit","no known savings",2,"real estate",44,"none",1,"yes",1
+"no checking",36,"critical/other existing credit","no known savings",2,"no known property",42,"none",1,"yes",1
+"no checking",15,"existing paid","no known savings",4,"real estate",40,"none",1,"yes",1
+"no checking",24,"existing paid","<100",4,"real estate",36,"none",1,"yes",1
+"<0",12,"existing paid","<100",2,"real estate",20,"none",2,"yes",1
+"<0",21,"existing paid","no known savings",2,"real estate",24,"none",1,"no",1
+"0<=X<200",36,"existing paid","no known savings",2,"car",27,"none",1,"yes",1
+"no checking",15,"delayed previously","<100",1,"life insurance",46,"none",1,"yes",1
+"0<=X<200",9,"existing paid","no known savings",1,"real estate",33,"none",1,"yes",1
+"no checking",36,"delayed previously","<100",4,"real estate",34,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","<100",2,"car",25,"bank",1,"yes",2
+"0<=X<200",30,"existing paid","no known savings",2,"car",25,"none",1,"yes",1
+"no checking",11,"existing paid",">=1000",1,"real estate",28,"none",1,"yes",1
+"<0",24,"all paid","<100",4,"life insurance",31,"none",1,"yes",2
+"0<=X<200",48,"no credits/all paid","<100",1,"life insurance",32,"bank",1,"no",2
+"no checking",10,"existing paid","100<=X<500",1,"real estate",32,"none",2,"yes",1
+"<0",6,"existing paid","<100",1,"no known property",68,"bank",1,"yes",2
+"<0",24,"existing paid","100<=X<500",1,"life insurance",33,"none",1,"yes",2
+"<0",24,"existing paid","<100",4,"life insurance",39,"none",1,"yes",2
+"no checking",18,"critical/other existing credit","<100",4,"no known property",28,"none",1,"yes",1
+"no checking",48,"delayed previously","500<=X<1000",4,"car",37,"none",1,"yes",1
+"<0",9,"existing paid","<100",3,"life insurance",22,"none",1,"yes",2
+"0<=X<200",12,"existing paid","<100",3,"life insurance",30,"none",2,"yes",1
+"<0",24,"all paid","<100",2,"life insurance",55,"bank",1,"yes",2
+"<0",12,"all paid","<100",4,"car",46,"none",1,"yes",2
+"<0",18,"critical/other existing credit","<100",4,"life insurance",21,"none",1,"yes",1
+"<0",48,"existing paid","<100",4,"no known property",39,"stores",2,"yes",2
+"no checking",30,"existing paid","no known savings",4,"car",58,"none",1,"yes",1
+"<0",18,"delayed previously","<100",4,"real estate",43,"none",2,"yes",1
+"<0",18,"existing paid","<100",4,"life insurance",24,"none",1,"no",1
+"0<=X<200",9,"existing paid","<100",4,"car",22,"none",1,"yes",2
+"no checking",9,"critical/other existing credit","<100",3,"real estate",30,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","500<=X<1000",4,"life insurance",42,"none",2,"yes",1
+"<0",12,"existing paid","<100",4,"car",23,"bank",1,"yes",1
+"0<=X<200",30,"delayed previously","100<=X<500",4,"no known property",30,"stores",1,"yes",2
+">=200",9,"existing paid","<100",3,"real estate",28,"none",1,"yes",2
+"0<=X<200",6,"existing paid","<100",4,"car",30,"none",1,"yes",1
+"0<=X<200",18,"existing paid","<100",4,"no known property",42,"none",1,"yes",2
+"no checking",24,"critical/other existing credit","no known savings",2,"life insurance",46,"none",2,"yes",1
+"no checking",12,"existing paid","no known savings",2,"life insurance",45,"none",2,"yes",1
+"no checking",10,"existing paid","<100",3,"real estate",31,"none",2,"no",1
+"no checking",24,"existing paid","no known savings",4,"car",31,"stores",1,"yes",1
+"no checking",4,"critical/other existing credit","<100",2,"real estate",42,"none",2,"yes",1
+"<0",15,"existing paid","<100",4,"life insurance",46,"none",1,"yes",1
+"0<=X<200",48,"no credits/all paid","500<=X<1000",1,"car",30,"none",1,"yes",1
+"<0",18,"all paid","500<=X<1000",4,"no known property",30,"none",2,"yes",2
+"no checking",18,"existing paid","no known savings",4,"no known property",38,"none",1,"yes",1
+"no checking",18,"existing paid","<100",4,"life insurance",43,"none",2,"yes",2
+"no checking",24,"existing paid","100<=X<500",2,"car",31,"none",1,"yes",2
+"0<=X<200",18,"critical/other existing credit","<100",3,"car",40,"none",2,"yes",1
+"<0",36,"delayed previously","<100",2,"car",24,"none",1,"yes",2
+"0<=X<200",24,"existing paid","500<=X<1000",3,"car",28,"none",1,"yes",2
+"no checking",36,"existing paid","<100",4,"car",26,"none",1,"yes",2
+"<0",12,"existing paid","<100",4,"life insurance",29,"none",1,"yes",1
+"<0",24,"critical/other existing credit",">=1000",4,"life insurance",57,"none",1,"yes",1
+">=200",30,"critical/other existing credit","no known savings",4,"life insurance",49,"stores",1,"yes",1
+"0<=X<200",9,"critical/other existing credit","<100",2,"real estate",37,"none",1,"yes",1
+"<0",28,"existing paid","<100",3,"car",45,"none",1,"yes",2
+"0<=X<200",24,"existing paid","100<=X<500",4,"no known property",30,"none",1,"yes",1
+"no checking",6,"critical/other existing credit","<100",2,"real estate",30,"none",1,"yes",1
+"0<=X<200",21,"delayed previously","<100",1,"life insurance",47,"none",1,"yes",1
+"no checking",15,"existing paid","no known savings",3,"no known property",29,"none",1,"yes",1
+"no checking",24,"existing paid","500<=X<1000",3,"car",35,"bank",1,"yes",2
+"0<=X<200",6,"existing paid","<100",3,"life insurance",22,"none",1,"yes",1
+"0<=X<200",30,"existing paid","no known savings",4,"car",26,"none",1,"yes",1
+"0<=X<200",27,"critical/other existing credit","500<=X<1000",4,"life insurance",23,"none",1,"yes",2
+"no checking",15,"existing paid","<100",4,"car",54,"bank",1,"yes",1
+"no checking",18,"existing paid","no known savings",2,"life insurance",29,"none",1,"yes",1
+"<0",11,"critical/other existing credit","<100",1,"real estate",40,"none",2,"yes",1
+"0<=X<200",15,"existing paid","100<=X<500",4,"real estate",22,"none",1,"yes",1
+"no checking",24,"existing paid","<100",1,"life insurance",43,"none",2,"yes",1
+"<0",24,"all paid","<100",1,"no known property",29,"none",1,"yes",2
+"<0",60,"existing paid","<100",4,"no known property",36,"none",1,"yes",2
+"no checking",30,"critical/other existing credit","<100",4,"car",33,"none",1,"yes",1
+">=200",24,"existing paid","500<=X<1000",3,"car",57,"none",1,"yes",1
+"0<=X<200",6,"existing paid","<100",2,"real estate",64,"none",1,"yes",1
+"0<=X<200",18,"delayed previously","no known savings",4,"life insurance",42,"none",1,"yes",1
+"no checking",24,"delayed previously","<100",4,"car",47,"none",2,"yes",2
+"0<=X<200",15,"all paid","100<=X<500",2,"life insurance",25,"none",1,"yes",2
+"0<=X<200",30,"critical/other existing credit","<100",2,"life insurance",49,"none",1,"yes",2
+"no checking",48,"existing paid","<100",3,"car",33,"bank",1,"yes",2
+">=200",18,"existing paid","100<=X<500",1,"car",28,"bank",1,"yes",1
+"<0",36,"existing paid","<100",2,"life insurance",26,"none",2,"yes",2
+"no checking",24,"critical/other existing credit","<100",2,"life insurance",30,"none",1,"yes",1
+"<0",15,"critical/other existing credit","<100",4,"life insurance",25,"none",1,"yes",1
+">=200",42,"no credits/all paid","<100",2,"life insurance",33,"none",1,"yes",1
+"no checking",13,"existing paid","100<=X<500",2,"real estate",64,"none",1,"yes",1
+"no checking",24,"existing paid","<100",4,"no known property",29,"none",1,"yes",1
+"0<=X<200",24,"critical/other existing credit","<100",4,"life insurance",48,"none",1,"yes",1
+"no checking",12,"critical/other existing credit","no known savings",2,"life insurance",37,"none",2,"yes",1
+"no checking",15,"all paid","100<=X<500",4,"car",34,"bank",2,"yes",1
+"<0",18,"existing paid","no known savings",2,"car",23,"none",1,"yes",1
+"<0",36,"existing paid","<100",4,"life insurance",30,"none",1,"yes",1
+"no checking",12,"existing paid","no known savings",4,"car",50,"none",1,"yes",1
+"no checking",12,"existing paid","<100",3,"real estate",31,"none",1,"yes",1
+"<0",30,"existing paid","<100",4,"life insurance",40,"none",1,"yes",1
+"no checking",12,"existing paid","<100",4,"car",38,"none",1,"yes",1
+"<0",45,"existing paid","<100",4,"no known property",23,"none",1,"yes",2
+"0<=X<200",45,"critical/other existing credit","100<=X<500",3,"car",27,"none",1,"yes",1

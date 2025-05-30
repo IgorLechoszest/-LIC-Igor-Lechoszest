@@ -1,0 +1,1001 @@
+"checking_status","duration","credit_history","savings_status","installment_commitment","personal_status","residence_since","property_magnitude","age","class","static_obvious"
+"<0",6,"critical/other existing credit","no known savings",4,"male single",4,"real estate",67,1,1
+"0<=X<200",48,"existing paid","<100",2,"female div/dep/mar",2,"real estate",22,2,1
+"no checking",12,"critical/other existing credit","<100",2,"male single",3,"real estate",49,1,1
+"<0",42,"existing paid","<100",2,"male single",4,"life insurance",45,1,1
+"<0",24,"delayed previously","<100",3,"male single",4,"no known property",53,2,1
+"no checking",36,"existing paid","no known savings",2,"male single",4,"no known property",35,1,1
+"no checking",24,"existing paid","500<=X<1000",3,"male single",4,"life insurance",53,1,1
+"0<=X<200",18,"existing paid","<100",2,"male single",2,"car",35,1,1
+"no checking",12,"existing paid",">=1000",2,"male div/sep",4,"real estate",61,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"male mar/wid",2,"car",28,2,1
+"0<=X<200",12,"existing paid","<100",3,"female div/dep/mar",1,"car",25,2,1
+"<0",18,"existing paid","<100",3,"female div/dep/mar",4,"life insurance",24,2,1
+"0<=X<200",12,"existing paid","<100",1,"female div/dep/mar",1,"car",22,1,1
+"<0",24,"critical/other existing credit","<100",4,"male single",4,"car",60,2,1
+"<0",15,"existing paid","<100",2,"female div/dep/mar",4,"car",28,1,1
+"<0",24,"existing paid","100<=X<500",4,"female div/dep/mar",2,"car",32,2,1
+"no checking",24,"critical/other existing credit","no known savings",4,"male single",4,"life insurance",53,1,1
+"<0",30,"no credits/all paid","no known savings",2,"male single",3,"car",25,1,1
+"no checking",24,"existing paid","<100",4,"female div/dep/mar",2,"no known property",44,2,1
+"no checking",18,"existing paid","500<=X<1000",3,"male single",2,"car",31,1,1
+"no checking",9,"critical/other existing credit","<100",4,"male single",4,"car",48,1,1
+"<0",6,"existing paid","500<=X<1000",2,"male single",3,"real estate",44,1,1
+"<0",10,"critical/other existing credit","<100",1,"male single",3,"real estate",48,1,1
+"0<=X<200",12,"critical/other existing credit","100<=X<500",3,"male single",4,"life insurance",44,1,1
+"no checking",18,"critical/other existing credit","no known savings",2,"male mar/wid",1,"car",26,1,1
+"<0",6,"existing paid","<100",1,"male single",2,"real estate",36,1,1
+"no checking",18,"no credits/all paid","<100",4,"male mar/wid",4,"car",39,1,1
+">=200",12,"all paid",">=1000",3,"female div/dep/mar",3,"real estate",42,1,1
+"0<=X<200",7,"existing paid","<100",3,"male single",2,"real estate",34,1,1
+"<0",60,"delayed previously","<100",3,"male single",4,"no known property",63,2,1
+"0<=X<200",18,"existing paid",">=1000",3,"male mar/wid",3,"real estate",36,1,1
+"<0",24,"existing paid","<100",2,"male single",2,"car",27,1,1
+"0<=X<200",18,"existing paid","100<=X<500",2,"male single",2,"car",30,1,1
+"no checking",12,"critical/other existing credit","no known savings",4,"male single",4,"no known property",57,1,1
+">=200",12,"existing paid","<100",4,"female div/dep/mar",1,"life insurance",33,1,1
+"0<=X<200",45,"critical/other existing credit","<100",4,"male single",2,"life insurance",25,2,1
+"no checking",48,"critical/other existing credit","<100",1,"male single",3,"no known property",31,1,1
+">=200",18,"existing paid","<100",4,"male single",2,"real estate",37,2,1
+">=200",10,"existing paid","<100",2,"male single",2,"car",37,1,1
+"no checking",9,"existing paid","<100",4,"male single",3,"real estate",24,1,1
+"no checking",30,"existing paid","500<=X<1000",4,"male single",2,"car",30,1,1
+"0<=X<200",12,"existing paid","500<=X<1000",3,"male div/sep",1,"car",26,1,1
+"0<=X<200",18,"delayed previously","<100",2,"male single",4,"real estate",44,1,1
+"<0",30,"critical/other existing credit","100<=X<500",1,"male mar/wid",4,"car",24,1,1
+"<0",48,"critical/other existing credit","<100",4,"female div/dep/mar",4,"no known property",58,2,1
+"no checking",11,"critical/other existing credit","<100",4,"female div/dep/mar",4,"car",35,1,1
+"no checking",36,"existing paid","500<=X<1000",4,"male single",4,"car",39,1,1
+"<0",6,"existing paid","500<=X<1000",1,"female div/dep/mar",2,"life insurance",23,1,1
+"no checking",11,"critical/other existing credit","<100",1,"male single",4,"life insurance",39,1,1
+"no checking",12,"existing paid","100<=X<500",4,"female div/dep/mar",2,"real estate",28,1,1
+"0<=X<200",24,"delayed previously","no known savings",4,"male single",2,"life insurance",29,1,1
+"0<=X<200",27,"delayed previously","<100",1,"male single",2,"car",30,1,1
+"no checking",12,"existing paid","<100",3,"male single",2,"car",25,1,1
+"no checking",18,"existing paid","no known savings",2,"male single",1,"life insurance",31,1,1
+"0<=X<200",36,"delayed previously","<100",4,"male single",4,"no known property",57,2,1
+"no checking",6,"all paid","no known savings",1,"male single",2,"real estate",26,1,1
+"0<=X<200",12,"existing paid","no known savings",2,"male single",1,"no known property",52,2,1
+"no checking",36,"critical/other existing credit","<100",2,"female div/dep/mar",2,"car",31,1,1
+">=200",18,"existing paid","<100",3,"female div/dep/mar",2,"car",23,1,1
+"<0",36,"critical/other existing credit","<100",4,"female div/dep/mar",4,"no known property",23,2,1
+"0<=X<200",9,"existing paid","<100",2,"male mar/wid",1,"real estate",27,1,1
+"0<=X<200",15,"critical/other existing credit","no known savings",4,"male single",4,"real estate",50,1,1
+"0<=X<200",36,"no credits/all paid","<100",4,"male single",4,"no known property",61,2,1
+"0<=X<200",48,"no credits/all paid","<100",2,"male single",2,"car",25,2,1
+"no checking",24,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",26,1,1
+"no checking",18,"existing paid","no known savings",4,"male single",4,"life insurance",48,1,1
+"no checking",12,"existing paid","<100",2,"female div/dep/mar",2,"car",29,1,1
+"0<=X<200",12,"existing paid",">=1000",4,"male mar/wid",1,"real estate",22,1,1
+"no checking",36,"existing paid","<100",4,"male single",4,"no known property",37,2,1
+"no checking",36,"existing paid","no known savings",4,"female div/dep/mar",4,"car",25,1,1
+"no checking",36,"existing paid","<100",1,"female div/dep/mar",2,"life insurance",30,1,1
+"no checking",7,"critical/other existing credit","no known savings",4,"male single",2,"life insurance",46,1,1
+"<0",8,"critical/other existing credit","<100",3,"male single",4,"no known property",51,1,1
+"0<=X<200",42,"critical/other existing credit","<100",2,"female div/dep/mar",1,"real estate",41,1,1
+"<0",36,"existing paid","no known savings",4,"male single",4,"no known property",40,2,1
+"<0",12,"critical/other existing credit","<100",4,"male single",4,"no known property",66,1,1
+"<0",42,"existing paid","<100",4,"male single",3,"car",34,2,1
+"0<=X<200",11,"delayed previously","<100",2,"male single",4,"life insurance",51,1,1
+"no checking",54,"no credits/all paid","no known savings",2,"male single",2,"life insurance",39,1,1
+"0<=X<200",30,"existing paid","<100",2,"male mar/wid",1,"life insurance",22,1,1
+"no checking",18,"existing paid","no known savings",1,"female div/dep/mar",1,"car",44,2,1
+"no checking",15,"existing paid","500<=X<1000",4,"male single",3,"life insurance",47,1,1
+"no checking",18,"existing paid","100<=X<500",3,"female div/dep/mar",4,"life insurance",24,1,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",4,"real estate",58,1,1
+"<0",10,"existing paid","<100",3,"male single",4,"real estate",52,1,1
+"no checking",12,"critical/other existing credit","<100",4,"female div/dep/mar",2,"real estate",29,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"female div/dep/mar",1,"life insurance",27,1,1
+"0<=X<200",18,"existing paid","100<=X<500",1,"male single",4,"no known property",47,2,1
+"<0",18,"existing paid","100<=X<500",4,"male single",3,"car",30,1,1
+"<0",12,"no credits/all paid","<100",4,"male single",3,"real estate",28,2,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",4,"real estate",56,1,1
+"<0",12,"critical/other existing credit","<100",4,"male single",3,"real estate",54,1,1
+"no checking",12,"critical/other existing credit","no known savings",4,"female div/dep/mar",3,"life insurance",33,2,1
+">=200",24,"critical/other existing credit","no known savings",4,"male single",4,"no known property",20,1,1
+"0<=X<200",12,"existing paid",">=1000",4,"male single",4,"real estate",54,1,1
+"0<=X<200",54,"no credits/all paid","<100",3,"male single",4,"no known property",58,2,1
+"no checking",12,"critical/other existing credit","no known savings",4,"female div/dep/mar",2,"car",61,1,1
+"0<=X<200",18,"existing paid","100<=X<500",4,"male single",4,"car",34,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"male single",4,"real estate",36,1,1
+"0<=X<200",20,"delayed previously","no known savings",3,"male single",4,"life insurance",36,1,1
+"no checking",24,"existing paid","100<=X<500",4,"male mar/wid",4,"real estate",41,1,1
+"0<=X<200",36,"existing paid","<100",4,"male single",4,"car",24,1,1
+"no checking",6,"delayed previously","<100",3,"female div/dep/mar",2,"real estate",24,1,1
+"0<=X<200",9,"critical/other existing credit","<100",4,"male single",3,"car",35,1,1
+"no checking",18,"existing paid","no known savings",2,"male mar/wid",4,"car",26,1,1
+"0<=X<200",24,"critical/other existing credit","<100",2,"male single",3,"car",39,2,1
+"no checking",18,"all paid","<100",2,"male single",4,"no known property",39,2,1
+"0<=X<200",12,"existing paid","<100",2,"male single",2,"car",32,1,1
+"<0",24,"existing paid","no known savings",1,"female div/dep/mar",2,"life insurance",30,1,1
+"0<=X<200",14,"existing paid","500<=X<1000",1,"male mar/wid",2,"real estate",35,1,1
+"0<=X<200",6,"delayed previously","100<=X<500",1,"male div/sep",2,"car",31,1,1
+">=200",15,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",23,1,1
+"0<=X<200",18,"existing paid","<100",3,"male single",3,"real estate",28,1,1
+"no checking",36,"critical/other existing credit","<100",4,"female div/dep/mar",2,"real estate",25,2,1
+"<0",12,"existing paid","500<=X<1000",3,"male mar/wid",1,"real estate",35,1,1
+"no checking",48,"critical/other existing credit","no known savings",4,"male single",1,"real estate",47,1,1
+"<0",42,"existing paid","no known savings",4,"female div/dep/mar",3,"car",30,2,1
+"<0",18,"critical/other existing credit","no known savings",2,"female div/dep/mar",3,"real estate",27,1,1
+"<0",33,"critical/other existing credit","500<=X<1000",1,"female div/dep/mar",4,"car",23,2,1
+"0<=X<200",18,"critical/other existing credit","500<=X<1000",3,"male div/sep",3,"car",36,1,1
+"<0",21,"existing paid","<100",3,"female div/dep/mar",2,"real estate",25,2,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",2,"car",41,1,1
+"no checking",12,"existing paid","<100",3,"male single",2,"real estate",24,1,1
+">=200",10,"critical/other existing credit","<100",4,"male single",4,"no known property",63,1,1
+"0<=X<200",18,"existing paid","no known savings",4,"female div/dep/mar",3,"real estate",27,2,1
+"<0",12,"critical/other existing credit","<100",4,"male single",2,"life insurance",30,1,1
+"<0",12,"existing paid","<100",4,"male mar/wid",2,"real estate",40,1,1
+"0<=X<200",12,"existing paid","<100",4,"male single",2,"car",30,2,1
+"0<=X<200",12,"critical/other existing credit","<100",4,"male single",2,"car",34,1,1
+"<0",12,"critical/other existing credit","<100",3,"female div/dep/mar",2,"real estate",29,2,1
+"0<=X<200",48,"existing paid","no known savings",1,"female div/dep/mar",2,"car",24,1,1
+"<0",18,"delayed previously","<100",4,"male single",3,"life insurance",29,2,1
+"no checking",15,"existing paid","<100",2,"male single",3,"life insurance",27,1,1
+"no checking",18,"existing paid","<100",4,"male single",4,"no known property",47,1,1
+"no checking",60,"existing paid","100<=X<500",2,"female div/dep/mar",4,"real estate",21,1,1
+"no checking",12,"critical/other existing credit","no known savings",4,"female div/dep/mar",2,"real estate",38,1,1
+"no checking",27,"delayed previously",">=1000",2,"male single",2,"car",27,1,1
+"0<=X<200",12,"existing paid","500<=X<1000",4,"male single",3,"real estate",66,2,1
+"0<=X<200",15,"critical/other existing credit","no known savings",4,"male single",2,"real estate",35,1,1
+">=200",12,"existing paid","<100",2,"female div/dep/mar",2,"car",44,1,1
+">=200",6,"existing paid",">=1000",2,"male mar/wid",2,"real estate",27,1,1
+"0<=X<200",36,"existing paid","<100",4,"female div/dep/mar",1,"no known property",30,1,1
+"<0",27,"existing paid","<100",3,"male single",2,"car",27,1,1
+"no checking",18,"existing paid","<100",2,"male single",2,"car",22,2,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",4,"life insurance",23,1,1
+"0<=X<200",48,"all paid","100<=X<500",4,"male single",2,"car",30,1,1
+"<0",6,"critical/other existing credit","<100",1,"female div/dep/mar",4,"no known property",39,1,1
+"no checking",12,"critical/other existing credit","100<=X<500",4,"female div/dep/mar",3,"car",51,1,1
+"<0",36,"critical/other existing credit","<100",3,"male single",2,"life insurance",28,1,1
+"no checking",18,"critical/other existing credit",">=1000",4,"male single",4,"car",46,1,1
+"no checking",6,"existing paid","100<=X<500",2,"male single",4,"no known property",42,1,1
+"no checking",10,"existing paid","<100",1,"male single",4,"life insurance",38,1,1
+">=200",18,"existing paid","<100",4,"male single",1,"car",24,1,1
+"0<=X<200",24,"critical/other existing credit",">=1000",2,"female div/dep/mar",4,"no known property",29,1,1
+"0<=X<200",24,"delayed previously","100<=X<500",4,"male single",4,"car",36,1,1
+"<0",12,"existing paid","<100",2,"female div/dep/mar",4,"car",20,2,1
+"<0",9,"critical/other existing credit","100<=X<500",3,"male single",4,"real estate",48,1,1
+"<0",12,"all paid","<100",4,"male mar/wid",1,"car",45,1,1
+"0<=X<200",24,"existing paid","100<=X<500",2,"male single",3,"car",38,1,1
+"no checking",6,"critical/other existing credit","no known savings",1,"male single",2,"real estate",34,1,1
+"no checking",24,"critical/other existing credit","100<=X<500",3,"male single",4,"real estate",36,1,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",1,"life insurance",30,1,1
+"no checking",15,"existing paid","500<=X<1000",4,"male single",3,"life insurance",36,1,1
+"0<=X<200",18,"existing paid","<100",2,"male single",4,"no known property",70,1,1
+"no checking",36,"existing paid","500<=X<1000",4,"male single",4,"life insurance",36,1,1
+"no checking",18,"existing paid","500<=X<1000",1,"male single",2,"car",32,1,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",2,"car",33,2,1
+"0<=X<200",11,"existing paid",">=1000",4,"female div/dep/mar",1,"real estate",20,1,1
+"no checking",24,"existing paid","<100",2,"female div/dep/mar",4,"life insurance",25,1,1
+"0<=X<200",24,"critical/other existing credit","<100",4,"male div/sep",4,"real estate",31,2,1
+"<0",15,"no credits/all paid","<100",4,"male single",3,"car",33,2,1
+"no checking",12,"existing paid","<100",4,"female div/dep/mar",1,"real estate",26,1,1
+"0<=X<200",24,"delayed previously","<100",3,"female div/dep/mar",2,"life insurance",34,2,1
+"0<=X<200",8,"existing paid","<100",4,"male single",2,"real estate",33,1,1
+"no checking",21,"delayed previously","<100",2,"male single",1,"life insurance",26,2,1
+"no checking",30,"all paid","no known savings",4,"female div/dep/mar",1,"real estate",53,2,1
+"<0",18,"existing paid","<100",2,"male div/sep",1,"car",42,1,1
+"<0",6,"critical/other existing credit","500<=X<1000",4,"male single",4,"car",52,1,1
+"no checking",12,"existing paid","<100",4,"male single",2,"car",31,1,1
+"<0",21,"critical/other existing credit","<100",4,"male single",4,"real estate",65,1,1
+"no checking",36,"delayed previously","<100",1,"male div/sep",1,"car",28,2,1
+"0<=X<200",36,"delayed previously","<100",2,"male div/sep",2,"real estate",30,2,1
+"<0",21,"all paid","no known savings",4,"male single",2,"life insurance",40,2,1
+"no checking",24,"critical/other existing credit",">=1000",4,"male single",4,"real estate",50,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"male single",4,"car",36,2,1
+"no checking",15,"critical/other existing credit","<100",4,"male single",2,"life insurance",31,1,1
+"0<=X<200",9,"all paid","<100",2,"female div/dep/mar",4,"no known property",74,2,1
+"0<=X<200",16,"critical/other existing credit","<100",2,"male single",3,"car",68,1,1
+"<0",12,"existing paid","100<=X<500",4,"male mar/wid",1,"life insurance",20,2,1
+"0<=X<200",18,"no credits/all paid","<100",1,"female div/dep/mar",4,"car",33,1,1
+"no checking",24,"existing paid",">=1000",2,"male single",3,"life insurance",54,2,1
+"0<=X<200",48,"no credits/all paid","100<=X<500",4,"male single",4,"no known property",34,2,1
+"0<=X<200",27,"existing paid","<100",4,"male single",2,"car",36,2,1
+"no checking",6,"existing paid","<100",2,"male mar/wid",2,"real estate",29,1,1
+"0<=X<200",45,"existing paid","100<=X<500",4,"male single",4,"life insurance",21,2,1
+"0<=X<200",9,"critical/other existing credit","<100",2,"female div/dep/mar",3,"car",34,2,1
+"no checking",18,"critical/other existing credit","<100",1,"female div/dep/mar",1,"car",28,1,1
+"0<=X<200",12,"existing paid","100<=X<500",4,"female div/dep/mar",4,"car",27,2,1
+"0<=X<200",24,"existing paid","no known savings",4,"male single",4,"no known property",36,1,1
+"0<=X<200",18,"delayed previously","<100",4,"male div/sep",3,"no known property",40,2,1
+"no checking",9,"critical/other existing credit","500<=X<1000",4,"male single",2,"car",52,1,1
+"<0",12,"existing paid","<100",4,"male mar/wid",3,"real estate",27,1,1
+"no checking",27,"delayed previously","<100",3,"male single",4,"car",26,1,1
+"<0",12,"existing paid","<100",4,"male mar/wid",4,"life insurance",21,2,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",1,"real estate",38,1,1
+"<0",18,"critical/other existing credit","<100",3,"male single",4,"no known property",38,1,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",4,"real estate",43,1,1
+"0<=X<200",12,"critical/other existing credit","<100",4,"male single",3,"life insurance",26,1,1
+"<0",24,"existing paid","<100",2,"male mar/wid",2,"car",21,1,1
+"no checking",12,"existing paid",">=1000",3,"male single",2,"life insurance",55,1,1
+"no checking",18,"critical/other existing credit","no known savings",1,"male single",2,"real estate",33,1,1
+"no checking",36,"existing paid","no known savings",2,"female div/dep/mar",4,"real estate",45,1,1
+"<0",27,"no credits/all paid","<100",2,"male single",4,"life insurance",50,2,1
+">=200",30,"delayed previously","<100",4,"male single",4,"real estate",66,2,1
+"no checking",36,"critical/other existing credit","no known savings",4,"male single",2,"car",51,1,1
+"0<=X<200",6,"critical/other existing credit","no known savings",1,"female div/dep/mar",3,"life insurance",39,1,1
+"<0",18,"no credits/all paid","<100",3,"male single",1,"life insurance",31,1,1
+"no checking",36,"existing paid","<100",2,"male single",2,"real estate",23,1,1
+"<0",24,"existing paid","<100",2,"male div/sep",2,"real estate",24,1,1
+"no checking",10,"existing paid","<100",2,"female div/dep/mar",4,"car",64,1,1
+"0<=X<200",12,"existing paid","<100",4,"male mar/wid",1,"real estate",26,1,1
+"<0",12,"existing paid","no known savings",4,"female div/dep/mar",4,"life insurance",23,1,1
+"no checking",12,"existing paid","<100",4,"male single",2,"real estate",30,1,1
+"no checking",24,"delayed previously","no known savings",4,"male single",4,"real estate",32,1,1
+"no checking",15,"existing paid","<100",3,"male single",2,"car",30,1,1
+"no checking",36,"no credits/all paid","<100",4,"male single",2,"car",27,1,1
+"0<=X<200",18,"existing paid",">=1000",1,"male single",2,"no known property",27,2,1
+"<0",12,"existing paid","<100",4,"male single",4,"no known property",53,2,1
+"no checking",18,"existing paid","<100",4,"male single",2,"car",22,2,1
+"<0",24,"existing paid","<100",4,"male single",1,"no known property",22,1,1
+">=200",36,"existing paid","<100",4,"male single",2,"car",26,2,1
+"no checking",9,"existing paid","500<=X<1000",2,"male single",4,"no known property",51,1,1
+"no checking",12,"existing paid","100<=X<500",3,"male single",1,"no known property",35,1,1
+"0<=X<200",18,"existing paid","<100",4,"male mar/wid",2,"real estate",25,1,1
+"no checking",4,"critical/other existing credit","<100",2,"male single",1,"real estate",42,1,1
+"<0",24,"existing paid","<100",4,"male single",2,"car",30,2,1
+"0<=X<200",6,"existing paid","no known savings",1,"male single",2,"life insurance",23,2,1
+"0<=X<200",21,"existing paid","100<=X<500",4,"male div/sep",2,"car",61,2,1
+"no checking",12,"critical/other existing credit","<100",4,"female div/dep/mar",2,"life insurance",35,1,1
+"<0",18,"existing paid","<100",1,"male single",3,"life insurance",39,1,1
+"<0",24,"existing paid","no known savings",4,"female div/dep/mar",2,"car",29,2,1
+"no checking",6,"existing paid","<100",3,"male single",2,"life insurance",51,1,1
+"<0",48,"no credits/all paid","<100",3,"male single",4,"no known property",24,2,1
+"no checking",12,"critical/other existing credit","<100",3,"female div/dep/mar",2,"real estate",27,1,1
+"no checking",12,"all paid","500<=X<1000",4,"female div/dep/mar",3,"real estate",35,1,1
+"no checking",24,"existing paid","<100",4,"male single",1,"real estate",25,1,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",4,"real estate",52,1,1
+"no checking",6,"no credits/all paid","100<=X<500",4,"male single",1,"no known property",35,1,1
+">=200",18,"existing paid","<100",2,"male single",2,"real estate",26,1,1
+"no checking",18,"existing paid","<100",3,"female div/dep/mar",4,"real estate",22,2,1
+"<0",6,"critical/other existing credit",">=1000",3,"female div/dep/mar",4,"real estate",39,1,1
+">=200",18,"existing paid","<100",1,"female div/dep/mar",2,"car",46,1,1
+"0<=X<200",30,"existing paid","<100",4,"female div/dep/mar",2,"no known property",24,2,1
+"no checking",24,"delayed previously","100<=X<500",2,"male single",3,"life insurance",35,1,1
+"0<=X<200",9,"existing paid","no known savings",2,"male single",1,"car",24,1,1
+"0<=X<200",60,"delayed previously","no known savings",1,"male single",1,"real estate",27,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",2,"real estate",35,1,1
+"<0",12,"all paid","<100",4,"male div/sep",1,"no known property",29,2,1
+"no checking",15,"existing paid","100<=X<500",1,"female div/dep/mar",4,"car",23,1,1
+"no checking",11,"critical/other existing credit","100<=X<500",4,"female div/dep/mar",4,"real estate",57,1,1
+"<0",12,"existing paid","<100",2,"male single",2,"real estate",27,1,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",4,"car",55,1,1
+"no checking",18,"critical/other existing credit","<100",2,"male single",4,"no known property",36,1,1
+"no checking",12,"critical/other existing credit","<100",2,"female div/dep/mar",4,"no known property",57,1,1
+"no checking",10,"critical/other existing credit","<100",3,"male single",4,"real estate",32,1,1
+"0<=X<200",15,"existing paid","<100",4,"male single",3,"car",37,2,1
+"no checking",36,"critical/other existing credit","no known savings",4,"male single",4,"real estate",36,1,1
+"no checking",18,"existing paid","<100",4,"female div/dep/mar",3,"car",38,1,1
+"<0",14,"existing paid","<100",1,"male div/sep",4,"life insurance",45,2,1
+"no checking",24,"existing paid","no known savings",4,"male single",2,"car",25,1,1
+"no checking",18,"existing paid","no known savings",4,"male single",3,"life insurance",32,1,1
+"no checking",18,"critical/other existing credit","500<=X<1000",3,"female div/dep/mar",4,"car",37,1,1
+"0<=X<200",48,"all paid","no known savings",4,"male single",4,"no known property",36,1,1
+"0<=X<200",48,"existing paid","<100",4,"male single",4,"real estate",28,2,1
+"<0",30,"existing paid","<100",1,"male div/sep",1,"no known property",34,2,1
+"no checking",9,"existing paid","<100",1,"male single",2,"real estate",32,1,1
+"no checking",18,"critical/other existing credit","<100",2,"female div/dep/mar",2,"car",26,1,1
+"<0",12,"existing paid","no known savings",2,"male div/sep",4,"life insurance",49,1,1
+"no checking",6,"existing paid","<100",1,"female div/dep/mar",4,"life insurance",32,2,1
+"no checking",24,"existing paid","100<=X<500",4,"male single",4,"car",29,1,1
+"no checking",18,"critical/other existing credit",">=1000",3,"male single",4,"no known property",23,1,1
+"no checking",12,"existing paid","<100",4,"male single",2,"real estate",50,1,1
+">=200",18,"all paid","no known savings",4,"male single",4,"car",49,1,1
+"no checking",18,"critical/other existing credit","no known savings",4,"male single",4,"life insurance",63,1,1
+"0<=X<200",24,"critical/other existing credit","100<=X<500",4,"male div/sep",2,"car",37,1,1
+"<0",18,"existing paid","<100",1,"female div/dep/mar",1,"real estate",35,1,1
+"<0",48,"existing paid","<100",4,"male single",3,"life insurance",26,1,1
+"no checking",48,"delayed previously","100<=X<500",2,"male single",4,"no known property",31,1,1
+"0<=X<200",12,"existing paid","<100",4,"female div/dep/mar",4,"real estate",49,1,1
+"<0",24,"delayed previously","<100",4,"male mar/wid",4,"real estate",48,2,1
+"no checking",18,"existing paid","<100",2,"male mar/wid",2,"real estate",26,1,1
+"0<=X<200",36,"existing paid","<100",1,"male mar/wid",4,"car",28,2,1
+"<0",24,"critical/other existing credit","<100",2,"female div/dep/mar",4,"no known property",44,1,1
+">=200",42,"critical/other existing credit","<100",4,"male single",4,"no known property",56,1,1
+"no checking",48,"critical/other existing credit","no known savings",4,"male div/sep",2,"car",46,1,1
+"0<=X<200",48,"existing paid","<100",1,"female div/dep/mar",2,"car",26,2,1
+"no checking",12,"existing paid","no known savings",1,"female div/dep/mar",4,"car",20,1,1
+"no checking",10,"existing paid","no known savings",4,"male single",2,"life insurance",45,1,1
+"no checking",18,"existing paid","<100",3,"male single",4,"real estate",43,1,1
+"0<=X<200",21,"critical/other existing credit",">=1000",3,"male single",2,"car",32,1,1
+"no checking",6,"existing paid","<100",1,"female div/dep/mar",4,"real estate",54,1,1
+"0<=X<200",36,"no credits/all paid","<100",4,"female div/dep/mar",1,"car",42,2,1
+">=200",24,"critical/other existing credit","no known savings",4,"male single",2,"real estate",37,2,1
+"<0",10,"critical/other existing credit","<100",4,"male single",3,"life insurance",49,1,1
+"no checking",48,"critical/other existing credit","500<=X<1000",2,"male single",2,"no known property",44,2,1
+"no checking",6,"existing paid",">=1000",4,"male div/sep",2,"real estate",33,1,1
+"no checking",30,"existing paid","no known savings",2,"female div/dep/mar",4,"life insurance",24,1,1
+"<0",12,"existing paid","100<=X<500",4,"male mar/wid",3,"no known property",33,2,1
+"0<=X<200",8,"existing paid","<100",3,"female div/dep/mar",4,"real estate",24,2,1
+"0<=X<200",9,"existing paid","<100",4,"male mar/wid",4,"real estate",22,1,1
+"0<=X<200",48,"existing paid","no known savings",3,"male single",4,"no known property",40,1,1
+"no checking",24,"existing paid","100<=X<500",4,"male single",1,"car",25,1,1
+">=200",24,"existing paid","<100",2,"female div/dep/mar",4,"car",26,1,1
+"0<=X<200",12,"existing paid","<100",2,"male mar/wid",3,"car",25,2,1
+">=200",4,"existing paid","no known savings",1,"male single",2,"real estate",29,1,1
+"<0",36,"all paid","<100",4,"male single",4,"car",31,2,1
+"<0",12,"existing paid","<100",2,"male single",3,"life insurance",38,1,1
+"0<=X<200",24,"existing paid","no known savings",1,"female div/dep/mar",4,"life insurance",48,1,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",2,"car",32,1,1
+"<0",15,"delayed previously","<100",1,"female div/dep/mar",4,"life insurance",27,1,1
+"0<=X<200",30,"critical/other existing credit","<100",4,"male mar/wid",2,"car",28,2,1
+"no checking",24,"existing paid","<100",4,"male div/sep",3,"life insurance",32,2,1
+"<0",24,"existing paid","<100",2,"male single",1,"no known property",34,1,1
+"<0",18,"existing paid",">=1000",4,"male single",2,"car",28,1,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",3,"real estate",36,1,1
+"<0",8,"critical/other existing credit","<100",1,"male single",4,"real estate",39,1,1
+"no checking",12,"critical/other existing credit","no known savings",2,"male single",4,"life insurance",49,1,1
+"no checking",24,"existing paid",">=1000",4,"female div/dep/mar",3,"car",34,1,1
+">=200",36,"existing paid","<100",4,"male single",2,"car",31,1,1
+"0<=X<200",18,"existing paid","<100",4,"male single",4,"car",28,1,1
+"<0",24,"critical/other existing credit","<100",2,"male single",4,"no known property",75,1,1
+"no checking",18,"critical/other existing credit","100<=X<500",4,"female div/dep/mar",2,"real estate",30,2,1
+"0<=X<200",60,"existing paid","100<=X<500",4,"female div/dep/mar",2,"life insurance",24,2,1
+"no checking",48,"critical/other existing credit","100<=X<500",2,"female div/dep/mar",4,"car",24,2,1
+"<0",18,"no credits/all paid","<100",3,"male single",4,"no known property",23,2,1
+"<0",6,"critical/other existing credit","<100",1,"male div/sep",4,"real estate",44,2,1
+"0<=X<200",13,"existing paid","<100",2,"female div/dep/mar",4,"life insurance",23,1,1
+"<0",15,"existing paid","no known savings",4,"female div/dep/mar",2,"car",24,2,1
+"<0",18,"existing paid","<100",4,"male single",4,"life insurance",28,1,1
+"no checking",10,"existing paid","<100",4,"male div/sep",2,"car",31,1,1
+"0<=X<200",24,"critical/other existing credit","<100",2,"female div/dep/mar",4,"no known property",24,1,1
+"<0",21,"existing paid","<100",1,"female div/dep/mar",4,"car",26,1,1
+"0<=X<200",18,"existing paid","500<=X<1000",1,"male mar/wid",3,"real estate",25,1,1
+"0<=X<200",18,"existing paid","<100",1,"male single",1,"real estate",33,1,1
+">=200",10,"existing paid","<100",1,"male single",1,"life insurance",37,1,1
+"no checking",15,"critical/other existing credit","<100",4,"female div/dep/mar",2,"car",43,1,1
+"0<=X<200",13,"critical/other existing credit","<100",4,"male single",4,"real estate",23,1,1
+"0<=X<200",24,"existing paid","500<=X<1000",1,"female div/dep/mar",4,"no known property",23,1,1
+"no checking",6,"delayed previously","100<=X<500",1,"male single",2,"real estate",34,1,1
+"0<=X<200",9,"critical/other existing credit",">=1000",4,"male single",3,"no known property",32,2,1
+"no checking",9,"existing paid","<100",1,"female div/dep/mar",4,"real estate",23,1,1
+"0<=X<200",9,"existing paid","<100",1,"female div/dep/mar",2,"car",29,2,1
+"no checking",18,"critical/other existing credit","no known savings",2,"male single",4,"no known property",38,1,1
+"<0",12,"no credits/all paid","<100",4,"male single",2,"life insurance",28,2,1
+"no checking",10,"existing paid","500<=X<1000",4,"male single",4,"no known property",46,1,1
+"0<=X<200",24,"existing paid","<100",4,"male single",2,"real estate",23,2,1
+"no checking",12,"critical/other existing credit","no known savings",1,"male single",4,"real estate",49,1,1
+"no checking",36,"delayed previously","<100",4,"male single",2,"car",26,2,1
+"no checking",12,"existing paid","<100",4,"male mar/wid",2,"real estate",28,1,1
+"<0",30,"existing paid","<100",4,"female div/dep/mar",4,"real estate",23,2,1
+"0<=X<200",18,"existing paid","no known savings",4,"male single",4,"no known property",61,1,1
+">=200",12,"existing paid","no known savings",2,"male single",3,"car",37,1,1
+">=200",12,"delayed previously","<100",2,"female div/dep/mar",2,"car",36,1,1
+"no checking",6,"existing paid","<100",1,"male mar/wid",2,"life insurance",21,1,1
+"<0",18,"existing paid","<100",4,"male single",1,"car",25,2,1
+"no checking",12,"existing paid","<100",2,"male single",4,"car",36,1,1
+"no checking",18,"critical/other existing credit","<100",3,"male single",1,"car",27,1,1
+"<0",18,"existing paid","<100",1,"female div/dep/mar",4,"car",22,1,1
+"<0",36,"existing paid","<100",4,"male single",2,"car",42,2,1
+"0<=X<200",18,"existing paid","<100",2,"female div/dep/mar",4,"real estate",40,1,1
+"no checking",36,"existing paid","no known savings",4,"male single",4,"real estate",36,1,1
+"no checking",18,"critical/other existing credit","<100",3,"male single",4,"car",33,1,1
+"no checking",10,"critical/other existing credit","<100",1,"female div/dep/mar",3,"real estate",23,1,1
+"no checking",60,"critical/other existing credit","no known savings",2,"male single",4,"no known property",63,1,1
+"0<=X<200",60,"all paid","100<=X<500",3,"female div/dep/mar",4,"no known property",60,2,1
+"<0",48,"all paid","<100",2,"female div/dep/mar",4,"car",37,2,1
+"no checking",18,"delayed previously","<100",2,"male mar/wid",3,"real estate",34,1,1
+"no checking",7,"delayed previously","no known savings",3,"male single",4,"no known property",36,1,1
+"0<=X<200",36,"existing paid","<100",4,"male single",2,"no known property",57,2,1
+"no checking",6,"critical/other existing credit","100<=X<500",4,"female div/dep/mar",4,"car",52,1,1
+"<0",20,"existing paid","no known savings",4,"male single",4,"car",39,1,1
+"0<=X<200",18,"existing paid","<100",3,"female div/dep/mar",4,"no known property",38,2,1
+"no checking",22,"existing paid","no known savings",4,"female div/dep/mar",4,"life insurance",25,1,1
+">=200",12,"existing paid","<100",4,"male single",1,"real estate",26,1,1
+"no checking",30,"delayed previously","100<=X<500",2,"male single",2,"life insurance",26,1,1
+"no checking",18,"critical/other existing credit","<100",2,"female div/dep/mar",1,"car",25,1,1
+"no checking",18,"existing paid","no known savings",4,"female div/dep/mar",2,"real estate",21,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"male single",4,"life insurance",40,1,1
+"0<=X<200",15,"critical/other existing credit","500<=X<1000",2,"male single",4,"car",27,1,1
+"no checking",9,"existing paid","<100",3,"female div/dep/mar",2,"car",27,1,1
+"no checking",18,"existing paid","<100",2,"male mar/wid",2,"life insurance",30,1,1
+"0<=X<200",12,"existing paid",">=1000",1,"female div/dep/mar",4,"real estate",19,1,1
+"<0",36,"existing paid","<100",2,"male single",4,"no known property",39,1,1
+"<0",6,"critical/other existing credit","<100",1,"female div/dep/mar",4,"car",31,1,1
+"no checking",9,"critical/other existing credit","<100",2,"male single",3,"car",31,1,1
+"0<=X<200",39,"delayed previously","100<=X<500",2,"male single",3,"no known property",32,1,1
+"<0",12,"existing paid","<100",3,"female div/dep/mar",4,"no known property",55,1,1
+"<0",36,"critical/other existing credit","<100",3,"male mar/wid",2,"life insurance",46,1,1
+"0<=X<200",12,"existing paid","<100",1,"male div/sep",1,"real estate",46,2,1
+"no checking",24,"critical/other existing credit",">=1000",4,"female div/dep/mar",1,"real estate",43,1,1
+"no checking",18,"existing paid","<100",3,"male mar/wid",4,"real estate",39,1,1
+"0<=X<200",18,"critical/other existing credit","no known savings",4,"male mar/wid",4,"real estate",28,1,1
+"no checking",24,"delayed previously","<100",2,"male single",2,"car",27,2,1
+"no checking",14,"delayed previously","<100",4,"male single",2,"car",27,1,1
+"0<=X<200",18,"delayed previously","no known savings",4,"male single",4,"car",43,1,1
+"0<=X<200",24,"existing paid","<100",1,"male mar/wid",1,"life insurance",22,2,1
+"no checking",24,"critical/other existing credit","no known savings",4,"male single",4,"car",43,1,1
+"<0",15,"existing paid","<100",4,"male mar/wid",2,"real estate",27,1,1
+"no checking",24,"existing paid","500<=X<1000",3,"male div/sep",2,"car",26,1,1
+">=200",12,"critical/other existing credit","500<=X<1000",4,"male mar/wid",2,"real estate",28,2,1
+"0<=X<200",24,"existing paid","<100",4,"female div/dep/mar",4,"car",20,1,1
+"no checking",33,"critical/other existing credit","<100",3,"male single",2,"car",35,1,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",2,"car",42,2,1
+"no checking",10,"existing paid","500<=X<1000",3,"male single",2,"no known property",40,1,1
+"<0",24,"existing paid","no known savings",4,"female div/dep/mar",2,"life insurance",35,2,1
+"no checking",36,"critical/other existing credit","<100",2,"male single",2,"life insurance",35,1,1
+"<0",12,"existing paid","<100",4,"male single",1,"real estate",33,2,1
+"<0",18,"delayed previously","no known savings",1,"female div/dep/mar",2,"car",23,1,1
+"no checking",21,"existing paid","500<=X<1000",1,"female div/dep/mar",2,"car",31,1,1
+"0<=X<200",18,"existing paid","no known savings",4,"female div/dep/mar",2,"life insurance",33,2,1
+"no checking",15,"existing paid",">=1000",2,"female div/dep/mar",3,"car",20,1,1
+"0<=X<200",12,"existing paid","no known savings",4,"male single",2,"car",30,1,1
+"0<=X<200",12,"critical/other existing credit","<100",2,"male single",3,"real estate",47,1,1
+"no checking",21,"delayed previously","100<=X<500",4,"male single",3,"real estate",34,1,1
+"0<=X<200",12,"existing paid","no known savings",1,"female div/dep/mar",2,"life insurance",25,2,1
+"0<=X<200",18,"existing paid","<100",1,"male mar/wid",3,"car",21,1,1
+"no checking",28,"critical/other existing credit","<100",4,"male single",2,"car",29,1,1
+"no checking",18,"critical/other existing credit",">=1000",4,"male single",3,"real estate",46,1,1
+"no checking",9,"existing paid","<100",1,"male single",4,"car",20,1,1
+"<0",18,"critical/other existing credit","<100",2,"female div/dep/mar",4,"no known property",55,2,1
+"no checking",5,"existing paid","<100",1,"male single",4,"real estate",74,1,1
+"0<=X<200",24,"existing paid","<100",2,"male single",3,"car",29,2,1
+"<0",6,"critical/other existing credit","<100",4,"male single",4,"no known property",36,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male div/sep",2,"real estate",33,1,1
+"<0",9,"existing paid","<100",3,"male single",2,"real estate",25,1,1
+"0<=X<200",12,"existing paid","no known savings",2,"male mar/wid",1,"real estate",25,2,1
+"no checking",6,"existing paid","500<=X<1000",2,"male mar/wid",4,"real estate",23,1,1
+"no checking",24,"critical/other existing credit",">=1000",4,"female div/dep/mar",4,"real estate",37,1,1
+"<0",42,"critical/other existing credit","<100",4,"male single",4,"car",65,1,1
+">=200",12,"all paid","<100",4,"female div/dep/mar",1,"real estate",26,2,1
+"no checking",12,"existing paid","<100",4,"male single",4,"car",39,1,1
+"<0",18,"existing paid","<100",2,"female div/dep/mar",3,"life insurance",30,1,1
+"0<=X<200",20,"delayed previously","<100",2,"male single",3,"car",29,1,1
+"no checking",12,"existing paid","<100",4,"male single",4,"car",41,2,1
+"no checking",48,"critical/other existing credit","<100",2,"female div/dep/mar",3,"car",30,2,1
+"no checking",9,"critical/other existing credit","no known savings",4,"female div/dep/mar",4,"life insurance",41,1,1
+"<0",36,"existing paid","<100",4,"female div/dep/mar",4,"car",34,2,1
+"0<=X<200",7,"existing paid","<100",2,"male single",2,"real estate",35,1,1
+">=200",12,"existing paid","no known savings",3,"female div/dep/mar",4,"real estate",55,1,1
+"0<=X<200",15,"delayed previously",">=1000",3,"male mar/wid",3,"life insurance",61,2,1
+"no checking",36,"critical/other existing credit","no known savings",4,"male single",2,"car",30,1,1
+"no checking",6,"existing paid","<100",3,"female div/dep/mar",1,"real estate",29,1,1
+"no checking",12,"no credits/all paid","<100",2,"male single",4,"life insurance",34,1,1
+"no checking",24,"existing paid","<100",4,"male single",4,"car",35,1,1
+"<0",24,"existing paid","<100",2,"male single",3,"life insurance",31,2,1
+"no checking",24,"existing paid","<100",4,"female div/dep/mar",1,"no known property",29,1,1
+"<0",11,"critical/other existing credit","<100",2,"male single",2,"real estate",36,1,1
+"<0",12,"existing paid","<100",3,"male single",4,"no known property",35,2,1
+"<0",6,"existing paid","<100",4,"female div/dep/mar",1,"real estate",27,1,1
+"no checking",18,"existing paid","<100",3,"male single",2,"car",32,1,1
+"<0",36,"existing paid","<100",1,"male single",2,"life insurance",37,1,1
+"<0",15,"existing paid","<100",2,"male single",3,"real estate",36,1,1
+"0<=X<200",12,"existing paid","<100",3,"female div/dep/mar",1,"real estate",34,1,1
+"0<=X<200",18,"existing paid","no known savings",4,"male single",4,"life insurance",38,1,1
+"no checking",18,"existing paid","<100",4,"male single",1,"car",34,1,1
+"<0",24,"existing paid","<100",3,"male single",4,"no known property",63,1,1
+"<0",24,"delayed previously","<100",4,"female div/dep/mar",2,"car",29,2,1
+"no checking",48,"delayed previously","no known savings",3,"male single",3,"car",32,1,1
+"no checking",18,"delayed previously","<100",2,"female div/dep/mar",2,"car",26,1,1
+"no checking",24,"delayed previously","<100",3,"male single",3,"car",35,1,1
+"0<=X<200",18,"existing paid","100<=X<500",3,"male mar/wid",2,"car",22,2,1
+"<0",6,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",23,2,1
+"no checking",9,"existing paid","<100",4,"male single",3,"car",28,2,1
+"no checking",6,"existing paid","no known savings",4,"male single",4,"life insurance",36,1,1
+"0<=X<200",18,"critical/other existing credit","<100",4,"male mar/wid",2,"car",33,2,1
+"<0",18,"no credits/all paid","<100",1,"female div/dep/mar",4,"life insurance",26,2,1
+"no checking",39,"existing paid","500<=X<1000",4,"male single",4,"car",24,1,1
+">=200",24,"existing paid","<100",4,"male single",2,"car",25,1,1
+"0<=X<200",12,"existing paid","100<=X<500",3,"male single",4,"real estate",39,1,1
+"<0",15,"critical/other existing credit","<100",4,"male single",4,"car",44,1,1
+"0<=X<200",12,"critical/other existing credit","<100",1,"female div/dep/mar",1,"real estate",23,1,1
+"0<=X<200",24,"existing paid","<100",4,"male single",1,"life insurance",26,1,1
+"<0",30,"existing paid",">=1000",4,"female div/dep/mar",4,"life insurance",57,1,1
+"no checking",15,"delayed previously",">=1000",3,"female div/dep/mar",2,"life insurance",30,1,1
+"no checking",18,"critical/other existing credit","500<=X<1000",4,"male single",4,"real estate",44,1,1
+"0<=X<200",6,"delayed previously","<100",4,"male single",4,"life insurance",47,2,1
+"no checking",12,"existing paid","<100",2,"male single",4,"car",52,1,1
+"no checking",24,"existing paid","<100",4,"female div/dep/mar",4,"no known property",62,1,1
+"no checking",10,"existing paid","100<=X<500",3,"male single",2,"real estate",35,1,1
+"no checking",6,"existing paid","<100",2,"male single",3,"life insurance",26,1,1
+"no checking",12,"critical/other existing credit","<100",2,"male single",2,"no known property",26,1,1
+"0<=X<200",27,"no credits/all paid","<100",2,"female div/dep/mar",4,"no known property",42,2,1
+"no checking",6,"critical/other existing credit","100<=X<500",1,"female div/dep/mar",1,"life insurance",27,1,1
+"0<=X<200",6,"existing paid","no known savings",4,"male single",4,"life insurance",38,1,1
+"<0",12,"critical/other existing credit","<100",3,"male single",2,"real estate",39,1,1
+"<0",24,"existing paid","no known savings",2,"male mar/wid",4,"car",20,2,1
+"0<=X<200",36,"existing paid","100<=X<500",4,"male single",1,"no known property",29,2,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",3,"life insurance",40,1,1
+"0<=X<200",18,"existing paid","<100",4,"male mar/wid",2,"real estate",32,1,1
+">=200",6,"critical/other existing credit","100<=X<500",2,"male div/sep",4,"car",28,1,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",1,"life insurance",27,2,1
+"<0",36,"existing paid","<100",2,"male single",4,"no known property",42,1,1
+">=200",18,"existing paid","100<=X<500",2,"male div/sep",4,"real estate",49,1,1
+"0<=X<200",24,"critical/other existing credit","100<=X<500",4,"male single",4,"no known property",38,2,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",24,2,1
+"no checking",10,"existing paid","no known savings",4,"male single",4,"life insurance",27,2,1
+">=200",15,"critical/other existing credit","500<=X<1000",2,"male single",2,"car",36,1,1
+"0<=X<200",15,"all paid","100<=X<500",1,"male single",2,"life insurance",34,2,1
+"no checking",24,"existing paid","<100",4,"male mar/wid",2,"life insurance",28,1,1
+"no checking",39,"existing paid","100<=X<500",4,"male single",2,"car",45,1,1
+"<0",12,"existing paid","<100",4,"male single",2,"real estate",26,2,1
+"no checking",36,"existing paid","<100",2,"male single",2,"no known property",32,1,1
+">=200",15,"existing paid","<100",2,"male single",4,"life insurance",26,1,1
+"no checking",12,"delayed previously","<100",4,"male mar/wid",4,"real estate",20,1,1
+"no checking",24,"existing paid","no known savings",4,"male single",1,"life insurance",54,1,1
+"<0",18,"critical/other existing credit","<100",4,"female div/dep/mar",3,"life insurance",37,1,1
+"no checking",6,"critical/other existing credit","<100",2,"male single",4,"real estate",40,1,1
+"no checking",36,"critical/other existing credit","<100",2,"female div/dep/mar",4,"life insurance",23,2,1
+"<0",6,"existing paid","100<=X<500",3,"male single",2,"life insurance",43,1,1
+"no checking",6,"critical/other existing credit","no known savings",4,"male single",4,"no known property",36,1,1
+"no checking",24,"critical/other existing credit","<100",3,"male single",4,"no known property",44,1,1
+"<0",18,"existing paid","<100",2,"female div/dep/mar",2,"real estate",24,2,1
+"<0",48,"no credits/all paid","<100",3,"male single",4,"no known property",53,2,1
+"no checking",24,"existing paid","100<=X<500",3,"female div/dep/mar",4,"car",23,1,1
+"0<=X<200",18,"existing paid","<100",4,"female div/dep/mar",4,"real estate",26,1,1
+"0<=X<200",26,"existing paid","<100",2,"male single",3,"car",30,1,1
+"no checking",15,"critical/other existing credit","100<=X<500",4,"female div/dep/mar",3,"car",31,1,1
+"no checking",4,"critical/other existing credit","<100",2,"male single",1,"real estate",42,1,1
+"<0",36,"existing paid","<100",4,"male div/sep",4,"car",31,2,1
+"no checking",6,"existing paid","<100",3,"male single",4,"real estate",41,1,1
+"0<=X<200",36,"existing paid","<100",3,"male single",1,"car",32,1,1
+"0<=X<200",15,"existing paid","100<=X<500",2,"female div/dep/mar",4,"car",28,2,1
+"no checking",12,"delayed previously","<100",4,"male mar/wid",4,"real estate",41,1,1
+"no checking",18,"existing paid","100<=X<500",4,"male mar/wid",3,"life insurance",26,1,1
+"no checking",24,"existing paid","no known savings",4,"male single",2,"car",25,1,1
+">=200",21,"critical/other existing credit","<100",2,"male div/sep",1,"car",33,2,1
+"<0",18,"existing paid","no known savings",4,"female div/dep/mar",3,"life insurance",75,1,1
+"0<=X<200",18,"critical/other existing credit","<100",3,"female div/dep/mar",4,"life insurance",37,1,1
+"<0",48,"existing paid","<100",4,"male single",4,"no known property",42,2,1
+">=200",18,"existing paid","<100",1,"female div/dep/mar",1,"life insurance",45,1,1
+"0<=X<200",12,"existing paid","<100",1,"male mar/wid",1,"real estate",23,2,1
+"no checking",18,"delayed previously","<100",4,"male single",4,"no known property",60,1,1
+"<0",30,"existing paid","no known savings",4,"male single",4,"life insurance",31,2,1
+"no checking",18,"existing paid","<100",2,"male single",1,"real estate",34,2,1
+"no checking",12,"critical/other existing credit","<100",4,"male single",4,"real estate",61,1,1
+"<0",24,"delayed previously","<100",4,"male single",2,"real estate",43,2,1
+"no checking",24,"critical/other existing credit","<100",4,"female div/dep/mar",4,"car",37,1,1
+"no checking",24,"existing paid","<100",3,"male single",1,"car",32,1,1
+"<0",12,"all paid","<100",4,"female div/dep/mar",4,"real estate",24,2,1
+"no checking",18,"critical/other existing credit","no known savings",2,"male single",1,"no known property",35,1,1
+"no checking",12,"critical/other existing credit","no known savings",4,"female div/dep/mar",4,"real estate",23,1,1
+"no checking",6,"all paid","500<=X<1000",2,"male single",4,"life insurance",45,1,1
+"<0",48,"existing paid","<100",1,"male mar/wid",1,"real estate",34,2,1
+"0<=X<200",12,"critical/other existing credit","100<=X<500",4,"male single",1,"car",27,1,1
+"0<=X<200",9,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",67,1,1
+"0<=X<200",12,"existing paid","<100",2,"male single",1,"car",22,2,1
+"0<=X<200",18,"no credits/all paid","100<=X<500",3,"female div/dep/mar",3,"car",28,2,1
+"no checking",21,"no credits/all paid","no known savings",1,"female div/dep/mar",4,"life insurance",29,2,1
+"<0",24,"all paid","<100",3,"male single",4,"car",27,2,1
+"0<=X<200",18,"critical/other existing credit","<100",2,"male single",2,"real estate",31,2,1
+"<0",24,"existing paid","no known savings",4,"male single",4,"no known property",49,1,1
+"<0",24,"all paid","<100",4,"male single",4,"car",24,2,1
+">=200",6,"delayed previously","<100",2,"female div/dep/mar",1,"life insurance",29,1,1
+"0<=X<200",36,"existing paid","no known savings",1,"male single",4,"no known property",37,2,1
+"0<=X<200",24,"delayed previously","no known savings",4,"male single",2,"life insurance",37,1,1
+"0<=X<200",24,"delayed previously","100<=X<500",3,"female div/dep/mar",2,"life insurance",23,1,1
+"<0",12,"existing paid","<100",2,"male div/sep",3,"car",36,2,1
+"no checking",24,"critical/other existing credit",">=1000",2,"male single",2,"car",34,1,1
+"0<=X<200",48,"existing paid","no known savings",4,"male single",1,"car",41,1,1
+"<0",48,"existing paid","<100",3,"female div/dep/mar",2,"car",31,2,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",4,"real estate",23,2,1
+"no checking",30,"critical/other existing credit","<100",3,"male single",2,"car",38,1,1
+"no checking",24,"existing paid","no known savings",2,"female div/dep/mar",4,"life insurance",26,1,1
+"<0",15,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",22,1,1
+"0<=X<200",9,"existing paid","<100",4,"male single",4,"car",27,1,1
+"no checking",18,"critical/other existing credit","<100",2,"female div/dep/mar",3,"car",24,1,1
+"0<=X<200",12,"existing paid","<100",2,"female div/dep/mar",1,"real estate",27,1,1
+"no checking",24,"critical/other existing credit","no known savings",3,"female div/dep/mar",2,"car",33,1,1
+"0<=X<200",36,"critical/other existing credit","<100",4,"male div/sep",4,"car",27,2,1
+"no checking",24,"existing paid","<100",4,"male mar/wid",3,"car",27,1,1
+"no checking",18,"critical/other existing credit","<100",3,"male single",3,"real estate",30,2,1
+"0<=X<200",12,"critical/other existing credit","<100",1,"male single",3,"real estate",49,1,1
+"no checking",9,"existing paid","<100",4,"female div/dep/mar",2,"real estate",26,1,1
+"0<=X<200",36,"existing paid","<100",4,"male single",1,"no known property",33,2,1
+"no checking",12,"existing paid","no known savings",4,"female div/dep/mar",4,"no known property",52,1,1
+"<0",18,"existing paid","<100",1,"female div/dep/mar",4,"real estate",20,2,1
+"no checking",9,"critical/other existing credit","<100",2,"male single",2,"real estate",36,1,1
+"<0",12,"existing paid","<100",4,"male single",1,"life insurance",21,1,1
+"<0",18,"existing paid","<100",4,"male mar/wid",3,"real estate",47,2,1
+"<0",18,"critical/other existing credit","<100",3,"male single",3,"life insurance",60,2,1
+"<0",12,"critical/other existing credit","<100",4,"female div/dep/mar",3,"real estate",58,1,1
+"0<=X<200",24,"delayed previously","no known savings",4,"female div/dep/mar",4,"car",42,1,1
+"no checking",21,"existing paid",">=1000",4,"female div/dep/mar",4,"real estate",36,1,1
+"0<=X<200",24,"existing paid","<100",3,"female div/dep/mar",4,"life insurance",20,2,1
+"<0",24,"all paid","no known savings",4,"male single",3,"car",40,2,1
+"0<=X<200",6,"all paid","100<=X<500",1,"female div/dep/mar",1,"life insurance",32,2,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",4,"car",23,2,1
+"0<=X<200",24,"no credits/all paid","<100",1,"male single",4,"real estate",36,2,1
+"no checking",18,"critical/other existing credit","<100",2,"male single",2,"life insurance",31,2,1
+"no checking",24,"delayed previously","<100",1,"male single",2,"no known property",32,1,1
+"0<=X<200",7,"existing paid","<100",1,"female div/dep/mar",1,"real estate",45,1,1
+"no checking",18,"existing paid","<100",4,"female div/dep/mar",1,"life insurance",30,2,1
+"0<=X<200",24,"all paid","<100",4,"female div/dep/mar",4,"no known property",34,2,1
+"no checking",36,"existing paid","<100",4,"female div/dep/mar",2,"car",28,2,1
+">=200",10,"existing paid","<100",4,"female div/dep/mar",2,"life insurance",23,1,1
+"<0",18,"all paid","500<=X<1000",4,"male single",4,"real estate",22,1,1
+"no checking",24,"critical/other existing credit","<100",3,"male single",2,"real estate",74,1,1
+"0<=X<200",36,"existing paid","100<=X<500",4,"female div/dep/mar",4,"no known property",50,2,1
+"no checking",18,"existing paid","<100",4,"male single",1,"real estate",33,1,1
+"no checking",15,"existing paid","no known savings",4,"male single",4,"no known property",45,1,1
+"<0",12,"existing paid","100<=X<500",4,"female div/dep/mar",3,"life insurance",22,2,1
+">=200",10,"existing paid","100<=X<500",1,"female div/dep/mar",4,"no known property",48,2,1
+"<0",21,"existing paid",">=1000",4,"female div/dep/mar",2,"car",29,1,1
+"<0",24,"all paid","<100",1,"female div/dep/mar",4,"car",22,1,1
+"no checking",18,"delayed previously","<100",4,"female div/dep/mar",1,"real estate",22,2,1
+"0<=X<200",48,"no credits/all paid","no known savings",2,"male single",2,"car",48,1,1
+"no checking",60,"delayed previously","no known savings",2,"male single",2,"no known property",27,1,1
+"no checking",6,"critical/other existing credit","<100",1,"male single",3,"real estate",37,1,1
+"0<=X<200",30,"existing paid","100<=X<500",2,"female div/dep/mar",4,"car",21,2,1
+"no checking",12,"existing paid","<100",4,"male div/sep",2,"real estate",49,1,1
+"0<=X<200",21,"critical/other existing credit","<100",2,"male single",3,"life insurance",27,1,1
+"no checking",18,"critical/other existing credit","<100",3,"male single",2,"life insurance",32,2,1
+"no checking",48,"existing paid","no known savings",4,"male div/sep",2,"real estate",38,2,1
+"no checking",12,"existing paid","<100",4,"female div/dep/mar",1,"car",22,1,1
+"<0",18,"existing paid","<100",4,"male single",4,"no known property",65,2,1
+"no checking",15,"existing paid","no known savings",4,"male single",2,"car",35,1,1
+">=200",6,"existing paid","<100",2,"male single",2,"real estate",41,1,1
+"0<=X<200",9,"all paid","100<=X<500",2,"male single",3,"no known property",29,2,1
+"no checking",42,"critical/other existing credit","500<=X<1000",4,"male single",4,"real estate",36,1,1
+"no checking",9,"existing paid","no known savings",1,"male single",4,"real estate",64,1,1
+"<0",24,"existing paid","<100",2,"female div/dep/mar",4,"car",28,1,1
+"<0",18,"all paid","<100",4,"male single",3,"car",44,2,1
+"0<=X<200",15,"existing paid","no known savings",4,"male single",1,"life insurance",23,1,1
+"no checking",9,"existing paid","<100",2,"female div/dep/mar",2,"car",19,2,1
+"0<=X<200",24,"existing paid","<100",3,"female div/dep/mar",4,"car",25,2,1
+"no checking",12,"existing paid","<100",4,"male single",4,"life insurance",47,1,1
+"no checking",24,"existing paid","500<=X<1000",4,"female div/dep/mar",1,"car",28,1,1
+"no checking",60,"delayed previously","<100",2,"male single",4,"car",21,1,1
+"no checking",12,"existing paid","<100",4,"female div/dep/mar",3,"car",34,1,1
+"<0",42,"delayed previously","<100",3,"male single",2,"life insurance",26,2,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",1,"real estate",27,2,1
+"0<=X<200",15,"existing paid","<100",4,"male single",4,"car",38,1,1
+"no checking",15,"existing paid","100<=X<500",3,"male single",2,"life insurance",40,2,1
+"no checking",24,"critical/other existing credit","<100",4,"male mar/wid",2,"car",33,1,1
+"<0",18,"critical/other existing credit","<100",4,"male mar/wid",1,"life insurance",32,1,1
+"no checking",36,"delayed previously","no known savings",4,"male single",4,"car",27,2,1
+"no checking",30,"no credits/all paid","<100",2,"male div/sep",2,"real estate",32,1,1
+"no checking",12,"existing paid","500<=X<1000",2,"female div/dep/mar",2,"life insurance",26,2,1
+">=200",24,"existing paid","<100",4,"male single",3,"no known property",38,2,1
+"<0",12,"existing paid","<100",4,"male single",4,"car",40,2,1
+"<0",48,"existing paid","<100",4,"male single",1,"no known property",50,1,1
+"0<=X<200",12,"existing paid","<100",4,"male single",2,"life insurance",37,2,1
+"<0",24,"existing paid","<100",4,"male single",1,"real estate",45,2,1
+"0<=X<200",18,"delayed previously","100<=X<500",2,"male single",4,"car",42,2,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",3,"car",35,1,1
+"<0",14,"existing paid","<100",1,"male single",4,"no known property",22,1,1
+"0<=X<200",12,"existing paid","<100",4,"male single",4,"car",41,2,1
+"no checking",48,"existing paid","no known savings",4,"male single",3,"car",37,1,1
+"no checking",30,"no credits/all paid","<100",2,"female div/dep/mar",1,"car",28,1,1
+"0<=X<200",18,"critical/other existing credit","<100",2,"male single",1,"no known property",41,1,1
+">=200",12,"existing paid","<100",3,"male mar/wid",4,"real estate",23,1,1
+"<0",12,"existing paid","no known savings",4,"male mar/wid",2,"car",23,2,1
+"no checking",21,"existing paid","<100",4,"male single",2,"real estate",50,1,1
+"0<=X<200",6,"delayed previously","<100",4,"male single",1,"life insurance",35,1,1
+">=200",6,"critical/other existing credit","<100",2,"female div/dep/mar",4,"life insurance",50,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",2,"no known property",27,1,1
+"0<=X<200",18,"all paid",">=1000",4,"male single",2,"car",34,1,1
+"no checking",48,"all paid","<100",1,"female div/dep/mar",1,"real estate",27,1,1
+"<0",12,"critical/other existing credit","<100",3,"male single",4,"life insurance",43,2,1
+">=200",30,"critical/other existing credit","<100",4,"male single",4,"life insurance",47,1,1
+"no checking",18,"critical/other existing credit","100<=X<500",3,"male single",3,"life insurance",27,1,1
+"no checking",36,"existing paid","100<=X<500",2,"male single",2,"car",31,1,1
+"no checking",60,"existing paid","<100",2,"male single",4,"life insurance",42,1,1
+"no checking",6,"critical/other existing credit","500<=X<1000",1,"male mar/wid",2,"car",24,1,1
+"no checking",21,"delayed previously","500<=X<1000",4,"male single",2,"real estate",41,2,1
+"no checking",30,"critical/other existing credit","<100",4,"female div/dep/mar",4,"car",26,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",4,"car",33,1,1
+"0<=X<200",18,"existing paid","100<=X<500",2,"male mar/wid",2,"car",24,2,1
+"<0",24,"existing paid","<100",4,"male single",4,"real estate",64,1,1
+"no checking",18,"existing paid","<100",3,"female div/dep/mar",1,"real estate",26,1,1
+"no checking",6,"existing paid","<100",1,"female div/dep/mar",2,"no known property",56,1,1
+"no checking",12,"existing paid","no known savings",4,"male single",4,"no known property",37,1,1
+"no checking",18,"delayed previously","<100",4,"male mar/wid",3,"real estate",33,1,1
+"no checking",24,"critical/other existing credit","<100",3,"male mar/wid",3,"no known property",47,1,1
+"0<=X<200",36,"delayed previously","100<=X<500",1,"male single",3,"life insurance",31,1,1
+"no checking",60,"existing paid","no known savings",4,"male single",4,"no known property",34,1,1
+">=200",18,"critical/other existing credit","no known savings",4,"male single",2,"life insurance",27,1,1
+"0<=X<200",36,"delayed previously","100<=X<500",4,"male single",3,"no known property",30,1,1
+"no checking",9,"existing paid","100<=X<500",3,"male single",4,"car",35,1,1
+"<0",12,"existing paid",">=1000",1,"male single",3,"life insurance",31,1,1
+"<0",18,"critical/other existing credit","<100",2,"male div/sep",3,"life insurance",25,1,1
+"0<=X<200",15,"existing paid","100<=X<500",3,"female div/dep/mar",2,"real estate",25,1,1
+"0<=X<200",24,"existing paid","100<=X<500",2,"male single",1,"car",29,1,1
+"<0",6,"critical/other existing credit","no known savings",1,"male single",3,"real estate",44,1,1
+"no checking",24,"existing paid","<100",4,"male single",2,"car",28,1,1
+"no checking",6,"existing paid","500<=X<1000",2,"male single",4,"life insurance",50,1,1
+"0<=X<200",12,"existing paid","<100",4,"male single",3,"real estate",29,1,1
+"no checking",12,"critical/other existing credit","<100",1,"female div/dep/mar",2,"life insurance",38,1,1
+"no checking",18,"critical/other existing credit","<100",4,"male single",2,"car",24,1,1
+"no checking",15,"existing paid","<100",4,"male single",4,"car",40,1,1
+"no checking",12,"existing paid","500<=X<1000",4,"female div/dep/mar",4,"car",29,2,1
+"<0",18,"critical/other existing credit","<100",4,"male single",4,"no known property",46,2,1
+">=200",24,"existing paid","100<=X<500",4,"female div/dep/mar",2,"no known property",47,1,1
+"0<=X<200",30,"delayed previously","100<=X<500",4,"male single",2,"life insurance",41,1,1
+"0<=X<200",27,"existing paid","<100",4,"female div/dep/mar",1,"life insurance",32,1,1
+"no checking",15,"existing paid","500<=X<1000",1,"female div/dep/mar",4,"no known property",35,1,1
+"0<=X<200",48,"existing paid","100<=X<500",3,"male single",2,"life insurance",24,2,1
+"0<=X<200",18,"no credits/all paid","<100",4,"female div/dep/mar",3,"life insurance",25,2,1
+"0<=X<200",18,"existing paid","<100",4,"female div/dep/mar",4,"real estate",25,1,1
+"0<=X<200",9,"existing paid","<100",2,"male single",2,"real estate",37,1,1
+"no checking",18,"critical/other existing credit","500<=X<1000",4,"male single",3,"life insurance",32,1,1
+"<0",6,"all paid","<100",4,"female div/dep/mar",4,"no known property",35,2,1
+"no checking",21,"existing paid","no known savings",4,"male single",4,"real estate",46,1,1
+"<0",9,"critical/other existing credit","<100",4,"male single",4,"real estate",25,1,1
+"0<=X<200",60,"existing paid","<100",4,"male single",2,"no known property",27,2,1
+"no checking",30,"critical/other existing credit","no known savings",1,"male single",4,"car",63,1,1
+"no checking",30,"critical/other existing credit","no known savings",3,"male single",2,"car",40,1,1
+"no checking",18,"existing paid","<100",4,"male single",2,"no known property",32,1,1
+">=200",24,"critical/other existing credit","no known savings",3,"male single",2,"car",31,1,1
+"0<=X<200",20,"no credits/all paid","100<=X<500",3,"male mar/wid",4,"car",31,1,1
+">=200",9,"no credits/all paid","<100",4,"male single",2,"car",34,2,1
+"0<=X<200",6,"all paid",">=1000",4,"female div/dep/mar",2,"life insurance",24,2,1
+"<0",12,"existing paid","<100",4,"female div/dep/mar",2,"real estate",24,2,1
+"0<=X<200",9,"existing paid","500<=X<1000",4,"female div/dep/mar",3,"real estate",66,1,1
+"no checking",27,"existing paid","<100",3,"female div/dep/mar",3,"real estate",21,2,1
+"no checking",6,"critical/other existing credit",">=1000",2,"female div/dep/mar",2,"real estate",41,1,1
+"no checking",15,"critical/other existing credit","500<=X<1000",2,"male mar/wid",2,"life insurance",47,1,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",4,"car",25,2,1
+"0<=X<200",48,"all paid","<100",4,"female div/dep/mar",3,"no known property",59,2,1
+">=200",24,"critical/other existing credit",">=1000",2,"male div/sep",4,"real estate",36,1,1
+"0<=X<200",24,"delayed previously","<100",1,"male single",2,"car",33,1,1
+"<0",24,"existing paid","<100",2,"male single",4,"real estate",21,2,1
+"0<=X<200",8,"existing paid","<100",4,"female div/dep/mar",2,"real estate",44,1,1
+"no checking",24,"existing paid",">=1000",2,"female div/dep/mar",4,"car",28,1,1
+"no checking",4,"critical/other existing credit","<100",1,"female div/dep/mar",1,"real estate",37,1,1
+"0<=X<200",36,"all paid","no known savings",3,"female div/dep/mar",2,"no known property",29,1,1
+"0<=X<200",24,"existing paid","<100",1,"female div/dep/mar",4,"car",23,2,1
+"<0",18,"existing paid","100<=X<500",3,"male single",4,"car",35,1,1
+"no checking",6,"critical/other existing credit","<100",1,"male single",3,"no known property",45,1,1
+"0<=X<200",30,"no credits/all paid","100<=X<500",4,"female div/dep/mar",4,"car",26,2,1
+"<0",24,"all paid","100<=X<500",2,"male single",3,"car",32,1,1
+"0<=X<200",10,"all paid","<100",4,"male single",4,"real estate",23,1,1
+"no checking",21,"existing paid","no known savings",4,"male single",3,"life insurance",41,1,1
+"<0",24,"all paid","500<=X<1000",4,"male single",4,"real estate",22,1,1
+"<0",39,"critical/other existing credit","no known savings",4,"male single",4,"life insurance",30,1,1
+"<0",13,"critical/other existing credit","<100",3,"male single",1,"life insurance",28,1,1
+"no checking",15,"existing paid","<100",1,"female div/dep/mar",4,"car",23,1,1
+"<0",12,"existing paid","<100",3,"female div/dep/mar",1,"real estate",37,2,1
+"no checking",18,"existing paid","no known savings",1,"male single",3,"car",26,1,1
+"no checking",15,"existing paid","<100",2,"male single",2,"car",33,1,1
+"<0",6,"existing paid","<100",2,"female div/dep/mar",1,"life insurance",49,1,1
+"<0",18,"existing paid","<100",1,"female div/dep/mar",2,"car",23,2,1
+"0<=X<200",12,"existing paid","100<=X<500",2,"female div/dep/mar",4,"real estate",23,1,1
+"no checking",30,"critical/other existing credit","<100",4,"female div/dep/mar",2,"car",25,1,1
+"no checking",12,"delayed previously",">=1000",4,"male single",4,"no known property",55,2,1
+"<0",24,"existing paid","no known savings",4,"female div/dep/mar",4,"no known property",32,2,1
+">=200",6,"critical/other existing credit","<100",1,"male single",1,"real estate",74,1,1
+">=200",15,"critical/other existing credit","no known savings",3,"male single",4,"no known property",39,2,1
+"no checking",24,"existing paid","<100",2,"male single",2,"real estate",31,1,1
+"<0",12,"critical/other existing credit","<100",4,"male single",3,"life insurance",35,2,1
+"no checking",15,"critical/other existing credit","no known savings",1,"female div/dep/mar",4,"car",59,1,1
+"<0",18,"critical/other existing credit","<100",4,"female div/dep/mar",4,"real estate",24,2,1
+"<0",12,"existing paid","<100",4,"male single",3,"life insurance",24,1,1
+"no checking",21,"critical/other existing credit","no known savings",4,"male single",4,"no known property",30,2,1
+"no checking",24,"critical/other existing credit","100<=X<500",4,"male mar/wid",3,"life insurance",27,1,1
+"0<=X<200",12,"existing paid","<100",3,"male mar/wid",3,"real estate",40,1,1
+"<0",30,"existing paid","<100",2,"male div/sep",4,"life insurance",31,2,1
+"no checking",18,"existing paid","no known savings",1,"female div/dep/mar",4,"real estate",31,1,1
+"0<=X<200",12,"critical/other existing credit","<100",1,"male single",4,"car",28,1,1
+"no checking",12,"critical/other existing credit","<100",2,"male single",4,"real estate",63,1,1
+"no checking",24,"existing paid","no known savings",2,"female div/dep/mar",4,"real estate",26,1,1
+"<0",36,"critical/other existing credit","<100",3,"female div/dep/mar",2,"no known property",25,2,1
+"no checking",21,"critical/other existing credit","<100",1,"male single",4,"car",36,1,1
+"no checking",24,"critical/other existing credit","100<=X<500",4,"male single",4,"life insurance",52,1,1
+">=200",12,"critical/other existing credit","500<=X<1000",2,"male single",4,"no known property",66,1,1
+"<0",24,"existing paid","no known savings",4,"female div/dep/mar",4,"real estate",25,2,1
+"no checking",36,"critical/other existing credit","<100",4,"male single",4,"car",37,1,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",1,"real estate",25,1,1
+"no checking",36,"critical/other existing credit",">=1000",4,"male single",2,"car",38,1,1
+"0<=X<200",18,"existing paid","<100",2,"female div/dep/mar",4,"car",67,1,1
+"0<=X<200",39,"critical/other existing credit","<100",2,"male single",2,"real estate",25,2,1
+"no checking",24,"critical/other existing credit",">=1000",4,"male single",4,"real estate",60,1,1
+"0<=X<200",18,"no credits/all paid","<100",2,"male single",2,"real estate",31,1,1
+"no checking",12,"existing paid","100<=X<500",4,"female div/dep/mar",2,"life insurance",23,2,1
+"0<=X<200",20,"existing paid","no known savings",1,"male div/sep",4,"real estate",60,1,1
+"0<=X<200",18,"existing paid",">=1000",4,"male single",2,"life insurance",35,1,1
+"no checking",22,"existing paid","500<=X<1000",3,"male single",4,"car",40,1,1
+"no checking",48,"critical/other existing credit","no known savings",4,"male single",3,"car",38,1,1
+"0<=X<200",48,"delayed previously","<100",4,"male single",4,"no known property",50,2,1
+"<0",40,"critical/other existing credit","<100",4,"male single",3,"no known property",27,2,1
+"0<=X<200",21,"existing paid","<100",2,"female div/dep/mar",4,"life insurance",39,2,1
+"no checking",24,"existing paid","no known savings",3,"male single",4,"car",41,1,1
+"no checking",6,"critical/other existing credit","no known savings",1,"male mar/wid",2,"life insurance",27,1,1
+"no checking",24,"existing paid","<100",3,"male div/sep",4,"no known property",51,1,1
+"no checking",24,"existing paid","500<=X<1000",4,"male single",3,"no known property",32,1,1
+"no checking",9,"existing paid","100<=X<500",2,"female div/dep/mar",4,"life insurance",22,1,1
+"<0",18,"existing paid","no known savings",1,"male single",4,"life insurance",51,2,1
+"no checking",18,"critical/other existing credit","<100",2,"female div/dep/mar",4,"life insurance",22,1,1
+"no checking",24,"delayed previously","no known savings",4,"male mar/wid",4,"car",54,1,1
+"0<=X<200",9,"existing paid","no known savings",4,"male single",2,"real estate",35,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male single",4,"no known property",54,1,1
+"0<=X<200",18,"critical/other existing credit","<100",3,"female div/dep/mar",4,"real estate",48,1,1
+"<0",20,"critical/other existing credit","<100",1,"female div/dep/mar",4,"life insurance",24,1,1
+"no checking",12,"critical/other existing credit","no known savings",4,"male single",4,"car",35,1,1
+"no checking",12,"existing paid","no known savings",1,"female div/dep/mar",2,"real estate",24,1,1
+"<0",18,"existing paid","<100",2,"male single",1,"car",24,2,1
+"0<=X<200",6,"existing paid","<100",3,"male mar/wid",3,"real estate",26,1,1
+"no checking",18,"critical/other existing credit","no known savings",4,"male single",4,"real estate",65,1,1
+"0<=X<200",42,"all paid","<100",1,"male single",2,"no known property",55,1,1
+"0<=X<200",15,"no credits/all paid","<100",2,"female div/dep/mar",1,"real estate",26,2,1
+"0<=X<200",8,"existing paid","<100",3,"male mar/wid",2,"real estate",26,1,1
+"0<=X<200",6,"existing paid","<100",3,"male mar/wid",3,"real estate",28,1,1
+"<0",36,"critical/other existing credit","<100",4,"male single",4,"car",24,2,1
+"<0",48,"existing paid","<100",3,"male single",4,"car",54,2,1
+"<0",18,"existing paid","<100",4,"male single",4,"no known property",46,2,1
+"0<=X<200",36,"delayed previously","<100",2,"female div/dep/mar",2,"life insurance",54,1,1
+"no checking",6,"existing paid","500<=X<1000",1,"male div/sep",4,"real estate",62,1,1
+"no checking",6,"critical/other existing credit","<100",1,"female div/dep/mar",2,"car",24,1,1
+"<0",36,"existing paid","<100",2,"male div/sep",3,"car",43,1,1
+"<0",18,"existing paid","<100",4,"male mar/wid",3,"real estate",26,2,1
+"no checking",12,"existing paid","<100",3,"male mar/wid",2,"real estate",27,1,1
+">=200",12,"existing paid","<100",3,"male mar/wid",1,"car",24,1,1
+"<0",36,"existing paid","<100",2,"male single",2,"life insurance",41,2,1
+"<0",8,"critical/other existing credit","<100",4,"male single",4,"real estate",47,1,1
+"no checking",18,"critical/other existing credit","<100",3,"male div/sep",2,"car",35,1,1
+"<0",21,"critical/other existing credit","<100",4,"male mar/wid",3,"car",30,1,1
+"<0",18,"critical/other existing credit","<100",1,"female div/dep/mar",4,"real estate",33,2,1
+"no checking",18,"no credits/all paid","<100",2,"male single",2,"car",36,2,1
+"<0",36,"existing paid","no known savings",3,"male single",4,"no known property",47,2,1
+"0<=X<200",48,"delayed previously","no known savings",4,"male single",4,"no known property",38,1,1
+"no checking",24,"delayed previously","500<=X<1000",4,"male single",2,"car",44,1,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",3,"car",23,2,1
+"<0",18,"no credits/all paid","<100",2,"male single",4,"car",29,2,1
+"0<=X<200",24,"existing paid","no known savings",2,"female div/dep/mar",4,"car",42,1,1
+">=200",15,"existing paid","<100",2,"female div/dep/mar",3,"real estate",25,2,1
+"<0",12,"no credits/all paid","<100",4,"male single",4,"car",48,2,1
+"no checking",12,"existing paid","no known savings",4,"female div/dep/mar",2,"car",21,1,1
+"no checking",4,"existing paid","<100",1,"female div/dep/mar",3,"real estate",23,1,1
+"<0",24,"critical/other existing credit","<100",4,"male single",4,"life insurance",63,1,1
+"no checking",24,"critical/other existing credit","<100",4,"male mar/wid",3,"real estate",46,1,1
+"<0",36,"existing paid","<100",4,"male single",2,"life insurance",29,2,1
+"no checking",21,"delayed previously","<100",3,"male single",2,"real estate",28,1,1
+"no checking",18,"existing paid","<100",4,"female div/dep/mar",4,"real estate",23,2,1
+"no checking",24,"all paid","<100",4,"male single",4,"car",50,1,1
+"no checking",18,"existing paid","<100",4,"male single",4,"life insurance",47,1,1
+"0<=X<200",21,"existing paid","no known savings",2,"male single",3,"car",35,1,1
+"no checking",18,"existing paid","no known savings",2,"male single",4,"car",68,2,1
+"no checking",18,"existing paid","<100",4,"male mar/wid",2,"real estate",28,1,1
+"<0",9,"existing paid","<100",3,"male single",4,"real estate",59,1,1
+"<0",12,"existing paid","<100",4,"male single",4,"real estate",57,2,1
+"no checking",20,"critical/other existing credit","<100",4,"male mar/wid",2,"life insurance",33,2,1
+"no checking",18,"critical/other existing credit","no known savings",3,"male single",4,"life insurance",43,1,1
+"no checking",15,"critical/other existing credit","<100",4,"male single",4,"no known property",35,1,1
+"<0",18,"all paid","<100",4,"male single",4,"no known property",32,2,1
+"no checking",36,"delayed previously","<100",2,"male single",2,"car",45,1,1
+"no checking",24,"existing paid","100<=X<500",4,"male mar/wid",3,"real estate",33,1,1
+"no checking",10,"existing paid","no known savings",4,"female div/dep/mar",3,"life insurance",40,1,1
+"no checking",15,"critical/other existing credit","<100",4,"male single",2,"no known property",28,1,1
+"<0",15,"existing paid","<100",3,"female div/dep/mar",2,"life insurance",29,2,1
+"no checking",9,"existing paid","100<=X<500",1,"male single",2,"real estate",26,1,1
+"no checking",24,"critical/other existing credit",">=1000",4,"male single",2,"real estate",27,1,1
+"no checking",18,"delayed previously","<100",4,"male mar/wid",2,"car",28,2,1
+"<0",24,"existing paid","<100",4,"female div/dep/mar",4,"real estate",35,2,1
+"no checking",27,"critical/other existing credit",">=1000",4,"male single",2,"real estate",32,1,1
+"no checking",10,"existing paid","<100",2,"male single",2,"real estate",25,2,1
+"no checking",15,"existing paid","500<=X<1000",2,"female div/dep/mar",4,"car",20,1,1
+"<0",18,"existing paid","<100",4,"female div/dep/mar",1,"car",27,1,1
+"no checking",12,"critical/other existing credit","<100",2,"male single",4,"life insurance",42,1,1
+"no checking",36,"existing paid","no known savings",3,"male single",2,"life insurance",37,1,1
+"<0",12,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",24,1,1
+"no checking",36,"delayed previously","500<=X<1000",2,"female div/dep/mar",4,"car",40,1,1
+">=200",6,"critical/other existing credit","<100",1,"male single",4,"real estate",46,1,1
+"<0",24,"critical/other existing credit","100<=X<500",4,"male single",1,"real estate",26,1,1
+"no checking",15,"existing paid","no known savings",4,"female div/dep/mar",1,"real estate",24,1,1
+"<0",12,"existing paid","<100",2,"male single",2,"life insurance",29,1,1
+"0<=X<200",11,"critical/other existing credit",">=1000",4,"female div/dep/mar",4,"car",40,1,1
+"<0",18,"all paid","<100",3,"male single",4,"no known property",36,1,1
+"no checking",36,"existing paid","<100",4,"male single",2,"car",28,1,1
+"<0",18,"existing paid","<100",3,"male single",2,"no known property",27,2,1
+"no checking",30,"critical/other existing credit","no known savings",2,"male single",3,"life insurance",36,1,1
+"no checking",18,"existing paid","<100",3,"male single",3,"car",38,1,1
+"no checking",24,"existing paid","no known savings",2,"male div/sep",4,"no known property",48,1,1
+"0<=X<200",30,"critical/other existing credit","no known savings",4,"male single",4,"real estate",36,1,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",4,"car",65,1,1
+"0<=X<200",24,"existing paid","<100",3,"male div/sep",3,"car",43,2,1
+"no checking",12,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",53,2,1
+"0<=X<200",24,"critical/other existing credit","no known savings",4,"male single",3,"no known property",34,1,1
+"0<=X<200",48,"existing paid","<100",2,"male single",2,"car",23,2,1
+"no checking",36,"critical/other existing credit","<100",4,"male single",4,"car",34,1,1
+"no checking",18,"all paid","no known savings",3,"male single",4,"real estate",40,1,1
+"<0",27,"critical/other existing credit","<100",4,"male single",4,"car",43,1,1
+"no checking",15,"critical/other existing credit","<100",4,"male single",4,"car",46,1,1
+"<0",12,"critical/other existing credit","<100",4,"male single",4,"life insurance",38,1,1
+"0<=X<200",18,"critical/other existing credit","<100",3,"male single",4,"car",34,1,1
+"no checking",18,"critical/other existing credit","no known savings",4,"male single",3,"life insurance",29,1,1
+"no checking",36,"delayed previously","no known savings",3,"male single",2,"car",31,1,1
+"<0",21,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",28,1,1
+"no checking",12,"critical/other existing credit",">=1000",3,"female div/dep/mar",2,"life insurance",35,1,1
+"no checking",15,"existing paid","no known savings",1,"female div/dep/mar",4,"real estate",33,1,1
+"<0",18,"existing paid","<100",2,"male single",3,"car",42,2,1
+"<0",18,"critical/other existing credit","<100",2,"male single",4,"life insurance",43,2,1
+"no checking",20,"critical/other existing credit","no known savings",2,"male div/sep",4,"real estate",44,1,1
+"no checking",36,"critical/other existing credit","no known savings",2,"male single",4,"no known property",42,1,1
+"no checking",15,"existing paid","no known savings",4,"male mar/wid",2,"real estate",40,1,1
+"no checking",24,"existing paid","<100",4,"male single",1,"real estate",36,1,1
+"<0",12,"existing paid","<100",2,"male single",2,"real estate",20,1,1
+"<0",21,"existing paid","no known savings",2,"male single",2,"real estate",24,1,1
+"0<=X<200",36,"existing paid","no known savings",2,"male mar/wid",2,"car",27,1,1
+"no checking",15,"delayed previously","<100",1,"female div/dep/mar",2,"life insurance",46,1,1
+"0<=X<200",9,"existing paid","no known savings",1,"female div/dep/mar",2,"real estate",33,1,1
+"no checking",36,"delayed previously","<100",4,"female div/dep/mar",4,"real estate",34,1,1
+"0<=X<200",24,"critical/other existing credit","<100",2,"female div/dep/mar",4,"car",25,2,1
+"0<=X<200",30,"existing paid","no known savings",2,"female div/dep/mar",4,"car",25,1,1
+"no checking",11,"existing paid",">=1000",1,"male div/sep",2,"real estate",28,1,1
+"<0",24,"all paid","<100",4,"male single",2,"life insurance",31,2,1
+"0<=X<200",48,"no credits/all paid","<100",1,"female div/dep/mar",2,"life insurance",32,2,1
+"no checking",10,"existing paid","100<=X<500",1,"male single",2,"real estate",32,1,1
+"<0",6,"existing paid","<100",1,"male single",4,"no known property",68,2,1
+"<0",24,"existing paid","100<=X<500",1,"male div/sep",1,"life insurance",33,2,1
+"<0",24,"existing paid","<100",4,"male single",2,"life insurance",39,2,1
+"no checking",18,"critical/other existing credit","<100",4,"female div/dep/mar",2,"no known property",28,1,1
+"no checking",48,"delayed previously","500<=X<1000",4,"male single",1,"car",37,1,1
+"<0",9,"existing paid","<100",3,"female div/dep/mar",4,"life insurance",22,2,1
+"0<=X<200",12,"existing paid","<100",3,"male single",4,"life insurance",30,1,1
+"<0",24,"all paid","<100",2,"male div/sep",1,"life insurance",55,2,1
+"<0",12,"all paid","<100",4,"male single",2,"car",46,2,1
+"<0",18,"critical/other existing credit","<100",4,"female div/dep/mar",4,"life insurance",21,1,1
+"<0",48,"existing paid","<100",4,"male single",4,"no known property",39,2,1
+"no checking",30,"existing paid","no known savings",4,"male single",4,"car",58,1,1
+"<0",18,"delayed previously","<100",4,"male single",2,"real estate",43,1,1
+"<0",18,"existing paid","<100",4,"male single",1,"life insurance",24,1,1
+"0<=X<200",9,"existing paid","<100",4,"female div/dep/mar",2,"car",22,2,1
+"no checking",9,"critical/other existing credit","<100",3,"male single",1,"real estate",30,1,1
+"no checking",12,"critical/other existing credit","500<=X<1000",4,"male single",4,"life insurance",42,1,1
+"<0",12,"existing paid","<100",4,"female div/dep/mar",1,"car",23,1,1
+"0<=X<200",30,"delayed previously","100<=X<500",4,"male single",3,"no known property",30,2,1
+">=200",9,"existing paid","<100",3,"female div/dep/mar",2,"real estate",28,2,1
+"0<=X<200",6,"existing paid","<100",4,"male mar/wid",3,"car",30,1,1
+"0<=X<200",18,"existing paid","<100",4,"male single",4,"no known property",42,2,1
+"no checking",24,"critical/other existing credit","no known savings",2,"male single",4,"life insurance",46,1,1
+"no checking",12,"existing paid","no known savings",2,"male single",3,"life insurance",45,1,1
+"no checking",10,"existing paid","<100",3,"male single",2,"real estate",31,1,1
+"no checking",24,"existing paid","no known savings",4,"male single",2,"car",31,1,1
+"no checking",4,"critical/other existing credit","<100",2,"male single",1,"real estate",42,1,1
+"<0",15,"existing paid","<100",4,"female div/dep/mar",1,"life insurance",46,1,1
+"0<=X<200",48,"no credits/all paid","500<=X<1000",1,"female div/dep/mar",1,"car",30,1,1
+"<0",18,"all paid","500<=X<1000",4,"male single",4,"no known property",30,2,1
+"no checking",18,"existing paid","no known savings",4,"male single",4,"no known property",38,1,1
+"no checking",18,"existing paid","<100",4,"male mar/wid",1,"life insurance",43,2,1
+"no checking",24,"existing paid","100<=X<500",2,"male single",4,"car",31,2,1
+"0<=X<200",18,"critical/other existing credit","<100",3,"male mar/wid",3,"car",40,1,1
+"<0",36,"delayed previously","<100",2,"male single",1,"car",24,2,1
+"0<=X<200",24,"existing paid","500<=X<1000",3,"female div/dep/mar",4,"car",28,2,1
+"no checking",36,"existing paid","<100",4,"female div/dep/mar",2,"car",26,2,1
+"<0",12,"existing paid","<100",4,"female div/dep/mar",4,"life insurance",29,1,1
+"<0",24,"critical/other existing credit",">=1000",4,"female div/dep/mar",4,"life insurance",57,1,1
+">=200",30,"critical/other existing credit","no known savings",4,"male single",4,"life insurance",49,1,1
+"0<=X<200",9,"critical/other existing credit","<100",2,"male single",4,"real estate",37,1,1
+"<0",28,"existing paid","<100",3,"male single",2,"car",45,2,1
+"0<=X<200",24,"existing paid","100<=X<500",4,"male single",4,"no known property",30,1,1
+"no checking",6,"critical/other existing credit","<100",2,"male mar/wid",2,"real estate",30,1,1
+"0<=X<200",21,"delayed previously","<100",1,"male div/sep",4,"life insurance",47,1,1
+"no checking",15,"existing paid","no known savings",3,"male single",2,"no known property",29,1,1
+"no checking",24,"existing paid","500<=X<1000",3,"male single",2,"car",35,2,1
+"0<=X<200",6,"existing paid","<100",3,"male mar/wid",1,"life insurance",22,1,1
+"0<=X<200",30,"existing paid","no known savings",4,"female div/dep/mar",1,"car",26,1,1
+"0<=X<200",27,"critical/other existing credit","500<=X<1000",4,"male single",2,"life insurance",23,2,1
+"no checking",15,"existing paid","<100",4,"female div/dep/mar",2,"car",54,1,1
+"no checking",18,"existing paid","no known savings",2,"male mar/wid",4,"life insurance",29,1,1
+"<0",11,"critical/other existing credit","<100",1,"male single",2,"real estate",40,1,1
+"0<=X<200",15,"existing paid","100<=X<500",4,"male single",2,"real estate",22,1,1
+"no checking",24,"existing paid","<100",1,"male single",4,"life insurance",43,1,1
+"<0",24,"all paid","<100",1,"female div/dep/mar",4,"no known property",29,2,1
+"<0",60,"existing paid","<100",4,"male single",4,"no known property",36,2,1
+"no checking",30,"critical/other existing credit","<100",4,"female div/dep/mar",2,"car",33,1,1
+">=200",24,"existing paid","500<=X<1000",3,"female div/dep/mar",3,"car",57,1,1
+"0<=X<200",6,"existing paid","<100",2,"female div/dep/mar",3,"real estate",64,1,1
+"0<=X<200",18,"delayed previously","no known savings",4,"male single",2,"life insurance",42,1,1
+"no checking",24,"delayed previously","<100",4,"male single",4,"car",47,2,1
+"0<=X<200",15,"all paid","100<=X<500",2,"male mar/wid",2,"life insurance",25,2,1
+"0<=X<200",30,"critical/other existing credit","<100",2,"male single",2,"life insurance",49,2,1
+"no checking",48,"existing paid","<100",3,"male single",2,"car",33,2,1
+">=200",18,"existing paid","100<=X<500",1,"female div/dep/mar",1,"car",28,1,1
+"<0",36,"existing paid","<100",2,"male single",2,"life insurance",26,2,1
+"no checking",24,"critical/other existing credit","<100",2,"male single",2,"life insurance",30,1,1
+"<0",15,"critical/other existing credit","<100",4,"female div/dep/mar",3,"life insurance",25,1,1
+">=200",42,"no credits/all paid","<100",2,"male div/sep",1,"life insurance",33,1,1
+"no checking",13,"existing paid","100<=X<500",2,"female div/dep/mar",4,"real estate",64,1,1
+"no checking",24,"existing paid","<100",4,"male single",2,"no known property",29,1,1
+"0<=X<200",24,"critical/other existing credit","<100",4,"male single",2,"life insurance",48,1,1
+"no checking",12,"critical/other existing credit","no known savings",2,"male single",1,"life insurance",37,1,1
+"no checking",15,"all paid","100<=X<500",4,"male single",4,"car",34,1,1
+"<0",18,"existing paid","no known savings",2,"male mar/wid",4,"car",23,1,1
+"<0",36,"existing paid","<100",4,"male single",3,"life insurance",30,1,1
+"no checking",12,"existing paid","no known savings",4,"male single",3,"car",50,1,1
+"no checking",12,"existing paid","<100",3,"female div/dep/mar",4,"real estate",31,1,1
+"<0",30,"existing paid","<100",4,"male div/sep",4,"life insurance",40,1,1
+"no checking",12,"existing paid","<100",4,"male single",4,"car",38,1,1
+"<0",45,"existing paid","<100",4,"male single",4,"no known property",23,2,1
+"0<=X<200",45,"critical/other existing credit","100<=X<500",3,"male single",4,"car",27,1,1

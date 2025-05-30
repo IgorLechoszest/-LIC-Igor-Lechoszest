@@ -1,0 +1,1001 @@
+"checking_status","duration","credit_history","savings_status","employment","installment_commitment","other_parties","housing","foreign_worker","class","ID"
+"<0",6,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,1
+"0<=X<200",48,"existing paid","<100","1<=X<4",2,"none","own","yes",2,2
+"no checking",12,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,3
+"<0",42,"existing paid","<100","4<=X<7",2,"guarantor","for free","yes",1,4
+"<0",24,"delayed previously","<100","1<=X<4",3,"none","for free","yes",2,5
+"no checking",36,"existing paid","no known savings","1<=X<4",2,"none","for free","yes",1,6
+"no checking",24,"existing paid","500<=X<1000",">=7",3,"none","own","yes",1,7
+"0<=X<200",48,"existing paid","<100","1<=X<4",2,"none","rent","yes",1,8
+"no checking",12,"existing paid",">=1000","4<=X<7",2,"none","own","yes",1,9
+"0<=X<200",36,"critical/other existing credit","<100","unemployed",4,"none","own","yes",2,10
+"0<=X<200",12,"existing paid","<100","<1",3,"none","rent","yes",2,11
+"<0",24,"existing paid","<100","<1",3,"none","rent","yes",2,12
+"0<=X<200",12,"existing paid","<100","1<=X<4",1,"none","own","yes",1,13
+"<0",24,"critical/other existing credit","<100",">=7",4,"none","own","yes",2,14
+"<0",15,"existing paid","<100","1<=X<4",2,"none","rent","yes",1,15
+"<0",24,"existing paid","100<=X<500","1<=X<4",4,"none","own","yes",2,16
+"no checking",24,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,17
+"<0",30,"no credits/all paid","no known savings","<1",2,"none","own","yes",1,18
+"0<=X<200",24,"existing paid","<100",">=7",4,"none","for free","yes",2,19
+"no checking",60,"existing paid","500<=X<1000",">=7",3,"none","own","yes",1,20
+"no checking",9,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,21
+"<0",6,"existing paid","500<=X<1000","1<=X<4",2,"none","rent","yes",1,22
+"<0",10,"critical/other existing credit","<100","<1",1,"none","rent","no",1,23
+"0<=X<200",12,"critical/other existing credit","100<=X<500","<1",3,"none","own","yes",1,24
+"no checking",9,"critical/other existing credit","no known savings","1<=X<4",2,"none","own","no",1,25
+"<0",6,"existing paid","<100","1<=X<4",1,"none","own","yes",1,26
+">=200",21,"no credits/all paid","<100",">=7",4,"none","own","yes",1,27
+">=200",12,"all paid",">=1000","1<=X<4",3,"none","rent","yes",1,28
+"0<=X<200",7,"existing paid","<100","1<=X<4",3,"guarantor","own","yes",1,29
+"<0",60,"delayed previously","<100",">=7",3,"none","own","yes",2,30
+"0<=X<200",48,"existing paid",">=1000","<1",3,"none","own","yes",1,31
+"<0",24,"existing paid","<100","1<=X<4",2,"none","own","yes",1,32
+"0<=X<200",18,"existing paid","100<=X<500","1<=X<4",2,"none","own","yes",1,33
+"no checking",12,"critical/other existing credit","no known savings",">=7",4,"none","rent","yes",1,34
+">=200",12,"existing paid","<100","<1",4,"none","own","yes",1,35
+"0<=X<200",45,"critical/other existing credit","<100","<1",4,"none","own","yes",2,36
+"no checking",48,"critical/other existing credit","<100","1<=X<4",1,"none","for free","yes",1,37
+">=200",18,"existing paid","<100","1<=X<4",4,"co applicant","own","yes",2,38
+">=200",10,"existing paid","<100","1<=X<4",2,"none","own","yes",1,39
+">=200",9,"existing paid","<100","1<=X<4",4,"none","own","yes",1,40
+"no checking",30,"existing paid","500<=X<1000",">=7",4,"none","own","yes",1,41
+"0<=X<200",12,"existing paid","500<=X<1000","1<=X<4",3,"none","own","yes",1,42
+"0<=X<200",18,"delayed previously","<100","1<=X<4",2,"none","own","yes",1,43
+"<0",30,"critical/other existing credit","100<=X<500","4<=X<7",1,"none","rent","yes",1,44
+"<0",48,"critical/other existing credit","<100",">=7",4,"none","for free","yes",2,45
+"no checking",11,"critical/other existing credit","<100","<1",4,"none","own","yes",1,46
+"no checking",36,"existing paid","500<=X<1000",">=7",4,"none","own","yes",1,47
+"<0",6,"existing paid","500<=X<1000","unemployed",1,"none","rent","yes",1,48
+"no checking",11,"critical/other existing credit","<100","1<=X<4",1,"none","own","yes",1,49
+"no checking",12,"existing paid","100<=X<500","1<=X<4",4,"co applicant","own","yes",1,50
+"0<=X<200",24,"delayed previously","no known savings","<1",4,"none","own","yes",1,51
+"0<=X<200",27,"delayed previously","<100",">=7",1,"none","own","yes",1,52
+"no checking",12,"existing paid","<100","1<=X<4",3,"none","own","yes",1,53
+"no checking",18,"existing paid","no known savings","1<=X<4",2,"none","own","yes",1,54
+"0<=X<200",36,"delayed previously","<100",">=7",4,"none","for free","yes",2,55
+"no checking",6,"all paid","no known savings","1<=X<4",1,"guarantor","own","yes",1,56
+"0<=X<200",12,"existing paid","no known savings","unemployed",2,"none","own","yes",2,57
+"no checking",36,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",1,58
+">=200",18,"existing paid","<100",">=7",3,"none","own","yes",1,59
+"<0",36,"critical/other existing credit","<100","<1",4,"co applicant","rent","yes",2,60
+"0<=X<200",9,"existing paid","<100","1<=X<4",2,"none","own","yes",1,61
+"0<=X<200",15,"critical/other existing credit","no known savings",">=7",4,"guarantor","own","yes",1,62
+"0<=X<200",36,"no credits/all paid","<100",">=7",4,"none","for free","yes",2,63
+"0<=X<200",48,"no credits/all paid","<100","1<=X<4",2,"none","own","yes",2,64
+"no checking",24,"existing paid","<100","<1",4,"none","own","yes",1,65
+"no checking",48,"existing paid","no known savings",">=7",4,"none","own","yes",1,66
+"no checking",12,"existing paid","<100","<1",2,"none","own","yes",1,67
+"0<=X<200",12,"existing paid",">=1000","1<=X<4",4,"none","own","yes",1,68
+"no checking",36,"existing paid","<100","1<=X<4",4,"none","for free","yes",2,69
+"no checking",36,"existing paid","no known savings","1<=X<4",4,"none","own","yes",1,70
+"no checking",36,"existing paid","<100","1<=X<4",1,"none","own","yes",1,71
+"no checking",7,"critical/other existing credit","no known savings",">=7",4,"none","rent","yes",1,72
+"<0",8,"critical/other existing credit","<100",">=7",3,"none","for free","yes",1,73
+"0<=X<200",42,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,74
+"<0",36,"existing paid","no known savings",">=7",4,"none","own","yes",2,75
+"<0",12,"critical/other existing credit","<100",">=7",4,"none","for free","yes",1,76
+"<0",42,"existing paid","<100","<1",4,"none","own","yes",2,77
+"0<=X<200",11,"delayed previously","<100","4<=X<7",2,"none","own","yes",1,78
+"no checking",54,"no credits/all paid","no known savings","1<=X<4",2,"none","own","yes",1,79
+"0<=X<200",30,"existing paid","<100","<1",2,"none","own","yes",1,80
+"no checking",48,"existing paid","no known savings","<1",1,"none","own","yes",2,81
+"no checking",15,"existing paid","500<=X<1000",">=7",4,"none","own","yes",1,82
+"no checking",18,"existing paid","100<=X<500","1<=X<4",3,"none","rent","yes",1,83
+"<0",24,"existing paid","<100",">=7",4,"guarantor","own","yes",1,84
+"<0",10,"existing paid","<100",">=7",3,"none","own","yes",1,85
+"no checking",12,"critical/other existing credit","<100","1<=X<4",4,"guarantor","own","yes",1,86
+"0<=X<200",18,"critical/other existing credit","<100","<1",4,"none","own","yes",1,87
+"0<=X<200",54,"existing paid","100<=X<500","1<=X<4",1,"none","for free","yes",2,88
+"<0",18,"existing paid","100<=X<500","4<=X<7",4,"none","own","yes",1,89
+"<0",12,"no credits/all paid","<100","4<=X<7",4,"none","own","yes",2,90
+"no checking",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,91
+"<0",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,92
+"<0",12,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",2,93
+">=200",24,"critical/other existing credit","no known savings",">=7",4,"co applicant","rent","yes",1,94
+"0<=X<200",12,"existing paid",">=1000",">=7",4,"none","own","yes",1,95
+"0<=X<200",54,"no credits/all paid","<100","<1",3,"none","rent","yes",2,96
+"no checking",12,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,97
+"0<=X<200",18,"existing paid","100<=X<500","1<=X<4",4,"none","own","yes",1,98
+"0<=X<200",39,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,99
+"0<=X<200",20,"delayed previously","no known savings","4<=X<7",3,"none","rent","yes",1,100
+"no checking",24,"existing paid","100<=X<500",">=7",4,"none","rent","yes",1,101
+"0<=X<200",36,"existing paid","<100","4<=X<7",4,"none","rent","yes",1,102
+"no checking",6,"delayed previously","<100","1<=X<4",3,"none","own","yes",1,103
+"0<=X<200",9,"critical/other existing credit","<100","4<=X<7",4,"none","rent","yes",1,104
+"no checking",48,"existing paid","no known savings","<1",2,"none","rent","yes",1,105
+"0<=X<200",24,"critical/other existing credit","<100","1<=X<4",2,"co applicant","own","yes",2,106
+"no checking",48,"all paid","<100",">=7",2,"none","own","yes",2,107
+"0<=X<200",12,"existing paid","<100","4<=X<7",2,"none","own","yes",1,108
+"<0",24,"existing paid","no known savings","<1",1,"none","own","no",1,109
+"0<=X<200",14,"existing paid","500<=X<1000",">=7",1,"none","own","yes",1,110
+"0<=X<200",6,"delayed previously","100<=X<500",">=7",1,"none","own","yes",1,111
+">=200",15,"existing paid","<100","<1",4,"none","rent","yes",1,112
+"0<=X<200",18,"existing paid","<100","4<=X<7",3,"none","rent","yes",1,113
+"no checking",36,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",2,114
+"<0",12,"existing paid","500<=X<1000",">=7",3,"none","own","yes",1,115
+"no checking",48,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,116
+"<0",42,"existing paid","no known savings","4<=X<7",4,"none","own","yes",2,117
+"<0",10,"critical/other existing credit","no known savings","<1",2,"co applicant","rent","no",1,118
+"<0",33,"critical/other existing credit","500<=X<1000","1<=X<4",1,"none","own","yes",2,119
+"0<=X<200",48,"critical/other existing credit","500<=X<1000","4<=X<7",3,"none","own","yes",1,120
+"<0",21,"existing paid","<100","1<=X<4",3,"none","own","yes",2,121
+"no checking",48,"critical/other existing credit","<100",">=7",4,"none","rent","yes",1,122
+"no checking",12,"existing paid","<100","1<=X<4",3,"none","rent","yes",1,123
+">=200",10,"critical/other existing credit","<100",">=7",4,"none","for free","yes",1,124
+"0<=X<200",18,"existing paid","no known savings","<1",4,"none","rent","yes",2,125
+"<0",12,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,126
+"<0",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,127
+"0<=X<200",12,"existing paid","<100","1<=X<4",4,"none","own","yes",2,128
+"0<=X<200",12,"critical/other existing credit","<100","unemployed",4,"none","own","yes",1,129
+"<0",12,"critical/other existing credit","<100","1<=X<4",3,"co applicant","own","yes",2,130
+"0<=X<200",48,"existing paid","no known savings","4<=X<7",1,"none","own","yes",1,131
+"<0",54,"delayed previously","<100","1<=X<4",4,"none","own","yes",2,132
+"no checking",15,"existing paid","<100","<1",2,"none","own","yes",1,133
+"no checking",18,"existing paid","<100","1<=X<4",4,"none","for free","yes",1,134
+"no checking",60,"existing paid","100<=X<500","4<=X<7",2,"none","own","yes",1,135
+"no checking",12,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,136
+"no checking",27,"delayed previously",">=1000","1<=X<4",2,"none","own","yes",1,137
+"0<=X<200",12,"existing paid","500<=X<1000","1<=X<4",4,"none","own","yes",2,138
+"0<=X<200",15,"critical/other existing credit","no known savings","4<=X<7",4,"guarantor","own","yes",1,139
+">=200",12,"existing paid","<100","1<=X<4",2,"none","rent","yes",1,140
+">=200",6,"existing paid",">=1000","<1",2,"none","own","no",1,141
+"0<=X<200",36,"existing paid","<100","<1",4,"none","own","yes",1,142
+"<0",27,"existing paid","<100","1<=X<4",3,"none","own","yes",1,143
+"0<=X<200",18,"existing paid","<100","1<=X<4",2,"none","own","yes",2,144
+"no checking",48,"critical/other existing credit","<100","<1",4,"none","own","yes",1,145
+"0<=X<200",48,"all paid","100<=X<500","4<=X<7",4,"none","own","yes",1,146
+"<0",6,"critical/other existing credit","<100",">=7",1,"none","own","yes",1,147
+"no checking",12,"critical/other existing credit","100<=X<500","4<=X<7",4,"none","own","yes",1,148
+"<0",36,"critical/other existing credit","<100","1<=X<4",3,"guarantor","own","yes",1,149
+"no checking",18,"critical/other existing credit",">=1000",">=7",4,"none","own","yes",1,150
+"no checking",6,"existing paid","100<=X<500",">=7",2,"none","for free","yes",1,151
+"no checking",10,"existing paid","<100","1<=X<4",1,"none","own","no",1,152
+">=200",18,"existing paid","<100","1<=X<4",4,"none","own","yes",1,153
+"0<=X<200",24,"critical/other existing credit",">=1000",">=7",2,"none","rent","yes",1,154
+"0<=X<200",24,"delayed previously","100<=X<500","4<=X<7",4,"none","rent","yes",1,155
+"<0",12,"existing paid","<100","1<=X<4",2,"none","rent","yes",2,156
+"<0",9,"critical/other existing credit","100<=X<500",">=7",3,"guarantor","own","no",1,157
+"<0",12,"all paid","<100",">=7",4,"none","own","yes",1,158
+"0<=X<200",24,"existing paid","100<=X<500","4<=X<7",2,"none","own","yes",1,159
+"no checking",6,"critical/other existing credit","no known savings","1<=X<4",1,"none","own","yes",1,160
+"no checking",24,"critical/other existing credit","100<=X<500",">=7",3,"none","own","yes",1,161
+"no checking",18,"critical/other existing credit","<100","<1",4,"none","own","yes",1,162
+"no checking",15,"existing paid","500<=X<1000","4<=X<7",4,"none","own","yes",1,163
+"0<=X<200",54,"existing paid","<100","unemployed",2,"none","for free","yes",1,164
+"no checking",36,"existing paid","500<=X<1000",">=7",4,"none","own","yes",1,165
+"no checking",36,"existing paid","500<=X<1000","1<=X<4",1,"none","own","yes",1,166
+"<0",18,"existing paid","<100","unemployed",4,"none","own","yes",2,167
+"0<=X<200",11,"existing paid",">=1000","<1",4,"none","own","yes",1,168
+"no checking",24,"existing paid","<100","4<=X<7",2,"none","rent","yes",1,169
+"0<=X<200",24,"critical/other existing credit","<100",">=7",4,"none","own","yes",2,170
+"<0",15,"no credits/all paid","<100",">=7",4,"none","rent","yes",2,171
+"no checking",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,172
+"0<=X<200",24,"delayed previously","<100","unemployed",3,"none","own","yes",2,173
+"0<=X<200",8,"existing paid","<100","1<=X<4",4,"guarantor","own","no",1,174
+"0<=X<200",21,"delayed previously","<100","<1",2,"none","own","yes",2,175
+"no checking",30,"all paid","no known savings","unemployed",4,"none","own","yes",2,176
+"<0",18,"existing paid","<100","1<=X<4",2,"none","own","yes",1,177
+"<0",6,"critical/other existing credit","500<=X<1000",">=7",4,"none","own","yes",1,178
+"no checking",12,"existing paid","<100","4<=X<7",4,"none","rent","yes",1,179
+"<0",21,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,180
+"no checking",36,"delayed previously","<100","<1",1,"none","own","yes",2,181
+"0<=X<200",36,"delayed previously","<100","1<=X<4",2,"none","own","yes",2,182
+"<0",21,"all paid","no known savings","1<=X<4",4,"none","own","yes",2,183
+"no checking",24,"critical/other existing credit",">=1000","1<=X<4",4,"none","own","yes",1,184
+"0<=X<200",18,"critical/other existing credit","<100",">=7",4,"none","own","yes",2,185
+"no checking",15,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,186
+"0<=X<200",9,"all paid","<100",">=7",2,"none","for free","yes",2,187
+"0<=X<200",16,"critical/other existing credit","<100","unemployed",2,"none","for free","yes",1,188
+"<0",12,"existing paid","100<=X<500","4<=X<7",4,"none","own","yes",2,189
+"0<=X<200",18,"no credits/all paid","<100","1<=X<4",1,"none","own","yes",1,190
+"no checking",24,"existing paid",">=1000","1<=X<4",2,"none","own","yes",2,191
+"0<=X<200",48,"no credits/all paid","100<=X<500","4<=X<7",4,"none","for free","yes",2,192
+"0<=X<200",27,"existing paid","<100","1<=X<4",4,"none","own","yes",2,193
+"no checking",6,"existing paid","<100","4<=X<7",2,"none","rent","yes",1,194
+"0<=X<200",45,"existing paid","100<=X<500","1<=X<4",4,"guarantor","rent","yes",2,195
+"0<=X<200",9,"critical/other existing credit","<100",">=7",2,"none","own","yes",2,196
+"no checking",36,"critical/other existing credit","<100","1<=X<4",1,"none","own","yes",1,197
+"0<=X<200",12,"existing paid","100<=X<500","<1",4,"none","rent","yes",2,198
+"0<=X<200",24,"existing paid","no known savings",">=7",4,"none","for free","yes",1,199
+"0<=X<200",60,"delayed previously","<100",">=7",4,"none","own","yes",2,200
+"no checking",9,"critical/other existing credit","500<=X<1000",">=7",4,"none","own","yes",1,201
+"<0",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,202
+"no checking",27,"delayed previously","<100","4<=X<7",3,"none","own","yes",1,203
+"<0",12,"existing paid","<100","4<=X<7",4,"none","rent","yes",2,204
+"no checking",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,205
+"<0",48,"critical/other existing credit","<100",">=7",3,"none","for free","yes",1,206
+"no checking",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,207
+"0<=X<200",12,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,208
+"<0",24,"existing paid","<100","1<=X<4",2,"none","own","yes",1,209
+"no checking",12,"existing paid",">=1000","4<=X<7",3,"none","own","no",1,210
+"no checking",15,"critical/other existing credit","no known savings","1<=X<4",1,"none","own","yes",1,211
+"no checking",36,"existing paid","no known savings",">=7",2,"none","own","yes",1,212
+"<0",27,"no credits/all paid","<100","unemployed",2,"none","own","yes",2,213
+">=200",30,"delayed previously","<100",">=7",4,"none","own","yes",2,214
+"no checking",36,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,215
+"0<=X<200",6,"critical/other existing credit","no known savings","4<=X<7",1,"none","own","yes",1,216
+"<0",18,"no credits/all paid","<100","4<=X<7",3,"none","own","yes",1,217
+"no checking",36,"existing paid","<100","1<=X<4",2,"none","own","yes",1,218
+"<0",24,"existing paid","<100","1<=X<4",2,"none","rent","yes",1,219
+"no checking",10,"existing paid","<100","1<=X<4",2,"none","own","yes",1,220
+"0<=X<200",12,"existing paid","<100","<1",4,"guarantor","own","yes",1,221
+"<0",12,"existing paid","no known savings","1<=X<4",4,"none","rent","yes",1,222
+"no checking",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,223
+"no checking",24,"delayed previously","no known savings","1<=X<4",4,"none","own","yes",1,224
+"no checking",15,"existing paid","<100","1<=X<4",3,"none","own","yes",1,225
+"no checking",36,"no credits/all paid","<100","1<=X<4",4,"none","own","yes",1,226
+"0<=X<200",48,"existing paid",">=1000","4<=X<7",1,"co applicant","own","yes",2,227
+"<0",12,"existing paid","<100",">=7",4,"none","for free","yes",2,228
+"no checking",15,"existing paid","<100","4<=X<7",4,"none","own","yes",2,229
+"<0",24,"existing paid","<100","<1",4,"none","for free","yes",1,230
+">=200",36,"existing paid","<100","1<=X<4",4,"none","own","yes",2,231
+"no checking",9,"existing paid","500<=X<1000",">=7",2,"none","for free","yes",1,232
+"no checking",12,"existing paid","100<=X<500","4<=X<7",3,"none","own","yes",1,233
+"0<=X<200",18,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",1,234
+"no checking",4,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,235
+"<0",24,"existing paid","<100","unemployed",4,"none","own","yes",2,236
+"0<=X<200",6,"existing paid","no known savings","unemployed",1,"none","own","yes",2,237
+"0<=X<200",21,"existing paid","100<=X<500",">=7",4,"none","rent","yes",2,238
+"no checking",12,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,239
+"<0",36,"existing paid","<100",">=7",1,"guarantor","own","yes",1,240
+"<0",24,"existing paid","no known savings",">=7",4,"none","own","yes",2,241
+"no checking",6,"existing paid","<100","4<=X<7",3,"none","own","yes",1,242
+"<0",48,"no credits/all paid","<100",">=7",3,"none","for free","yes",2,243
+"no checking",12,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",1,244
+"no checking",12,"all paid","500<=X<1000","1<=X<4",4,"none","own","yes",1,245
+"no checking",24,"existing paid","<100","4<=X<7",4,"none","own","yes",1,246
+"no checking",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,247
+"no checking",6,"no credits/all paid","100<=X<500","1<=X<4",4,"none","rent","no",1,248
+">=200",4,"existing paid","<100","1<=X<4",2,"none","own","yes",1,249
+"no checking",18,"existing paid","<100","unemployed",3,"co applicant","rent","yes",2,250
+"<0",6,"critical/other existing credit",">=1000","4<=X<7",3,"none","own","yes",1,251
+">=200",10,"existing paid","<100","1<=X<4",1,"none","own","yes",1,252
+"0<=X<200",30,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",2,253
+"no checking",24,"delayed previously","100<=X<500","1<=X<4",2,"none","own","yes",1,254
+"0<=X<200",9,"existing paid","no known savings","4<=X<7",2,"none","own","yes",1,255
+"0<=X<200",60,"delayed previously","no known savings","1<=X<4",1,"none","own","yes",1,256
+"no checking",24,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,257
+"<0",12,"all paid","<100","1<=X<4",4,"none","for free","yes",2,258
+"no checking",15,"existing paid","100<=X<500","<1",1,"none","own","yes",1,259
+"no checking",11,"critical/other existing credit","100<=X<500","unemployed",4,"none","own","yes",1,260
+"<0",12,"existing paid","<100","1<=X<4",2,"none","own","yes",1,261
+"<0",24,"existing paid","<100",">=7",4,"none","own","yes",1,262
+"no checking",18,"critical/other existing credit","<100",">=7",2,"none","for free","yes",1,263
+"no checking",12,"critical/other existing credit","<100",">=7",2,"none","for free","yes",1,264
+"no checking",10,"critical/other existing credit","<100",">=7",3,"none","own","no",1,265
+"0<=X<200",15,"existing paid","<100",">=7",4,"none","own","yes",2,266
+"no checking",36,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,267
+"no checking",48,"existing paid","<100","<1",4,"none","own","yes",1,268
+"<0",14,"existing paid","<100",">=7",1,"none","own","no",2,269
+"no checking",24,"existing paid","no known savings",">=7",4,"none","own","yes",1,270
+"no checking",18,"existing paid","no known savings","4<=X<7",4,"none","own","no",1,271
+"no checking",48,"critical/other existing credit","500<=X<1000","4<=X<7",3,"none","rent","yes",1,272
+"0<=X<200",48,"all paid","no known savings","unemployed",4,"co applicant","for free","yes",1,273
+"0<=X<200",48,"existing paid","<100","4<=X<7",4,"none","own","yes",2,274
+"<0",30,"existing paid","<100","<1",1,"none","own","yes",2,275
+"no checking",9,"existing paid","<100","1<=X<4",1,"none","own","yes",1,276
+"no checking",18,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",1,277
+"<0",12,"existing paid","no known savings",">=7",2,"none","own","yes",1,278
+"no checking",6,"existing paid","<100","<1",1,"none","own","yes",2,279
+"no checking",24,"existing paid","100<=X<500","1<=X<4",4,"none","rent","yes",1,280
+"no checking",48,"critical/other existing credit",">=1000",">=7",3,"none","rent","yes",1,281
+"no checking",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,282
+">=200",18,"all paid","no known savings","4<=X<7",4,"none","own","yes",1,283
+"0<=X<200",9,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,284
+"0<=X<200",24,"critical/other existing credit","100<=X<500","<1",4,"none","own","yes",1,285
+"<0",48,"existing paid","<100","<1",1,"none","own","yes",1,286
+"<0",48,"existing paid","<100","4<=X<7",4,"none","own","yes",1,287
+"no checking",48,"delayed previously","100<=X<500","unemployed",2,"none","for free","yes",1,288
+"0<=X<200",12,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",1,289
+"<0",24,"delayed previously","<100","<1",4,"none","own","yes",2,290
+"no checking",48,"existing paid","<100","1<=X<4",2,"none","own","no",1,291
+"0<=X<200",36,"existing paid","<100","<1",1,"none","rent","yes",2,292
+"<0",24,"critical/other existing credit","<100",">=7",2,"none","for free","yes",1,293
+">=200",42,"critical/other existing credit","<100",">=7",4,"none","for free","yes",1,294
+"no checking",48,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,295
+"0<=X<200",48,"existing paid","<100","<1",1,"none","own","yes",2,296
+"no checking",12,"existing paid","no known savings","<1",1,"none","rent","yes",1,297
+"no checking",10,"existing paid","no known savings",">=7",4,"co applicant","own","no",1,298
+"no checking",18,"existing paid","<100","1<=X<4",3,"none","own","yes",1,299
+"0<=X<200",21,"critical/other existing credit",">=1000","4<=X<7",3,"none","own","yes",1,300
+"no checking",6,"existing paid","<100","unemployed",1,"none","own","yes",1,301
+"0<=X<200",36,"no credits/all paid","<100","1<=X<4",4,"none","own","yes",2,302
+">=200",24,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",2,303
+"<0",10,"critical/other existing credit","<100","4<=X<7",4,"co applicant","own","yes",1,304
+"no checking",48,"critical/other existing credit","500<=X<1000","1<=X<4",2,"none","for free","yes",2,305
+"no checking",6,"existing paid",">=1000","1<=X<4",4,"none","own","yes",1,306
+"no checking",30,"existing paid","no known savings","4<=X<7",2,"none","rent","yes",1,307
+"<0",12,"existing paid","100<=X<500","<1",4,"none","own","yes",2,308
+"0<=X<200",8,"existing paid","<100","1<=X<4",3,"none","own","yes",2,309
+"0<=X<200",9,"existing paid","<100","1<=X<4",4,"none","rent","yes",1,310
+"0<=X<200",48,"existing paid","no known savings","unemployed",3,"none","for free","yes",1,311
+"no checking",24,"existing paid","100<=X<500","1<=X<4",4,"none","own","yes",1,312
+">=200",24,"existing paid","<100","<1",2,"none","own","yes",1,313
+"0<=X<200",12,"existing paid","<100","4<=X<7",2,"none","own","yes",2,314
+">=200",4,"existing paid","no known savings","<1",1,"none","own","no",1,315
+"<0",36,"all paid","<100",">=7",4,"none","own","yes",2,316
+"<0",12,"existing paid","<100","1<=X<4",2,"guarantor","own","yes",1,317
+"0<=X<200",24,"existing paid","no known savings","1<=X<4",1,"none","own","yes",1,318
+"no checking",12,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,319
+"<0",15,"delayed previously","<100",">=7",1,"none","own","yes",1,320
+"0<=X<200",30,"critical/other existing credit","<100","unemployed",4,"none","own","yes",2,321
+"<0",24,"existing paid","<100","<1",4,"none","own","yes",2,322
+"<0",24,"existing paid","<100","4<=X<7",2,"none","for free","yes",1,323
+"<0",18,"existing paid",">=1000","1<=X<4",4,"none","own","yes",1,324
+"no checking",18,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,325
+"<0",8,"critical/other existing credit","<100","4<=X<7",1,"none","own","no",1,326
+"no checking",12,"critical/other existing credit","no known savings",">=7",2,"none","rent","yes",1,327
+"no checking",24,"existing paid",">=1000","4<=X<7",4,"none","own","yes",1,328
+">=200",36,"existing paid","<100",">=7",4,"none","own","yes",1,329
+"0<=X<200",18,"existing paid","<100",">=7",4,"none","own","yes",1,330
+"<0",24,"critical/other existing credit","<100","unemployed",2,"none","for free","yes",1,331
+"no checking",18,"critical/other existing credit","100<=X<500","1<=X<4",4,"none","own","yes",2,332
+"0<=X<200",60,"existing paid","100<=X<500","<1",4,"none","own","yes",2,333
+"no checking",48,"critical/other existing credit","100<=X<500","1<=X<4",2,"none","rent","yes",2,334
+"<0",36,"no credits/all paid","<100",">=7",3,"none","rent","yes",2,335
+"<0",6,"critical/other existing credit","<100","1<=X<4",1,"none","rent","yes",2,336
+"0<=X<200",13,"existing paid","<100","<1",2,"guarantor","own","yes",1,337
+"<0",15,"existing paid","no known savings","1<=X<4",4,"none","rent","yes",2,338
+"<0",30,"existing paid","<100","1<=X<4",4,"none","own","yes",1,339
+"<0",10,"existing paid","<100","1<=X<4",4,"none","own","yes",1,340
+"0<=X<200",24,"critical/other existing credit","<100","<1",2,"none","for free","yes",1,341
+"<0",21,"existing paid","<100","4<=X<7",1,"none","rent","yes",1,342
+"0<=X<200",18,"existing paid","500<=X<1000","<1",1,"none","rent","yes",1,343
+"0<=X<200",60,"existing paid","<100",">=7",1,"co applicant","own","yes",1,344
+">=200",10,"existing paid","<100","<1",1,"guarantor","own","yes",1,345
+"no checking",15,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,346
+"0<=X<200",13,"critical/other existing credit","<100","<1",4,"guarantor","own","yes",1,347
+"0<=X<200",24,"existing paid","500<=X<1000","unemployed",1,"none","rent","yes",1,348
+"no checking",6,"delayed previously","100<=X<500","1<=X<4",1,"none","own","yes",1,349
+"0<=X<200",9,"critical/other existing credit",">=1000",">=7",4,"none","for free","yes",2,350
+"no checking",9,"existing paid","<100","<1",1,"none","rent","yes",1,351
+"0<=X<200",9,"existing paid","<100","1<=X<4",1,"none","own","no",2,352
+"no checking",18,"critical/other existing credit","no known savings","unemployed",2,"none","own","yes",1,353
+"<0",12,"no credits/all paid","<100","1<=X<4",4,"none","rent","yes",2,354
+"no checking",10,"existing paid","500<=X<1000",">=7",4,"none","for free","yes",1,355
+"0<=X<200",24,"existing paid","<100","<1",4,"none","own","yes",2,356
+"no checking",12,"critical/other existing credit","no known savings",">=7",1,"co applicant","own","yes",1,357
+"no checking",36,"delayed previously","<100","1<=X<4",4,"none","own","yes",2,358
+"no checking",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,359
+"<0",30,"existing paid","<100","4<=X<7",4,"none","rent","yes",2,360
+"0<=X<200",12,"existing paid","no known savings","1<=X<4",4,"none","for free","yes",1,361
+">=200",12,"existing paid","no known savings",">=7",2,"none","own","yes",1,362
+">=200",12,"delayed previously","<100","1<=X<4",2,"none","own","yes",1,363
+"no checking",6,"existing paid","<100","1<=X<4",1,"none","rent","yes",1,364
+"<0",18,"existing paid","<100","unemployed",4,"none","own","yes",2,365
+"no checking",12,"existing paid","<100","4<=X<7",2,"none","own","yes",1,366
+"no checking",18,"critical/other existing credit","<100","4<=X<7",3,"none","own","yes",1,367
+"<0",18,"existing paid","<100","<1",1,"none","rent","yes",1,368
+"<0",36,"existing paid","<100",">=7",4,"none","own","yes",2,369
+"0<=X<200",18,"existing paid","<100","4<=X<7",2,"none","rent","yes",1,370
+"no checking",36,"existing paid","no known savings","1<=X<4",4,"none","own","yes",1,371
+"no checking",48,"critical/other existing credit","<100",">=7",3,"none","own","yes",1,372
+"no checking",10,"critical/other existing credit","<100","<1",1,"none","rent","yes",1,373
+"no checking",60,"critical/other existing credit","no known savings",">=7",2,"none","for free","yes",1,374
+"0<=X<200",60,"all paid","100<=X<500",">=7",3,"none","for free","yes",2,375
+"<0",48,"all paid","<100","4<=X<7",2,"guarantor","rent","yes",2,376
+"no checking",18,"delayed previously","<100","unemployed",2,"none","own","yes",1,377
+"no checking",7,"delayed previously","no known savings",">=7",3,"none","for free","yes",1,378
+"0<=X<200",36,"existing paid","<100",">=7",4,"none","for free","yes",2,379
+"no checking",6,"critical/other existing credit","100<=X<500","1<=X<4",4,"none","own","yes",1,380
+"<0",20,"existing paid","no known savings","4<=X<7",4,"none","own","yes",1,381
+"0<=X<200",18,"existing paid","<100","unemployed",3,"none","for free","yes",2,382
+"no checking",22,"existing paid","no known savings","4<=X<7",4,"none","rent","yes",1,383
+">=200",12,"existing paid","<100","<1",4,"none","own","yes",1,384
+"no checking",30,"delayed previously","100<=X<500","1<=X<4",2,"none","own","yes",1,385
+"no checking",18,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",1,386
+"no checking",18,"existing paid","no known savings","<1",4,"none","rent","yes",1,387
+"0<=X<200",18,"critical/other existing credit","<100","unemployed",4,"none","own","yes",1,388
+"0<=X<200",15,"critical/other existing credit","500<=X<1000","1<=X<4",2,"none","own","yes",1,389
+"no checking",9,"existing paid","<100","4<=X<7",3,"none","own","yes",1,390
+"no checking",18,"existing paid","<100","1<=X<4",2,"none","own","yes",1,391
+"0<=X<200",12,"existing paid",">=1000","<1",1,"none","rent","yes",1,392
+"<0",36,"existing paid","<100","4<=X<7",2,"none","for free","yes",1,393
+"<0",6,"critical/other existing credit","<100","4<=X<7",1,"none","own","yes",1,394
+"no checking",9,"critical/other existing credit","<100","unemployed",2,"none","own","yes",1,395
+"0<=X<200",39,"delayed previously","100<=X<500","4<=X<7",2,"none","rent","yes",1,396
+"<0",12,"existing paid","<100","unemployed",3,"none","for free","yes",1,397
+"<0",36,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",1,398
+"0<=X<200",12,"existing paid","<100",">=7",1,"none","rent","yes",2,399
+"no checking",24,"critical/other existing credit",">=1000","1<=X<4",4,"none","own","yes",1,400
+"no checking",18,"existing paid","<100","<1",3,"none","own","yes",1,401
+"0<=X<200",18,"critical/other existing credit","no known savings","1<=X<4",4,"none","own","yes",1,402
+"no checking",24,"delayed previously","<100","<1",2,"none","own","yes",2,403
+"no checking",14,"delayed previously","<100","1<=X<4",4,"none","own","yes",1,404
+"0<=X<200",18,"delayed previously","no known savings",">=7",4,"none","own","yes",1,405
+"0<=X<200",24,"existing paid","<100","<1",1,"none","own","yes",2,406
+"no checking",24,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,407
+"<0",15,"existing paid","<100","<1",4,"none","own","no",1,408
+"no checking",24,"existing paid","500<=X<1000",">=7",3,"none","own","yes",1,409
+">=200",12,"critical/other existing credit","500<=X<1000","4<=X<7",4,"none","own","yes",2,410
+"0<=X<200",24,"existing paid","<100",">=7",4,"none","own","yes",1,411
+"no checking",33,"critical/other existing credit","<100","4<=X<7",3,"none","own","yes",1,412
+"no checking",12,"critical/other existing credit","<100","unemployed",4,"none","own","yes",2,413
+"no checking",10,"existing paid","500<=X<1000","1<=X<4",3,"none","rent","no",1,414
+"<0",24,"existing paid","no known savings","1<=X<4",4,"none","own","yes",2,415
+"no checking",36,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,416
+"<0",12,"existing paid","<100","<1",4,"none","own","yes",2,417
+"<0",48,"delayed previously","no known savings","1<=X<4",1,"none","rent","yes",1,418
+"no checking",21,"existing paid","500<=X<1000","4<=X<7",1,"none","own","yes",1,419
+"0<=X<200",18,"existing paid","no known savings","1<=X<4",4,"none","own","yes",2,420
+"no checking",15,"existing paid",">=1000","4<=X<7",2,"none","rent","yes",1,421
+"0<=X<200",12,"existing paid","no known savings","1<=X<4",4,"none","own","yes",1,422
+"0<=X<200",12,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,423
+"no checking",21,"delayed previously","100<=X<500","4<=X<7",4,"none","own","yes",1,424
+"0<=X<200",12,"existing paid","no known savings",">=7",1,"none","own","yes",2,425
+"0<=X<200",18,"existing paid","<100","1<=X<4",1,"none","rent","yes",1,426
+"no checking",28,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,427
+"no checking",18,"critical/other existing credit",">=1000","1<=X<4",4,"none","own","yes",1,428
+"no checking",9,"existing paid","<100",">=7",1,"none","own","yes",1,429
+"<0",18,"critical/other existing credit","<100","unemployed",2,"none","for free","yes",2,430
+"no checking",5,"existing paid","<100","4<=X<7",1,"none","own","yes",1,431
+"0<=X<200",24,"existing paid","<100","1<=X<4",2,"co applicant","own","yes",2,432
+"<0",6,"critical/other existing credit","<100","unemployed",4,"none","for free","yes",1,433
+"no checking",24,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,434
+"<0",9,"existing paid","<100","1<=X<4",3,"none","own","yes",1,435
+"0<=X<200",12,"existing paid","no known savings","1<=X<4",2,"none","own","yes",2,436
+"no checking",6,"existing paid","500<=X<1000","4<=X<7",2,"none","rent","yes",1,437
+"no checking",24,"critical/other existing credit",">=1000",">=7",4,"none","own","yes",1,438
+"<0",42,"critical/other existing credit","<100","unemployed",4,"co applicant","own","yes",1,439
+">=200",12,"all paid","<100","<1",4,"none","own","yes",2,440
+"no checking",12,"existing paid","<100",">=7",4,"none","own","yes",1,441
+"<0",24,"existing paid","<100","1<=X<4",2,"co applicant","own","yes",1,442
+"0<=X<200",20,"delayed previously","<100","1<=X<4",2,"none","own","yes",1,443
+"no checking",12,"existing paid","<100",">=7",4,"none","own","yes",2,444
+"<0",48,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",2,445
+"no checking",9,"critical/other existing credit","no known savings",">=7",4,"none","rent","yes",1,446
+"<0",36,"existing paid","<100","<1",4,"none","own","yes",2,447
+"0<=X<200",7,"existing paid","<100","1<=X<4",2,"guarantor","own","yes",1,448
+">=200",12,"existing paid","no known savings",">=7",3,"none","own","yes",1,449
+"0<=X<200",15,"delayed previously",">=1000","1<=X<4",3,"none","own","yes",2,450
+"no checking",36,"critical/other existing credit","no known savings","1<=X<4",4,"none","own","yes",1,451
+"no checking",6,"existing paid","<100","1<=X<4",3,"none","own","yes",1,452
+"no checking",12,"no credits/all paid","<100",">=7",2,"none","own","yes",1,453
+"no checking",24,"existing paid","<100",">=7",4,"none","own","yes",1,454
+"<0",24,"existing paid","<100","4<=X<7",2,"co applicant","own","yes",2,455
+"no checking",24,"existing paid","<100","<1",4,"none","own","yes",1,456
+"<0",11,"critical/other existing credit","<100","1<=X<4",2,"none","rent","yes",1,457
+"<0",12,"existing paid","<100",">=7",3,"none","for free","yes",2,458
+"<0",6,"existing paid","<100","<1",4,"none","own","yes",1,459
+"no checking",18,"existing paid","<100","<1",3,"none","own","yes",1,460
+"<0",36,"existing paid","<100","1<=X<4",1,"guarantor","own","yes",1,461
+"<0",15,"existing paid","<100","<1",2,"none","own","yes",1,462
+"0<=X<200",12,"existing paid","<100","<1",3,"none","rent","yes",1,463
+"0<=X<200",6,"existing paid","no known savings",">=7",4,"none","own","yes",1,464
+"no checking",18,"existing paid","<100","4<=X<7",4,"none","own","yes",1,465
+"<0",24,"existing paid","<100","1<=X<4",3,"guarantor","own","yes",1,466
+"<0",24,"delayed previously","<100","<1",4,"none","rent","yes",2,467
+"no checking",48,"delayed previously","no known savings",">=7",3,"none","own","yes",1,468
+"no checking",48,"delayed previously","<100","1<=X<4",2,"none","own","yes",1,469
+"no checking",24,"delayed previously","<100","4<=X<7",3,"none","own","yes",1,470
+"0<=X<200",48,"existing paid","100<=X<500","<1",3,"none","rent","yes",2,471
+"<0",6,"existing paid","<100","<1",4,"none","own","yes",2,472
+"<0",9,"existing paid","<100","1<=X<4",4,"none","own","yes",2,473
+"no checking",6,"existing paid","no known savings","unemployed",4,"none","own","yes",1,474
+"0<=X<200",18,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",2,475
+"<0",18,"no credits/all paid","<100","<1",1,"none","rent","yes",2,476
+"no checking",39,"existing paid","500<=X<1000","1<=X<4",4,"none","own","yes",1,477
+">=200",24,"existing paid","<100","4<=X<7",4,"none","own","yes",1,478
+"0<=X<200",12,"existing paid","100<=X<500","4<=X<7",3,"none","own","yes",1,479
+"<0",15,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,480
+"0<=X<200",12,"critical/other existing credit","<100","1<=X<4",1,"none","own","yes",1,481
+"0<=X<200",24,"existing paid","<100","<1",4,"none","own","yes",1,482
+"<0",30,"existing paid",">=1000",">=7",4,"none","rent","yes",1,483
+"no checking",15,"delayed previously",">=1000","4<=X<7",3,"none","own","yes",1,484
+"no checking",39,"critical/other existing credit","500<=X<1000","1<=X<4",4,"none","own","yes",1,485
+"0<=X<200",6,"delayed previously","<100","unemployed",4,"none","own","yes",2,486
+"no checking",12,"existing paid","<100","1<=X<4",2,"none","own","yes",1,487
+"no checking",24,"existing paid","<100",">=7",4,"co applicant","for free","yes",1,488
+"no checking",10,"existing paid","100<=X<500","1<=X<4",3,"none","rent","no",1,489
+"no checking",6,"existing paid","<100","1<=X<4",2,"guarantor","rent","yes",1,490
+"no checking",12,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,491
+"0<=X<200",27,"no credits/all paid","<100",">=7",2,"none","for free","yes",2,492
+"no checking",6,"critical/other existing credit","100<=X<500","1<=X<4",1,"none","own","yes",1,493
+"0<=X<200",6,"existing paid","no known savings",">=7",4,"none","own","yes",1,494
+"<0",12,"critical/other existing credit","<100","1<=X<4",3,"none","rent","no",1,495
+"<0",24,"existing paid","no known savings","1<=X<4",2,"none","own","yes",2,496
+"0<=X<200",36,"existing paid","100<=X<500","<1",4,"co applicant","rent","yes",2,497
+"no checking",24,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,498
+"0<=X<200",18,"existing paid","<100",">=7",4,"guarantor","own","yes",1,499
+">=200",6,"critical/other existing credit","100<=X<500",">=7",2,"none","own","yes",1,500
+"<0",24,"existing paid","<100","<1",4,"none","own","yes",2,501
+"<0",36,"existing paid","<100",">=7",2,"none","for free","yes",1,502
+">=200",21,"existing paid","100<=X<500",">=7",2,"none","own","yes",1,503
+"0<=X<200",24,"critical/other existing credit","100<=X<500","<1",4,"none","own","yes",2,504
+"<0",24,"existing paid","<100","<1",4,"none","rent","yes",2,505
+"no checking",10,"existing paid","no known savings","1<=X<4",4,"guarantor","own","yes",2,506
+">=200",15,"critical/other existing credit","500<=X<1000","1<=X<4",2,"none","own","yes",1,507
+"0<=X<200",15,"all paid","100<=X<500","unemployed",1,"none","own","yes",2,508
+"no checking",24,"existing paid","<100","1<=X<4",4,"none","own","yes",1,509
+"no checking",39,"existing paid","100<=X<500",">=7",4,"none","own","yes",1,510
+"<0",12,"existing paid","<100","4<=X<7",4,"none","own","yes",2,511
+"no checking",36,"existing paid","<100","1<=X<4",2,"none","for free","yes",1,512
+">=200",15,"existing paid","<100","4<=X<7",2,"none","rent","yes",1,513
+"no checking",12,"delayed previously","<100","1<=X<4",4,"co applicant","rent","yes",1,514
+"no checking",24,"existing paid","no known savings","<1",4,"none","own","yes",1,515
+"<0",15,"critical/other existing credit","<100","4<=X<7",4,"none","own","no",1,516
+"<0",6,"critical/other existing credit","<100","<1",2,"none","own","no",1,517
+"no checking",36,"critical/other existing credit","<100","<1",2,"none","rent","yes",2,518
+"<0",6,"existing paid","100<=X<500",">=7",3,"none","own","yes",1,519
+"no checking",6,"critical/other existing credit","no known savings",">=7",4,"none","for free","yes",1,520
+"no checking",24,"critical/other existing credit","<100",">=7",3,"none","for free","yes",1,521
+"<0",18,"existing paid","<100","1<=X<4",2,"none","own","yes",2,522
+"<0",48,"no credits/all paid","<100","1<=X<4",3,"none","for free","yes",2,523
+"no checking",24,"existing paid","100<=X<500","4<=X<7",3,"none","own","yes",1,524
+"0<=X<200",12,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",1,525
+"0<=X<200",26,"existing paid","<100","<1",2,"none","own","yes",1,526
+"no checking",15,"critical/other existing credit","100<=X<500","1<=X<4",4,"none","own","yes",1,527
+"no checking",4,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,528
+"<0",36,"existing paid","<100","1<=X<4",4,"none","rent","yes",2,529
+"no checking",6,"existing paid","<100","<1",3,"none","own","yes",1,530
+"0<=X<200",36,"existing paid","<100","4<=X<7",3,"none","own","yes",1,531
+"0<=X<200",15,"existing paid","100<=X<500","1<=X<4",2,"none","rent","yes",2,532
+"no checking",12,"delayed previously","<100","1<=X<4",4,"none","rent","yes",1,533
+"no checking",48,"existing paid","100<=X<500","4<=X<7",4,"none","own","yes",1,534
+"no checking",24,"existing paid","no known savings","<1",4,"none","own","yes",1,535
+">=200",21,"critical/other existing credit","<100","<1",2,"none","rent","yes",2,536
+"<0",60,"existing paid","no known savings","unemployed",4,"none","own","yes",1,537
+"0<=X<200",18,"critical/other existing credit","<100",">=7",3,"none","own","yes",1,538
+"<0",48,"existing paid","<100",">=7",4,"none","for free","yes",2,539
+">=200",18,"existing paid","<100","<1",1,"none","own","yes",1,540
+"0<=X<200",12,"existing paid","<100","<1",1,"none","rent","yes",2,541
+"no checking",48,"delayed previously","<100",">=7",4,"none","for free","yes",1,542
+"<0",30,"existing paid","no known savings",">=7",4,"none","own","yes",2,543
+"<0",18,"existing paid","<100","1<=X<4",2,"none","own","yes",2,544
+"no checking",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,545
+"<0",24,"delayed previously","<100","unemployed",4,"none","for free","yes",2,546
+"no checking",24,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,547
+"no checking",24,"existing paid","<100","4<=X<7",3,"none","own","yes",1,548
+"<0",12,"all paid","<100","1<=X<4",4,"none","own","yes",2,549
+"no checking",60,"critical/other existing credit","no known savings","4<=X<7",2,"none","for free","yes",1,550
+"no checking",12,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,551
+"no checking",6,"all paid","500<=X<1000",">=7",2,"none","own","yes",1,552
+"<0",48,"existing paid","<100","4<=X<7",1,"guarantor","own","yes",2,553
+"0<=X<200",12,"critical/other existing credit","100<=X<500","<1",4,"none","own","yes",1,554
+"0<=X<200",9,"existing paid","<100","4<=X<7",4,"none","own","yes",1,555
+"0<=X<200",12,"existing paid","<100","<1",2,"none","own","yes",2,556
+"0<=X<200",18,"no credits/all paid","100<=X<500","<1",3,"none","own","yes",2,557
+"no checking",21,"no credits/all paid","no known savings","1<=X<4",1,"none","own","yes",2,558
+"<0",24,"all paid","<100","4<=X<7",3,"none","own","yes",2,559
+"0<=X<200",18,"critical/other existing credit","<100","<1",2,"none","own","yes",2,560
+"<0",24,"existing paid","no known savings",">=7",4,"none","for free","yes",1,561
+"<0",24,"all paid","<100","4<=X<7",4,"guarantor","rent","yes",2,562
+">=200",6,"delayed previously","<100","<1",2,"none","own","yes",1,563
+"0<=X<200",36,"existing paid","no known savings","1<=X<4",1,"none","for free","yes",2,564
+"0<=X<200",24,"delayed previously","no known savings","1<=X<4",4,"none","own","yes",1,565
+"0<=X<200",24,"delayed previously","100<=X<500","4<=X<7",3,"none","rent","yes",1,566
+"<0",12,"existing paid","<100","4<=X<7",2,"none","own","yes",2,567
+"no checking",24,"critical/other existing credit",">=1000",">=7",2,"none","own","yes",1,568
+"0<=X<200",48,"existing paid","no known savings","4<=X<7",4,"none","own","yes",1,569
+"<0",48,"existing paid","<100","1<=X<4",3,"none","own","yes",2,570
+"<0",48,"existing paid","<100","<1",4,"none","rent","yes",2,571
+"no checking",30,"critical/other existing credit","<100","4<=X<7",3,"co applicant","own","yes",1,572
+"no checking",24,"existing paid","no known savings","unemployed",2,"none","rent","yes",1,573
+"<0",15,"existing paid","<100","1<=X<4",4,"none","own","yes",1,574
+"0<=X<200",9,"existing paid","<100",">=7",4,"none","own","yes",1,575
+"no checking",13,"critical/other existing credit","<100","4<=X<7",2,"co applicant","own","yes",1,576
+"0<=X<200",12,"existing paid","<100","4<=X<7",2,"none","own","yes",1,577
+"no checking",24,"critical/other existing credit","no known savings","1<=X<4",3,"none","own","yes",1,578
+"0<=X<200",36,"critical/other existing credit","<100","<1",4,"none","own","yes",2,579
+"no checking",24,"existing paid","<100","<1",4,"none","own","yes",1,580
+"<0",18,"critical/other existing credit","<100",">=7",3,"guarantor","own","yes",2,581
+"0<=X<200",12,"critical/other existing credit","<100","<1",1,"none","own","yes",1,582
+"no checking",9,"existing paid","<100","1<=X<4",4,"none","rent","yes",1,583
+"0<=X<200",36,"existing paid","<100","<1",4,"none","rent","yes",2,584
+"no checking",12,"existing paid","no known savings",">=7",4,"none","for free","yes",1,585
+"<0",18,"existing paid","<100","1<=X<4",1,"none","rent","yes",2,586
+"no checking",9,"critical/other existing credit","<100","1<=X<4",2,"none","rent","yes",1,587
+"<0",12,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",1,588
+"<0",18,"existing paid","<100","1<=X<4",4,"none","own","yes",2,589
+"<0",24,"critical/other existing credit","<100",">=7",3,"none","own","yes",2,590
+"<0",12,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,591
+"0<=X<200",24,"delayed previously","no known savings","1<=X<4",4,"none","rent","yes",1,592
+"no checking",21,"existing paid",">=1000",">=7",4,"none","own","yes",1,593
+"0<=X<200",24,"existing paid","<100","1<=X<4",3,"none","rent","yes",2,594
+"<0",24,"all paid","no known savings",">=7",4,"none","own","yes",2,595
+"0<=X<200",6,"all paid","100<=X<500","<1",1,"none","own","yes",2,596
+"<0",24,"existing paid","<100","4<=X<7",4,"none","rent","yes",2,597
+"0<=X<200",24,"no credits/all paid","<100","1<=X<4",1,"none","own","yes",2,598
+"<0",15,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",2,599
+"no checking",24,"delayed previously","<100","1<=X<4",1,"none","for free","yes",1,600
+"0<=X<200",7,"existing paid","<100","<1",1,"guarantor","own","yes",1,601
+"<0",21,"existing paid","<100","1<=X<4",4,"none","own","yes",2,602
+"0<=X<200",24,"all paid","<100","4<=X<7",4,"none","for free","yes",2,603
+"no checking",36,"existing paid","<100","1<=X<4",4,"none","own","yes",2,604
+">=200",10,"existing paid","<100","<1",4,"none","own","yes",1,605
+"<0",54,"all paid","500<=X<1000","1<=X<4",4,"none","own","yes",1,606
+"no checking",24,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",1,607
+"0<=X<200",36,"existing paid","100<=X<500","1<=X<4",4,"co applicant","for free","yes",2,608
+"0<=X<200",24,"existing paid","<100","<1",4,"none","own","yes",1,609
+"no checking",15,"existing paid","no known savings",">=7",4,"none","for free","yes",1,610
+"<0",12,"existing paid","100<=X<500","unemployed",4,"none","own","yes",2,611
+">=200",10,"existing paid","100<=X<500",">=7",1,"none","for free","yes",2,612
+"<0",21,"existing paid",">=1000","<1",4,"none","own","yes",1,613
+"<0",24,"all paid","<100","1<=X<4",1,"guarantor","rent","no",1,614
+"no checking",18,"delayed previously","<100","4<=X<7",4,"none","own","yes",2,615
+"0<=X<200",48,"no credits/all paid","no known savings","1<=X<4",2,"none","own","yes",1,616
+"0<=X<200",60,"delayed previously","no known savings","1<=X<4",2,"none","for free","yes",1,617
+"no checking",6,"critical/other existing credit","<100","1<=X<4",1,"none","rent","yes",1,618
+"0<=X<200",30,"existing paid","100<=X<500","1<=X<4",2,"co applicant","rent","yes",2,619
+"no checking",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,620
+"0<=X<200",21,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,621
+"no checking",18,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",2,622
+"no checking",48,"existing paid","no known savings","1<=X<4",4,"none","own","yes",2,623
+"0<=X<200",12,"existing paid","<100","<1",4,"none","rent","yes",1,624
+"<0",18,"existing paid","<100","1<=X<4",4,"none","for free","yes",2,625
+"no checking",15,"existing paid","no known savings",">=7",4,"none","own","yes",1,626
+">=200",6,"existing paid","<100","1<=X<4",2,"none","own","yes",1,627
+"0<=X<200",9,"all paid","100<=X<500","4<=X<7",2,"none","own","yes",2,628
+"no checking",42,"critical/other existing credit","500<=X<1000","1<=X<4",4,"none","own","yes",1,629
+"no checking",9,"existing paid","no known savings",">=7",1,"none","own","yes",1,630
+"<0",24,"existing paid","<100","1<=X<4",2,"none","own","yes",1,631
+"<0",18,"all paid","<100","1<=X<4",4,"none","own","yes",2,632
+"0<=X<200",15,"existing paid","no known savings","<1",4,"none","own","yes",1,633
+"no checking",9,"existing paid","<100","<1",2,"co applicant","rent","yes",2,634
+"0<=X<200",24,"existing paid","<100","<1",3,"none","own","yes",2,635
+"no checking",12,"existing paid","<100",">=7",4,"none","own","yes",1,636
+"no checking",24,"existing paid","500<=X<1000","4<=X<7",4,"none","own","yes",1,637
+"no checking",60,"delayed previously","<100","4<=X<7",2,"none","own","yes",1,638
+"no checking",12,"existing paid","<100","<1",4,"none","own","yes",1,639
+"<0",42,"delayed previously","<100","4<=X<7",3,"none","own","yes",2,640
+"<0",18,"existing paid","<100","unemployed",4,"none","own","yes",2,641
+"0<=X<200",15,"existing paid","<100",">=7",4,"none","own","yes",1,642
+"no checking",15,"existing paid","100<=X<500","1<=X<4",3,"none","own","yes",2,643
+"no checking",24,"critical/other existing credit","<100","4<=X<7",4,"guarantor","own","yes",1,644
+"<0",18,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,645
+"no checking",36,"delayed previously","no known savings","<1",4,"none","rent","yes",2,646
+"<0",30,"no credits/all paid","<100","1<=X<4",2,"guarantor","own","yes",1,647
+"no checking",12,"existing paid","500<=X<1000","1<=X<4",2,"none","own","yes",2,648
+">=200",24,"existing paid","<100","4<=X<7",4,"none","for free","yes",2,649
+"<0",12,"existing paid","<100","1<=X<4",4,"none","rent","yes",2,650
+"<0",48,"existing paid","<100","4<=X<7",4,"none","for free","yes",1,651
+"0<=X<200",12,"existing paid","<100","1<=X<4",4,"none","own","yes",2,652
+"<0",24,"existing paid","<100",">=7",4,"co applicant","own","yes",2,653
+"0<=X<200",54,"delayed previously","100<=X<500",">=7",2,"none","own","yes",2,654
+"no checking",24,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,655
+"<0",14,"existing paid","<100","unemployed",1,"none","for free","yes",1,656
+"0<=X<200",12,"existing paid","<100",">=7",4,"none","own","yes",2,657
+"no checking",48,"existing paid","no known savings","4<=X<7",4,"none","own","yes",1,658
+"no checking",30,"no credits/all paid","<100","1<=X<4",2,"none","own","yes",1,659
+"0<=X<200",18,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,660
+">=200",12,"existing paid","<100","1<=X<4",3,"none","rent","yes",1,661
+"<0",12,"existing paid","no known savings","1<=X<4",4,"none","own","yes",2,662
+"no checking",21,"existing paid","<100",">=7",4,"none","own","yes",1,663
+"0<=X<200",6,"delayed previously","<100","unemployed",4,"none","own","yes",1,664
+">=200",6,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",1,665
+"no checking",24,"critical/other existing credit","<100","unemployed",4,"co applicant","own","yes",1,666
+"0<=X<200",54,"all paid",">=1000","1<=X<4",4,"none","own","yes",1,667
+"no checking",48,"all paid","<100","1<=X<4",1,"none","own","yes",1,668
+"<0",12,"critical/other existing credit","<100",">=7",3,"co applicant","rent","yes",2,669
+">=200",30,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,670
+"no checking",54,"critical/other existing credit","100<=X<500","1<=X<4",3,"none","own","yes",1,671
+"no checking",36,"existing paid","100<=X<500","4<=X<7",2,"none","own","yes",1,672
+"no checking",60,"existing paid","<100",">=7",2,"none","own","yes",1,673
+"no checking",6,"critical/other existing credit","500<=X<1000","1<=X<4",1,"none","own","yes",1,674
+"no checking",21,"delayed previously","500<=X<1000","<1",4,"none","own","yes",2,675
+"no checking",30,"critical/other existing credit","<100","4<=X<7",4,"none","rent","yes",1,676
+"no checking",24,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,677
+"0<=X<200",12,"existing paid","100<=X<500","1<=X<4",2,"none","own","yes",2,678
+"<0",24,"existing paid","<100",">=7",4,"none","rent","yes",1,679
+"no checking",18,"existing paid","<100","<1",3,"none","own","yes",1,680
+"no checking",6,"existing paid","<100","<1",1,"none","own","yes",1,681
+"no checking",12,"existing paid","no known savings","1<=X<4",4,"none","for free","yes",1,682
+"no checking",48,"delayed previously","<100","1<=X<4",4,"none","own","yes",1,683
+"no checking",24,"critical/other existing credit","<100","<1",3,"none","for free","yes",1,684
+"0<=X<200",36,"delayed previously","100<=X<500","4<=X<7",1,"none","own","yes",1,685
+"no checking",60,"existing paid","no known savings","1<=X<4",4,"none","for free","yes",1,686
+">=200",60,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,687
+"0<=X<200",36,"delayed previously","100<=X<500",">=7",4,"none","for free","yes",1,688
+"no checking",9,"existing paid","100<=X<500",">=7",3,"co applicant","own","yes",1,689
+"<0",12,"existing paid",">=1000","1<=X<4",1,"none","own","yes",1,690
+"<0",6,"critical/other existing credit","<100","1<=X<4",2,"none","own","yes",1,691
+"0<=X<200",15,"existing paid","100<=X<500","1<=X<4",3,"none","own","yes",1,692
+"0<=X<200",24,"existing paid","100<=X<500","<1",2,"none","own","yes",1,693
+"<0",6,"critical/other existing credit","no known savings","<1",1,"none","own","yes",1,694
+"no checking",24,"existing paid","<100","4<=X<7",4,"none","own","yes",1,695
+"no checking",6,"existing paid","500<=X<1000","1<=X<4",2,"none","rent","yes",1,696
+"0<=X<200",12,"existing paid","<100","4<=X<7",4,"guarantor","own","no",1,697
+"no checking",12,"critical/other existing credit","<100","unemployed",1,"none","own","yes",1,698
+"no checking",18,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,699
+">=200",15,"existing paid","<100",">=7",4,"none","rent","yes",1,700
+"no checking",12,"existing paid","500<=X<1000","1<=X<4",4,"none","rent","yes",2,701
+"<0",54,"critical/other existing credit","<100",">=7",4,"none","for free","yes",2,702
+">=200",24,"existing paid","100<=X<500",">=7",4,"none","for free","yes",1,703
+"0<=X<200",30,"delayed previously","100<=X<500",">=7",4,"none","own","yes",1,704
+"0<=X<200",27,"existing paid","<100","<1",4,"none","own","yes",1,705
+"no checking",15,"existing paid","500<=X<1000",">=7",1,"none","for free","yes",1,706
+"0<=X<200",48,"existing paid","100<=X<500","4<=X<7",3,"none","own","yes",2,707
+"0<=X<200",30,"no credits/all paid","<100","<1",4,"none","rent","yes",2,708
+"0<=X<200",18,"existing paid","<100",">=7",4,"none","own","yes",1,709
+"0<=X<200",9,"existing paid","<100","1<=X<4",2,"none","own","yes",1,710
+"no checking",18,"critical/other existing credit","500<=X<1000",">=7",4,"none","own","yes",1,711
+"<0",6,"all paid","<100",">=7",4,"none","for free","yes",2,712
+"no checking",21,"existing paid","no known savings",">=7",4,"none","own","yes",1,713
+"<0",9,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,714
+"0<=X<200",60,"existing paid","<100","4<=X<7",4,"none","own","yes",2,715
+"no checking",30,"critical/other existing credit","no known savings",">=7",1,"none","own","yes",1,716
+"no checking",30,"critical/other existing credit","no known savings",">=7",3,"none","own","yes",1,717
+"no checking",18,"existing paid","<100","1<=X<4",4,"none","for free","yes",1,718
+">=200",24,"critical/other existing credit","no known savings","1<=X<4",3,"none","own","yes",1,719
+"0<=X<200",20,"no credits/all paid","100<=X<500",">=7",3,"none","own","yes",1,720
+">=200",9,"no credits/all paid","<100","<1",4,"none","own","yes",2,721
+"0<=X<200",6,"all paid",">=1000","<1",4,"none","rent","yes",2,722
+"<0",12,"existing paid","<100","1<=X<4",4,"none","own","yes",2,723
+"0<=X<200",9,"existing paid","500<=X<1000","1<=X<4",4,"none","own","yes",1,724
+"no checking",27,"existing paid","<100","1<=X<4",3,"none","rent","yes",2,725
+"no checking",6,"critical/other existing credit",">=1000","1<=X<4",2,"none","own","yes",1,726
+"<0",15,"critical/other existing credit","500<=X<1000","1<=X<4",2,"none","own","yes",1,727
+"<0",18,"existing paid","<100","1<=X<4",4,"none","rent","yes",2,728
+"0<=X<200",48,"all paid","<100",">=7",4,"none","rent","yes",2,729
+">=200",24,"critical/other existing credit",">=1000","1<=X<4",2,"none","own","yes",1,730
+"0<=X<200",24,"delayed previously","<100","<1",1,"none","own","yes",1,731
+"<0",24,"existing paid","<100","1<=X<4",2,"none","rent","yes",2,732
+"0<=X<200",8,"existing paid","<100","4<=X<7",4,"guarantor","own","yes",1,733
+"no checking",24,"existing paid",">=1000","1<=X<4",2,"none","rent","yes",1,734
+"no checking",4,"critical/other existing credit","<100","4<=X<7",1,"none","own","yes",1,735
+"0<=X<200",36,"all paid","no known savings","<1",3,"none","own","yes",1,736
+"0<=X<200",24,"existing paid","<100","1<=X<4",1,"none","rent","yes",2,737
+"<0",18,"existing paid","100<=X<500","1<=X<4",3,"none","own","yes",1,738
+"no checking",6,"critical/other existing credit","<100","4<=X<7",1,"none","own","yes",1,739
+"0<=X<200",30,"no credits/all paid","100<=X<500","1<=X<4",4,"none","rent","yes",2,740
+"<0",24,"all paid","100<=X<500","4<=X<7",2,"none","own","yes",1,741
+"0<=X<200",10,"all paid","<100","1<=X<4",4,"none","own","yes",1,742
+"no checking",21,"existing paid","no known savings",">=7",4,"none","own","yes",1,743
+"<0",24,"all paid","500<=X<1000","1<=X<4",4,"none","own","yes",1,744
+"<0",39,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,745
+"<0",13,"critical/other existing credit","<100","<1",3,"none","own","yes",1,746
+"no checking",15,"existing paid","<100","unemployed",1,"none","rent","yes",1,747
+"<0",12,"existing paid","<100","<1",3,"none","own","yes",2,748
+"no checking",24,"existing paid","no known savings","1<=X<4",1,"none","own","yes",1,749
+"no checking",15,"existing paid","<100","4<=X<7",2,"none","own","yes",1,750
+"<0",6,"existing paid","<100",">=7",2,"none","own","yes",1,751
+"<0",18,"existing paid","<100","<1",1,"none","own","yes",2,752
+"0<=X<200",12,"existing paid","100<=X<500","4<=X<7",2,"none","rent","yes",1,753
+"no checking",30,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,754
+"no checking",12,"delayed previously",">=1000",">=7",4,"none","for free","yes",2,755
+"<0",24,"existing paid","no known savings","4<=X<7",4,"none","rent","yes",2,756
+">=200",6,"critical/other existing credit","<100","1<=X<4",1,"none","own","no",1,757
+">=200",15,"critical/other existing credit","no known savings","1<=X<4",3,"none","for free","yes",2,758
+"no checking",24,"existing paid","<100","1<=X<4",2,"guarantor","own","yes",1,759
+"<0",12,"critical/other existing credit","<100",">=7",4,"none","own","yes",2,760
+"no checking",15,"critical/other existing credit","no known savings",">=7",1,"none","own","yes",1,761
+"<0",18,"critical/other existing credit","<100","1<=X<4",4,"none","rent","yes",2,762
+"<0",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,763
+"no checking",21,"critical/other existing credit","no known savings",">=7",4,"none","for free","yes",2,764
+"no checking",24,"critical/other existing credit","100<=X<500","4<=X<7",4,"none","own","yes",1,765
+"0<=X<200",12,"existing paid","<100",">=7",3,"guarantor","own","yes",1,766
+"<0",30,"existing paid","<100","<1",2,"none","own","yes",2,767
+"no checking",9,"existing paid","no known savings","<1",1,"none","rent","yes",1,768
+"0<=X<200",12,"critical/other existing credit","<100",">=7",1,"none","rent","yes",1,769
+"no checking",12,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,770
+"0<=X<200",24,"existing paid","no known savings",">=7",2,"none","rent","yes",1,771
+"<0",36,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",2,772
+"no checking",21,"critical/other existing credit","<100",">=7",1,"none","own","yes",1,773
+"no checking",24,"critical/other existing credit","100<=X<500",">=7",4,"none","own","yes",1,774
+">=200",12,"critical/other existing credit","500<=X<1000","unemployed",2,"none","for free","yes",1,775
+"<0",24,"existing paid","no known savings","1<=X<4",4,"none","rent","yes",2,776
+"no checking",36,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",1,777
+"<0",39,"existing paid","<100","4<=X<7",4,"guarantor","own","yes",1,778
+"no checking",36,"critical/other existing credit",">=1000",">=7",4,"none","own","yes",1,779
+"0<=X<200",18,"existing paid","<100","unemployed",2,"none","own","yes",1,780
+"0<=X<200",39,"critical/other existing credit","<100","4<=X<7",2,"guarantor","own","yes",2,781
+"no checking",24,"critical/other existing credit",">=1000",">=7",4,"none","own","yes",1,782
+"0<=X<200",36,"no credits/all paid","<100","1<=X<4",2,"none","own","yes",1,783
+"0<=X<200",12,"existing paid","100<=X<500","<1",4,"none","own","yes",2,784
+"0<=X<200",20,"existing paid","no known savings","unemployed",1,"none","own","yes",1,785
+"0<=X<200",18,"existing paid",">=1000","1<=X<4",4,"none","own","yes",1,786
+"no checking",22,"existing paid","500<=X<1000",">=7",3,"none","own","yes",1,787
+"no checking",48,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,788
+"0<=X<200",48,"delayed previously","<100",">=7",4,"none","for free","yes",2,789
+"<0",40,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",2,790
+"0<=X<200",21,"existing paid","<100",">=7",2,"none","own","yes",2,791
+"no checking",24,"existing paid","no known savings",">=7",3,"none","own","yes",1,792
+"no checking",6,"critical/other existing credit","no known savings","1<=X<4",1,"none","own","yes",1,793
+"0<=X<200",24,"existing paid","<100",">=7",3,"none","for free","yes",1,794
+"no checking",24,"existing paid","500<=X<1000",">=7",4,"none","rent","yes",1,795
+"no checking",9,"existing paid","100<=X<500","<1",2,"none","rent","yes",1,796
+"<0",18,"existing paid","no known savings",">=7",1,"none","for free","yes",2,797
+"no checking",6,"critical/other existing credit","<100","<1",2,"none","rent","yes",1,798
+"no checking",24,"delayed previously","no known savings",">=7",4,"none","own","yes",1,799
+"0<=X<200",9,"existing paid","no known savings","<1",4,"none","own","yes",1,800
+"no checking",24,"critical/other existing credit","<100",">=7",4,"none","for free","yes",1,801
+"0<=X<200",60,"critical/other existing credit","<100",">=7",3,"guarantor","rent","yes",1,802
+"<0",20,"critical/other existing credit","<100",">=7",1,"none","own","yes",1,803
+"no checking",12,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,804
+"no checking",12,"existing paid","no known savings","unemployed",1,"none","rent","yes",1,805
+"<0",48,"existing paid","<100","4<=X<7",2,"none","own","yes",2,806
+"0<=X<200",6,"existing paid","<100","<1",3,"none","own","no",1,807
+"no checking",18,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,808
+"0<=X<200",42,"all paid","<100","unemployed",1,"none","for free","yes",1,809
+"0<=X<200",15,"no credits/all paid","<100","<1",2,"none","rent","yes",2,810
+"0<=X<200",8,"existing paid","<100","<1",3,"none","own","yes",1,811
+"0<=X<200",6,"existing paid","<100","4<=X<7",3,"guarantor","own","yes",1,812
+"<0",36,"critical/other existing credit","<100","4<=X<7",4,"none","own","yes",2,813
+"<0",48,"existing paid","<100","1<=X<4",3,"none","own","yes",2,814
+"<0",60,"existing paid","<100","4<=X<7",4,"none","for free","yes",2,815
+"0<=X<200",36,"delayed previously","<100","1<=X<4",2,"none","rent","yes",1,816
+"no checking",6,"existing paid","500<=X<1000","1<=X<4",1,"none","own","yes",1,817
+"no checking",6,"critical/other existing credit","<100","4<=X<7",1,"none","rent","yes",1,818
+"<0",36,"existing paid","<100","unemployed",2,"co applicant","own","yes",1,819
+"<0",18,"existing paid","<100","1<=X<4",4,"none","own","yes",2,820
+"no checking",12,"existing paid","<100","1<=X<4",3,"none","own","yes",1,821
+">=200",12,"existing paid","<100","1<=X<4",3,"none","own","yes",1,822
+"<0",36,"existing paid","<100",">=7",2,"none","own","yes",2,823
+"<0",8,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,824
+"no checking",18,"critical/other existing credit","<100","<1",3,"none","own","yes",1,825
+"<0",21,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,826
+"<0",18,"critical/other existing credit","<100",">=7",1,"none","rent","yes",2,827
+"no checking",18,"no credits/all paid","<100","1<=X<4",2,"none","own","yes",2,828
+"<0",36,"existing paid","no known savings",">=7",3,"none","for free","yes",2,829
+"0<=X<200",48,"delayed previously","no known savings","1<=X<4",4,"none","for free","yes",1,830
+"no checking",24,"delayed previously","500<=X<1000","1<=X<4",4,"none","own","yes",1,831
+"<0",18,"existing paid","<100","<1",4,"none","rent","yes",2,832
+"<0",48,"no credits/all paid","<100",">=7",2,"none","rent","yes",2,833
+"0<=X<200",24,"existing paid","no known savings",">=7",2,"none","own","yes",1,834
+">=200",15,"existing paid","<100","<1",2,"none","own","yes",2,835
+"<0",12,"no credits/all paid","<100","1<=X<4",4,"none","own","yes",2,836
+"no checking",12,"existing paid","no known savings","1<=X<4",4,"none","own","yes",1,837
+"no checking",4,"existing paid","<100","<1",1,"none","rent","yes",1,838
+"<0",24,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,839
+"no checking",24,"critical/other existing credit","<100",">=7",4,"co applicant","own","yes",1,840
+"<0",36,"existing paid","<100","4<=X<7",4,"none","own","yes",2,841
+"no checking",21,"delayed previously","<100","1<=X<4",3,"none","own","yes",1,842
+"0<=X<200",30,"existing paid","<100","<1",4,"none","own","yes",2,843
+"no checking",24,"all paid","<100","4<=X<7",4,"none","own","yes",1,844
+"no checking",18,"existing paid","<100",">=7",4,"none","own","yes",1,845
+"0<=X<200",21,"existing paid","no known savings","4<=X<7",2,"none","own","yes",1,846
+"no checking",18,"existing paid","no known savings","1<=X<4",2,"none","rent","yes",2,847
+"no checking",12,"existing paid","<100","<1",4,"none","own","yes",1,848
+"<0",9,"existing paid","<100","4<=X<7",3,"none","own","yes",1,849
+"<0",12,"existing paid","<100",">=7",4,"none","own","yes",2,850
+"<0",20,"critical/other existing credit","<100","1<=X<4",4,"guarantor","rent","no",2,851
+"no checking",60,"critical/other existing credit","no known savings","4<=X<7",3,"none","own","yes",1,852
+"no checking",15,"critical/other existing credit","<100","1<=X<4",4,"none","for free","yes",1,853
+"<0",18,"all paid","<100","4<=X<7",4,"none","for free","yes",2,854
+"no checking",36,"delayed previously","<100",">=7",2,"none","own","yes",1,855
+"no checking",24,"existing paid","100<=X<500","<1",4,"none","own","yes",1,856
+"no checking",10,"existing paid","no known savings","4<=X<7",4,"none","own","yes",1,857
+"no checking",15,"critical/other existing credit","<100","1<=X<4",4,"none","for free","yes",1,858
+"<0",15,"existing paid","<100","1<=X<4",3,"none","own","yes",2,859
+"no checking",9,"existing paid","100<=X<500","1<=X<4",1,"guarantor","rent","no",1,860
+"no checking",24,"critical/other existing credit",">=1000","1<=X<4",4,"none","own","yes",1,861
+"no checking",18,"delayed previously","<100","1<=X<4",4,"none","own","yes",2,862
+"<0",24,"existing paid","<100","<1",4,"none","own","yes",2,863
+"no checking",27,"critical/other existing credit",">=1000","<1",4,"none","own","yes",1,864
+">=200",10,"existing paid","<100","1<=X<4",2,"none","rent","yes",2,865
+"no checking",15,"existing paid","500<=X<1000","1<=X<4",2,"none","rent","yes",1,866
+"<0",18,"existing paid","<100","<1",4,"none","own","yes",1,867
+"no checking",12,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,868
+"no checking",36,"existing paid","no known savings",">=7",3,"none","own","yes",1,869
+"<0",12,"existing paid","<100",">=7",4,"none","rent","yes",1,870
+"no checking",36,"delayed previously","500<=X<1000","4<=X<7",2,"none","own","yes",1,871
+">=200",6,"critical/other existing credit","<100",">=7",1,"none","own","no",1,872
+"<0",24,"critical/other existing credit","100<=X<500","4<=X<7",4,"none","own","yes",1,873
+"no checking",15,"existing paid","no known savings","<1",4,"none","own","yes",1,874
+"<0",12,"existing paid","<100","1<=X<4",2,"co applicant","own","yes",1,875
+"0<=X<200",11,"critical/other existing credit",">=1000","1<=X<4",4,"none","own","yes",1,876
+"<0",18,"all paid","<100","<1",3,"co applicant","for free","yes",1,877
+"no checking",36,"existing paid","<100",">=7",4,"none","own","yes",1,878
+"<0",24,"existing paid","<100","<1",3,"none","for free","yes",2,879
+"no checking",30,"critical/other existing credit","no known savings","4<=X<7",2,"none","own","yes",1,880
+"no checking",48,"existing paid","<100","4<=X<7",3,"none","own","yes",1,881
+"no checking",24,"existing paid","no known savings","1<=X<4",2,"none","for free","yes",1,882
+"0<=X<200",30,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,883
+"no checking",18,"critical/other existing credit","<100","unemployed",4,"none","own","yes",1,884
+"0<=X<200",24,"existing paid","<100","4<=X<7",3,"none","own","yes",2,885
+"<0",12,"existing paid","<100","<1",4,"none","own","yes",2,886
+"0<=X<200",24,"critical/other existing credit","no known savings","4<=X<7",4,"none","own","yes",1,887
+"0<=X<200",48,"existing paid","<100","1<=X<4",2,"none","own","yes",2,888
+"no checking",36,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,889
+"no checking",48,"all paid","no known savings","<1",3,"guarantor","rent","yes",1,890
+"<0",27,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,891
+"no checking",15,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,892
+"<0",12,"critical/other existing credit","<100","1<=X<4",4,"none","own","no",1,893
+"0<=X<200",48,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",1,894
+"no checking",18,"critical/other existing credit","no known savings","1<=X<4",4,"none","own","yes",1,895
+"no checking",36,"delayed previously","no known savings","4<=X<7",3,"none","own","yes",1,896
+"<0",21,"existing paid","<100","<1",4,"none","rent","yes",1,897
+"no checking",12,"critical/other existing credit",">=1000","4<=X<7",3,"none","own","no",1,898
+"no checking",15,"existing paid","no known savings","4<=X<7",1,"none","rent","yes",1,899
+"<0",18,"existing paid","<100","1<=X<4",2,"co applicant","own","yes",2,900
+"<0",54,"critical/other existing credit","<100",">=7",2,"guarantor","rent","yes",2,901
+"no checking",20,"critical/other existing credit","no known savings","<1",2,"none","own","yes",1,902
+"no checking",36,"critical/other existing credit","no known savings",">=7",2,"none","for free","yes",1,903
+"no checking",15,"existing paid","no known savings","1<=X<4",4,"none","rent","yes",1,904
+"no checking",24,"existing paid","<100",">=7",4,"none","own","yes",1,905
+"<0",12,"existing paid","<100","1<=X<4",2,"none","rent","yes",1,906
+"<0",21,"existing paid","no known savings","4<=X<7",2,"co applicant","own","no",1,907
+"0<=X<200",36,"existing paid","no known savings","1<=X<4",2,"none","own","yes",1,908
+"no checking",15,"delayed previously","<100","<1",1,"none","own","yes",1,909
+"0<=X<200",9,"existing paid","no known savings","1<=X<4",1,"none","own","yes",1,910
+"no checking",36,"delayed previously","<100","1<=X<4",4,"none","own","yes",1,911
+"0<=X<200",24,"critical/other existing credit","<100","<1",2,"none","own","yes",2,912
+"0<=X<200",30,"existing paid","no known savings",">=7",2,"none","own","yes",1,913
+"no checking",11,"existing paid",">=1000",">=7",1,"none","own","yes",1,914
+"<0",24,"all paid","<100","1<=X<4",4,"none","rent","yes",2,915
+"0<=X<200",48,"no credits/all paid","<100","1<=X<4",1,"none","own","no",2,916
+"no checking",10,"existing paid","100<=X<500","1<=X<4",1,"co applicant","own","yes",1,917
+"<0",6,"existing paid","<100",">=7",1,"none","own","yes",2,918
+"<0",24,"existing paid","100<=X<500","unemployed",1,"none","own","yes",2,919
+"<0",24,"existing paid","<100",">=7",4,"none","rent","yes",2,920
+"no checking",18,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,921
+"no checking",48,"delayed previously","500<=X<1000","4<=X<7",4,"none","own","yes",1,922
+"<0",9,"existing paid","<100","<1",3,"none","rent","yes",2,923
+"0<=X<200",12,"existing paid","<100","4<=X<7",3,"none","rent","yes",1,924
+"<0",24,"all paid","<100","<1",2,"none","own","yes",2,925
+"<0",12,"all paid","<100","<1",4,"none","own","yes",2,926
+"<0",18,"critical/other existing credit","<100","<1",4,"none","rent","yes",1,927
+"<0",48,"existing paid","<100","4<=X<7",4,"none","for free","yes",2,928
+"no checking",30,"existing paid","no known savings",">=7",4,"none","own","yes",1,929
+"<0",15,"delayed previously","<100","1<=X<4",4,"none","own","yes",1,930
+"<0",9,"existing paid","<100","<1",4,"co applicant","own","no",1,931
+"0<=X<200",9,"existing paid","<100","<1",4,"none","own","yes",2,932
+"no checking",9,"critical/other existing credit","<100","1<=X<4",3,"none","own","yes",1,933
+"no checking",12,"critical/other existing credit","500<=X<1000",">=7",4,"none","own","yes",1,934
+"<0",12,"existing paid","<100","1<=X<4",4,"none","own","yes",1,935
+"0<=X<200",30,"delayed previously","100<=X<500","<1",4,"none","own","yes",2,936
+">=200",9,"existing paid","<100","1<=X<4",3,"none","own","yes",2,937
+"0<=X<200",6,"existing paid","<100","<1",4,"none","rent","yes",1,938
+"0<=X<200",26,"existing paid","<100","1<=X<4",4,"none","for free","yes",2,939
+"no checking",24,"critical/other existing credit","no known savings","1<=X<4",2,"none","own","yes",1,940
+"no checking",12,"existing paid","no known savings","<1",2,"none","own","yes",1,941
+"no checking",10,"existing paid","<100","1<=X<4",3,"none","own","no",1,942
+"no checking",24,"existing paid","no known savings","4<=X<7",4,"none","own","yes",1,943
+"no checking",4,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,944
+"<0",15,"existing paid","<100","<1",4,"guarantor","rent","yes",1,945
+"0<=X<200",48,"no credits/all paid","500<=X<1000","<1",1,"none","own","yes",1,946
+"<0",48,"all paid","500<=X<1000","<1",4,"none","for free","yes",2,947
+"no checking",60,"existing paid","no known savings","unemployed",4,"none","own","yes",1,948
+"no checking",18,"existing paid","<100","<1",4,"co applicant","own","yes",2,949
+"no checking",24,"existing paid","100<=X<500",">=7",2,"none","own","yes",2,950
+"0<=X<200",18,"critical/other existing credit","<100","unemployed",3,"none","own","yes",1,951
+"<0",36,"delayed previously","<100","4<=X<7",2,"none","own","yes",2,952
+"0<=X<200",24,"existing paid","500<=X<1000","<1",3,"none","rent","yes",2,953
+"no checking",36,"existing paid","<100","unemployed",4,"none","own","yes",2,954
+"<0",12,"existing paid","<100","1<=X<4",4,"guarantor","own","yes",1,955
+"<0",24,"critical/other existing credit",">=1000",">=7",4,"none","rent","yes",1,956
+">=200",30,"critical/other existing credit","no known savings",">=7",4,"none","own","yes",1,957
+"0<=X<200",9,"critical/other existing credit","<100",">=7",2,"none","own","yes",1,958
+"<0",28,"existing paid","<100","1<=X<4",3,"none","own","yes",2,959
+"0<=X<200",24,"existing paid","100<=X<500",">=7",4,"none","for free","yes",1,960
+"no checking",6,"critical/other existing credit","<100",">=7",2,"none","rent","yes",1,961
+"0<=X<200",21,"delayed previously","<100","1<=X<4",1,"none","own","yes",1,962
+"no checking",15,"existing paid","no known savings","1<=X<4",3,"none","own","yes",1,963
+"no checking",24,"existing paid","500<=X<1000",">=7",3,"none","own","yes",2,964
+"0<=X<200",6,"existing paid","<100","<1",3,"none","own","yes",1,965
+"0<=X<200",30,"existing paid","no known savings","1<=X<4",4,"none","own","yes",1,966
+"0<=X<200",27,"critical/other existing credit","500<=X<1000","1<=X<4",4,"none","own","yes",2,967
+"no checking",15,"existing paid","<100",">=7",4,"none","rent","yes",1,968
+"no checking",48,"existing paid","no known savings","4<=X<7",2,"none","rent","yes",1,969
+"<0",11,"critical/other existing credit","<100","1<=X<4",1,"none","own","yes",1,970
+"0<=X<200",15,"existing paid","100<=X<500","1<=X<4",4,"guarantor","own","yes",1,971
+"no checking",24,"existing paid","<100","1<=X<4",1,"none","own","yes",1,972
+"<0",24,"all paid","<100","unemployed",1,"co applicant","rent","yes",2,973
+"<0",60,"existing paid","<100",">=7",4,"co applicant","rent","yes",2,974
+"no checking",30,"critical/other existing credit","<100","1<=X<4",4,"none","own","yes",1,975
+">=200",24,"existing paid","500<=X<1000","1<=X<4",3,"none","own","yes",1,976
+"0<=X<200",6,"existing paid","<100","1<=X<4",2,"guarantor","own","yes",1,977
+"0<=X<200",18,"delayed previously","no known savings",">=7",4,"none","own","yes",1,978
+"<0",24,"delayed previously","<100",">=7",4,"none","own","yes",2,979
+"0<=X<200",15,"all paid","100<=X<500","1<=X<4",2,"none","rent","yes",2,980
+"0<=X<200",30,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",2,981
+"no checking",48,"existing paid","<100","unemployed",3,"none","rent","yes",2,982
+">=200",48,"existing paid","100<=X<500","1<=X<4",1,"none","own","yes",1,983
+"<0",36,"existing paid","<100","1<=X<4",2,"none","own","yes",2,984
+"<0",24,"critical/other existing credit","<100","4<=X<7",2,"none","own","yes",1,985
+"<0",15,"critical/other existing credit","<100","1<=X<4",4,"none","rent","yes",1,986
+">=200",42,"no credits/all paid","<100","<1",2,"none","own","yes",1,987
+"no checking",13,"existing paid","100<=X<500","unemployed",2,"none","own","yes",1,988
+"0<=X<200",24,"existing paid","<100","unemployed",4,"none","for free","yes",1,989
+"0<=X<200",24,"critical/other existing credit","<100",">=7",4,"none","own","yes",1,990
+"no checking",12,"critical/other existing credit","no known savings","<1",2,"none","own","yes",1,991
+"no checking",15,"all paid","100<=X<500",">=7",4,"none","own","yes",1,992
+"<0",6,"existing paid","no known savings","4<=X<7",2,"none","rent","yes",1,993
+"<0",36,"existing paid","<100","unemployed",4,"none","own","yes",1,994
+"no checking",12,"existing paid","no known savings",">=7",4,"none","own","yes",1,995
+"no checking",12,"existing paid","<100","4<=X<7",3,"none","own","yes",1,996
+"<0",30,"existing paid","<100","1<=X<4",4,"none","own","yes",1,997
+"no checking",12,"existing paid","<100",">=7",4,"none","own","yes",1,998
+"<0",45,"existing paid","<100","1<=X<4",4,"none","for free","yes",2,999
+"0<=X<200",45,"critical/other existing credit","100<=X<500","unemployed",3,"none","own","yes",1,1000
