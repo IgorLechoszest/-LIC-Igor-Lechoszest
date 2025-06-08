@@ -37,8 +37,11 @@ library(xtable)
 xtable(new)
 
 
+df <- read.csv("wyniki.csv")
 
-## Test Wilcoxona 
+## Test Wilcoxona
+
+alfa <- 0.05
 jaki <- c()
 jakim <- c()
 ind <- 1
@@ -46,23 +49,36 @@ jnd <- 1
 knd <- 1
 pval <- c()
 ind_pval <- c()
+dataset_name <- c()
 
 
-for (i in unique(df$Strategia[df$Dataset == "phoneme"])){
-  for(j in unique(df$Strategia[df$Dataset == "phoneme"])){
-    if (i != j){
-      jaki[ind] <- i
-      jakim[ind] <- j
-      ind_pval[knd] <- wilcox.test(df[df$Dataset == "phoneme" & df$Strategia == i,c("mean_test_score")],
-                  df[df$Dataset == "phoneme" & df$Strategia == j,c("mean_test_score")])$p.value[[1]]
-      ind <- ind + 1
-      jnd <- jnd + 1
-      knd <- knd + 1
+for (dane in unique(df$Dataset)) {
+  
+  strategie <- unique(df$Strategia[df$Dataset == dane])
+  
+  for (i in 1:length(strategie)) {
+    for (j in 1:length(strategie)) {
+      if (i < j) {
+        jaki[ind] <- strategie[i]
+        jakim[ind] <- strategie[j]
+        ind_pval[knd] <- wilcox.test(df[df$Dataset == dane & df$Strategia == strategie[i], c("mean_test_score")], 
+                                     df[df$Dataset == dane & df$Strategia == strategie[j], c("mean_test_score")])$p.value[[1]]
+        ind <- ind + 1
+        jnd <- jnd + 1
+        knd <- knd + 1
+        dataset_name <- c(dataset_name, dane)
+      }
     }
   }
 }
+results <- data.frame(jaki, jakim, ind_pval, dataset_name)
+results$Decyzja <- ifelse(results$ind_pval < alfa/choose(35,2), "Odrzucamy H", "Nie ma podstaw do odrzucenia H")
+names(results) <- c("Strategia 1", "Strategia 2", "p.value", "zbiór", "Decyzja")
 
-results <- data.frame(jaki, jakim, ind_pval)
-results$Decyzja <- ifelse(results$ind_pval < alfa, "Odrzucamy H", "Nie ma podstaw do odrzucenia H")
-names(results) <- c("Strategia 1", "Strategia 2", "p.value", "Decyzja")
+results$Decyzja[is.na(results$p.value)] <- "Nie ma podstaw do odrzucenia H"
+
+table(results$zbiór, results$Decyzja)
+
+library(xtable)
+xtable(table(results$zbiór, results$Decyzja))
 
