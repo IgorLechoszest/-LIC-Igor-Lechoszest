@@ -1,0 +1,1191 @@
+"Strategia 1","Strategia 2","p.value","Decyzja"
+"removal_max_knn_BORUTA","removal_max_knn_MI",0.924363751962169,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_knn_none",0.497708621674694,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-frequency_BORUTA",0.683630772357799,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-frequency_MI",0.785554340785746,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-frequency_none",0.0432675771680977,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_max_median-other_BORUTA",0.050610088657308,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-other_MCFS",0.242879747569699,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-other_MI",0.22760089307493,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-other_none",0.550576507125955,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_median-other_VI",0.328652398234473,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_max_mice_none",0.139525535112998,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_BORUTA","removal_med_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_knn_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_knn_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-frequency_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-frequency_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-frequency_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-other_MCFS",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-other_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_median-other_VI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_med_mice_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_knn_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_knn_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-frequency_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-frequency_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-other_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-other_MCFS",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-other_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-other_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_median-other_VI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_mice_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_mice_MI",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_BORUTA","removal_min_mice_none",7.78895640936452e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_max_knn_BORUTA",0.924363751962169,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_knn_none",0.724317179100713,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-frequency_BORUTA",0.7654470113143,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-frequency_MI",0.881393455748387,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-frequency_none",0.13593109648097,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-other_BORUTA",0.197208671147403,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-other_MCFS",0.644736977116537,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-other_MI",0.356620331065217,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-other_none",0.734270610824573,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_median-other_VI",0.447249057765588,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_max_mice_none",0.342311465119574,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_MI","removal_med_knn_BORUTA",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_knn_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-frequency_BORUTA",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-frequency_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-frequency_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-other_MCFS",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-other_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_median-other_VI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_med_mice_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_knn_BORUTA",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_knn_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-frequency_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-frequency_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-other_BORUTA",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-other_MCFS",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-other_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-other_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_median-other_VI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_mice_BORUTA",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_mice_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_MI","removal_min_mice_none",7.80329780303165e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_max_knn_BORUTA",0.497708621674694,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_knn_MI",0.724317179100713,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-frequency_BORUTA",0.913675282393072,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-frequency_MI",0.849412683134338,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-frequency_none",0.18405061256663,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-other_BORUTA",0.183512939848967,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-other_MCFS",0.480733257916657,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-other_MI",0.370941258591688,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-other_none",0.828334212748132,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_median-other_VI",0.693989976590563,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_max_mice_none",0.392992000029103,"Nie ma podstaw do odrzucenia H"
+"removal_max_knn_none","removal_med_knn_BORUTA",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_knn_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-frequency_BORUTA",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-frequency_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-frequency_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-other_MCFS",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-other_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_median-other_VI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_med_mice_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_knn_BORUTA",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_knn_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-frequency_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-frequency_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-other_BORUTA",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-other_MCFS",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-other_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-other_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_median-other_VI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_mice_BORUTA",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_mice_MI",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_knn_none","removal_min_mice_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_max_knn_BORUTA",0.683630772357799,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_knn_MI",0.7654470113143,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_knn_none",0.913675282393072,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-frequency_MI",0.924203190381858,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-frequency_none",0.166825714227161,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-other_BORUTA",0.192702156816281,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-other_MCFS",0.625206276133161,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-other_MI",0.456104263525645,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-other_none",0.892131887972361,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_median-other_VI",0.596845311435666,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_max_mice_none",0.400657759325728,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_BORUTA","removal_med_knn_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_knn_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_knn_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-frequency_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-frequency_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-other_MCFS",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-other_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_median-other_VI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_med_mice_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_knn_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_knn_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_knn_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-frequency_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-frequency_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-other_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-other_MCFS",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-other_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-other_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_median-other_VI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_mice_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_mice_MI",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_BORUTA","removal_min_mice_none",7.87535582108181e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_max_knn_BORUTA",0.785554340785746,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_knn_MI",0.881393455748387,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_knn_none",0.849412683134338,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-frequency_BORUTA",0.924203190381858,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-frequency_none",0.308831341048368,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-other_BORUTA",0.187168746025042,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-other_MCFS",0.595942341626642,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-other_MI",0.407878529323331,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-other_none",0.956686564222683,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_median-other_VI",0.568746009903388,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_max_mice_none",0.472126838209712,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_MI","removal_med_knn_BORUTA",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_knn_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_knn_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-frequency_BORUTA",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-frequency_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-other_MCFS",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-other_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_median-other_VI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_med_mice_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_knn_BORUTA",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_knn_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_knn_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-frequency_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-other_BORUTA",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-other_MCFS",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-other_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-other_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_median-other_VI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_mice_BORUTA",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_mice_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_MI","removal_min_mice_none",7.73182377633192e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_max_knn_BORUTA",0.0432675771680977,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_max_knn_MI",0.13593109648097,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_knn_none",0.18405061256663,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-frequency_BORUTA",0.166825714227161,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-frequency_MI",0.308831341048368,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-other_BORUTA",0.615746095306942,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-other_MCFS",0.734644503892348,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-other_MI",0.881471132299507,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-other_none",0.38527771639632,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_median-other_VI",0.489497922059301,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_max_mice_none",0.744730602863237,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-frequency_none","removal_med_knn_BORUTA",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_knn_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_knn_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-frequency_BORUTA",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-frequency_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-other_MCFS",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-other_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_median-other_VI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_med_mice_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_knn_BORUTA",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_knn_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_knn_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-frequency_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-other_BORUTA",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-other_MCFS",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-other_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-other_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_median-other_VI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_mice_BORUTA",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_mice_MI",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-frequency_none","removal_min_mice_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_max_knn_BORUTA",0.050610088657308,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_knn_MI",0.197208671147403,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_knn_none",0.183512939848967,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-frequency_BORUTA",0.192702156816281,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-frequency_MI",0.187168746025042,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-frequency_none",0.615746095306942,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-other_MCFS",0.514526329450481,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-other_MI",0.828158856088905,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-other_none",0.283877309171589,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_median-other_VI",0.49722131386079,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_max_mice_none",0.488862857030289,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_BORUTA","removal_med_knn_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_knn_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_knn_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-frequency_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-frequency_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-frequency_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-other_MCFS",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-other_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_median-other_VI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_med_mice_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_knn_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_knn_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_knn_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-frequency_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-frequency_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-other_MCFS",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-other_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-other_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_median-other_VI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_mice_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_mice_MI",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_BORUTA","removal_min_mice_none",7.76034356985987e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_max_knn_BORUTA",0.242879747569699,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_knn_MI",0.644736977116537,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_knn_none",0.480733257916657,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-frequency_BORUTA",0.625206276133161,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-frequency_MI",0.595942341626642,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-frequency_none",0.734644503892348,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-other_BORUTA",0.514526329450481,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-other_MI",0.775929669452333,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-other_none",0.694140704309028,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_median-other_VI",0.989177387932675,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_max_mice_none",0.765489941153091,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MCFS","removal_med_knn_BORUTA",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_knn_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_knn_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-frequency_BORUTA",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-frequency_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-frequency_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-other_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_median-other_VI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_med_mice_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_knn_BORUTA",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_knn_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_knn_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-frequency_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-frequency_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-other_BORUTA",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-other_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-other_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_median-other_VI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_mice_BORUTA",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_mice_MI",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MCFS","removal_min_mice_none",7.74607205866465e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_max_knn_BORUTA",0.22760089307493,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_knn_MI",0.356620331065217,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_knn_none",0.370941258591688,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-frequency_BORUTA",0.456104263525645,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-frequency_MI",0.407878529323331,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-frequency_none",0.881471132299507,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-other_BORUTA",0.828158856088905,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-other_MCFS",0.775929669452333,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-other_none",0.523953379687437,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_median-other_VI",0.765489941153091,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_max_mice_none",0.956774254427845,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_MI","removal_med_knn_BORUTA",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_knn_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_knn_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-frequency_BORUTA",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-frequency_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-frequency_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-other_MCFS",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-other_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_median-other_VI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_med_mice_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_knn_BORUTA",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_knn_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_knn_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-frequency_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-frequency_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-other_BORUTA",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-other_MCFS",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-other_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_median-other_VI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_mice_BORUTA",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_mice_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_MI","removal_min_mice_none",7.90434346487012e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_max_knn_BORUTA",0.550576507125955,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_knn_MI",0.734270610824573,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_knn_none",0.828334212748132,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-frequency_BORUTA",0.892131887972361,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-frequency_MI",0.956686564222683,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-frequency_none",0.38527771639632,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-other_BORUTA",0.283877309171589,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-other_MCFS",0.694140704309028,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-other_MI",0.523953379687437,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_median-other_VI",0.755096944974948,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_max_mice_none",0.578272039082786,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_none","removal_med_knn_BORUTA",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_knn_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_knn_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-frequency_BORUTA",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-frequency_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-frequency_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-other_MCFS",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_median-other_VI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_med_mice_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_knn_BORUTA",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_knn_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_knn_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-frequency_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-frequency_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-other_BORUTA",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-other_MCFS",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-other_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_median-other_VI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_mice_BORUTA",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_mice_MI",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_none","removal_min_mice_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_max_knn_BORUTA",0.328652398234473,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_knn_MI",0.447249057765588,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_knn_none",0.693989976590563,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-frequency_BORUTA",0.596845311435666,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-frequency_MI",0.568746009903388,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-frequency_none",0.489497922059301,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-other_BORUTA",0.49722131386079,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-other_MCFS",0.989177387932675,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-other_MI",0.765489941153091,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_median-other_none",0.755096944974948,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_max_mice_none",0.796730574175815,"Nie ma podstaw do odrzucenia H"
+"removal_max_median-other_VI","removal_med_knn_BORUTA",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_knn_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_knn_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-frequency_BORUTA",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-frequency_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-frequency_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-other_MCFS",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-other_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_med_mice_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_knn_BORUTA",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_knn_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_knn_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-frequency_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-frequency_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-other_BORUTA",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-other_MCFS",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-other_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-other_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_mice_BORUTA",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_mice_MI",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_median-other_VI","removal_min_mice_none",7.88983786458125e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_max_knn_BORUTA",0.139525535112998,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_knn_MI",0.342311465119574,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_knn_none",0.392992000029103,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-frequency_BORUTA",0.400657759325728,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-frequency_MI",0.472126838209712,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-frequency_none",0.744730602863237,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-other_BORUTA",0.488862857030289,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-other_MCFS",0.765489941153091,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-other_MI",0.956774254427845,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-other_none",0.578272039082786,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_max_median-other_VI",0.796730574175815,"Nie ma podstaw do odrzucenia H"
+"removal_max_mice_none","removal_med_knn_BORUTA",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_knn_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_knn_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-frequency_BORUTA",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-frequency_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-frequency_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-other_MCFS",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-other_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_median-other_VI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_med_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_knn_BORUTA",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_knn_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_knn_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-frequency_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-frequency_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-other_BORUTA",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-other_MCFS",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-other_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-other_none",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_median-other_VI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_mice_BORUTA",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_mice_MI",7.91887265495e-09,"Odrzucamy H"
+"removal_max_mice_none","removal_min_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_knn_BORUTA","removal_med_knn_MI",NA,NA
+"removal_med_knn_BORUTA","removal_med_knn_none",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-frequency_MI",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-frequency_none",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-other_MCFS",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-other_none",NA,NA
+"removal_med_knn_BORUTA","removal_med_median-other_VI",NA,NA
+"removal_med_knn_BORUTA","removal_med_mice_none",NA,NA
+"removal_med_knn_BORUTA","removal_min_knn_BORUTA",NA,NA
+"removal_med_knn_BORUTA","removal_min_knn_MI",NA,NA
+"removal_med_knn_BORUTA","removal_min_knn_none",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-frequency_MI",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-frequency_none",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-other_BORUTA",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-other_MCFS",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-other_MI",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-other_none",NA,NA
+"removal_med_knn_BORUTA","removal_min_median-other_VI",NA,NA
+"removal_med_knn_BORUTA","removal_min_mice_BORUTA",NA,NA
+"removal_med_knn_BORUTA","removal_min_mice_MI",NA,NA
+"removal_med_knn_BORUTA","removal_min_mice_none",NA,NA
+"removal_med_knn_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_knn_MI","removal_med_knn_BORUTA",NA,NA
+"removal_med_knn_MI","removal_med_knn_none",NA,NA
+"removal_med_knn_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_knn_MI","removal_med_median-frequency_MI",NA,NA
+"removal_med_knn_MI","removal_med_median-frequency_none",NA,NA
+"removal_med_knn_MI","removal_med_median-other_MCFS",NA,NA
+"removal_med_knn_MI","removal_med_median-other_none",NA,NA
+"removal_med_knn_MI","removal_med_median-other_VI",NA,NA
+"removal_med_knn_MI","removal_med_mice_none",NA,NA
+"removal_med_knn_MI","removal_min_knn_BORUTA",NA,NA
+"removal_med_knn_MI","removal_min_knn_MI",NA,NA
+"removal_med_knn_MI","removal_min_knn_none",NA,NA
+"removal_med_knn_MI","removal_min_median-frequency_MI",NA,NA
+"removal_med_knn_MI","removal_min_median-frequency_none",NA,NA
+"removal_med_knn_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_med_knn_MI","removal_min_median-other_MCFS",NA,NA
+"removal_med_knn_MI","removal_min_median-other_MI",NA,NA
+"removal_med_knn_MI","removal_min_median-other_none",NA,NA
+"removal_med_knn_MI","removal_min_median-other_VI",NA,NA
+"removal_med_knn_MI","removal_min_mice_BORUTA",NA,NA
+"removal_med_knn_MI","removal_min_mice_MI",NA,NA
+"removal_med_knn_MI","removal_min_mice_none",NA,NA
+"removal_med_knn_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_knn_none","removal_med_knn_BORUTA",NA,NA
+"removal_med_knn_none","removal_med_knn_MI",NA,NA
+"removal_med_knn_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_knn_none","removal_med_median-frequency_MI",NA,NA
+"removal_med_knn_none","removal_med_median-frequency_none",NA,NA
+"removal_med_knn_none","removal_med_median-other_MCFS",NA,NA
+"removal_med_knn_none","removal_med_median-other_none",NA,NA
+"removal_med_knn_none","removal_med_median-other_VI",NA,NA
+"removal_med_knn_none","removal_med_mice_none",NA,NA
+"removal_med_knn_none","removal_min_knn_BORUTA",NA,NA
+"removal_med_knn_none","removal_min_knn_MI",NA,NA
+"removal_med_knn_none","removal_min_knn_none",NA,NA
+"removal_med_knn_none","removal_min_median-frequency_MI",NA,NA
+"removal_med_knn_none","removal_min_median-frequency_none",NA,NA
+"removal_med_knn_none","removal_min_median-other_BORUTA",NA,NA
+"removal_med_knn_none","removal_min_median-other_MCFS",NA,NA
+"removal_med_knn_none","removal_min_median-other_MI",NA,NA
+"removal_med_knn_none","removal_min_median-other_none",NA,NA
+"removal_med_knn_none","removal_min_median-other_VI",NA,NA
+"removal_med_knn_none","removal_min_mice_BORUTA",NA,NA
+"removal_med_knn_none","removal_min_mice_MI",NA,NA
+"removal_med_knn_none","removal_min_mice_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-frequency_BORUTA","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_knn_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_knn_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_median-frequency_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_median-frequency_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_median-other_MCFS",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_median-other_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_median-other_VI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_med_mice_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_knn_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_knn_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-frequency_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-other_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-other_none",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_median-other_VI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_mice_MI",NA,NA
+"removal_med_median-frequency_BORUTA","removal_min_mice_none",NA,NA
+"removal_med_median-frequency_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-frequency_MI","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-frequency_MI","removal_med_knn_MI",NA,NA
+"removal_med_median-frequency_MI","removal_med_knn_none",NA,NA
+"removal_med_median-frequency_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_median-frequency_MI","removal_med_median-frequency_none",NA,NA
+"removal_med_median-frequency_MI","removal_med_median-other_MCFS",NA,NA
+"removal_med_median-frequency_MI","removal_med_median-other_none",NA,NA
+"removal_med_median-frequency_MI","removal_med_median-other_VI",NA,NA
+"removal_med_median-frequency_MI","removal_med_mice_none",NA,NA
+"removal_med_median-frequency_MI","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-frequency_MI","removal_min_knn_MI",NA,NA
+"removal_med_median-frequency_MI","removal_min_knn_none",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-frequency_none",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-other_MI",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-other_none",NA,NA
+"removal_med_median-frequency_MI","removal_min_median-other_VI",NA,NA
+"removal_med_median-frequency_MI","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-frequency_MI","removal_min_mice_MI",NA,NA
+"removal_med_median-frequency_MI","removal_min_mice_none",NA,NA
+"removal_med_median-frequency_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-frequency_none","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-frequency_none","removal_med_knn_MI",NA,NA
+"removal_med_median-frequency_none","removal_med_knn_none",NA,NA
+"removal_med_median-frequency_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_median-frequency_none","removal_med_median-frequency_MI",NA,NA
+"removal_med_median-frequency_none","removal_med_median-other_MCFS",NA,NA
+"removal_med_median-frequency_none","removal_med_median-other_none",NA,NA
+"removal_med_median-frequency_none","removal_med_median-other_VI",NA,NA
+"removal_med_median-frequency_none","removal_med_mice_none",NA,NA
+"removal_med_median-frequency_none","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-frequency_none","removal_min_knn_MI",NA,NA
+"removal_med_median-frequency_none","removal_min_knn_none",NA,NA
+"removal_med_median-frequency_none","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-frequency_none","removal_min_median-frequency_none",NA,NA
+"removal_med_median-frequency_none","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-frequency_none","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-frequency_none","removal_min_median-other_MI",NA,NA
+"removal_med_median-frequency_none","removal_min_median-other_none",NA,NA
+"removal_med_median-frequency_none","removal_min_median-other_VI",NA,NA
+"removal_med_median-frequency_none","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-frequency_none","removal_min_mice_MI",NA,NA
+"removal_med_median-frequency_none","removal_min_mice_none",NA,NA
+"removal_med_median-other_MCFS","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-other_MCFS","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-other_MCFS","removal_med_knn_MI",NA,NA
+"removal_med_median-other_MCFS","removal_med_knn_none",NA,NA
+"removal_med_median-other_MCFS","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_median-other_MCFS","removal_med_median-frequency_MI",NA,NA
+"removal_med_median-other_MCFS","removal_med_median-frequency_none",NA,NA
+"removal_med_median-other_MCFS","removal_med_median-other_none",NA,NA
+"removal_med_median-other_MCFS","removal_med_median-other_VI",NA,NA
+"removal_med_median-other_MCFS","removal_med_mice_none",NA,NA
+"removal_med_median-other_MCFS","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-other_MCFS","removal_min_knn_MI",NA,NA
+"removal_med_median-other_MCFS","removal_min_knn_none",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-frequency_none",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-other_MI",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-other_none",NA,NA
+"removal_med_median-other_MCFS","removal_min_median-other_VI",NA,NA
+"removal_med_median-other_MCFS","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-other_MCFS","removal_min_mice_MI",NA,NA
+"removal_med_median-other_MCFS","removal_min_mice_none",NA,NA
+"removal_med_median-other_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-other_none","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-other_none","removal_med_knn_MI",NA,NA
+"removal_med_median-other_none","removal_med_knn_none",NA,NA
+"removal_med_median-other_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_median-other_none","removal_med_median-frequency_MI",NA,NA
+"removal_med_median-other_none","removal_med_median-frequency_none",NA,NA
+"removal_med_median-other_none","removal_med_median-other_MCFS",NA,NA
+"removal_med_median-other_none","removal_med_median-other_VI",NA,NA
+"removal_med_median-other_none","removal_med_mice_none",NA,NA
+"removal_med_median-other_none","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-other_none","removal_min_knn_MI",NA,NA
+"removal_med_median-other_none","removal_min_knn_none",NA,NA
+"removal_med_median-other_none","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-other_none","removal_min_median-frequency_none",NA,NA
+"removal_med_median-other_none","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-other_none","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-other_none","removal_min_median-other_MI",NA,NA
+"removal_med_median-other_none","removal_min_median-other_none",NA,NA
+"removal_med_median-other_none","removal_min_median-other_VI",NA,NA
+"removal_med_median-other_none","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-other_none","removal_min_mice_MI",NA,NA
+"removal_med_median-other_none","removal_min_mice_none",NA,NA
+"removal_med_median-other_VI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_median-other_VI","removal_med_knn_BORUTA",NA,NA
+"removal_med_median-other_VI","removal_med_knn_MI",NA,NA
+"removal_med_median-other_VI","removal_med_knn_none",NA,NA
+"removal_med_median-other_VI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_median-other_VI","removal_med_median-frequency_MI",NA,NA
+"removal_med_median-other_VI","removal_med_median-frequency_none",NA,NA
+"removal_med_median-other_VI","removal_med_median-other_MCFS",NA,NA
+"removal_med_median-other_VI","removal_med_median-other_none",NA,NA
+"removal_med_median-other_VI","removal_med_mice_none",NA,NA
+"removal_med_median-other_VI","removal_min_knn_BORUTA",NA,NA
+"removal_med_median-other_VI","removal_min_knn_MI",NA,NA
+"removal_med_median-other_VI","removal_min_knn_none",NA,NA
+"removal_med_median-other_VI","removal_min_median-frequency_MI",NA,NA
+"removal_med_median-other_VI","removal_min_median-frequency_none",NA,NA
+"removal_med_median-other_VI","removal_min_median-other_BORUTA",NA,NA
+"removal_med_median-other_VI","removal_min_median-other_MCFS",NA,NA
+"removal_med_median-other_VI","removal_min_median-other_MI",NA,NA
+"removal_med_median-other_VI","removal_min_median-other_none",NA,NA
+"removal_med_median-other_VI","removal_min_median-other_VI",NA,NA
+"removal_med_median-other_VI","removal_min_mice_BORUTA",NA,NA
+"removal_med_median-other_VI","removal_min_mice_MI",NA,NA
+"removal_med_median-other_VI","removal_min_mice_none",NA,NA
+"removal_med_mice_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_med_mice_none","removal_med_knn_BORUTA",NA,NA
+"removal_med_mice_none","removal_med_knn_MI",NA,NA
+"removal_med_mice_none","removal_med_knn_none",NA,NA
+"removal_med_mice_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_med_mice_none","removal_med_median-frequency_MI",NA,NA
+"removal_med_mice_none","removal_med_median-frequency_none",NA,NA
+"removal_med_mice_none","removal_med_median-other_MCFS",NA,NA
+"removal_med_mice_none","removal_med_median-other_none",NA,NA
+"removal_med_mice_none","removal_med_median-other_VI",NA,NA
+"removal_med_mice_none","removal_min_knn_BORUTA",NA,NA
+"removal_med_mice_none","removal_min_knn_MI",NA,NA
+"removal_med_mice_none","removal_min_knn_none",NA,NA
+"removal_med_mice_none","removal_min_median-frequency_MI",NA,NA
+"removal_med_mice_none","removal_min_median-frequency_none",NA,NA
+"removal_med_mice_none","removal_min_median-other_BORUTA",NA,NA
+"removal_med_mice_none","removal_min_median-other_MCFS",NA,NA
+"removal_med_mice_none","removal_min_median-other_MI",NA,NA
+"removal_med_mice_none","removal_min_median-other_none",NA,NA
+"removal_med_mice_none","removal_min_median-other_VI",NA,NA
+"removal_med_mice_none","removal_min_mice_BORUTA",NA,NA
+"removal_med_mice_none","removal_min_mice_MI",NA,NA
+"removal_med_mice_none","removal_min_mice_none",NA,NA
+"removal_min_knn_BORUTA","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_knn_BORUTA","removal_med_knn_BORUTA",NA,NA
+"removal_min_knn_BORUTA","removal_med_knn_MI",NA,NA
+"removal_min_knn_BORUTA","removal_med_knn_none",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-frequency_MI",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-frequency_none",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-other_MCFS",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-other_none",NA,NA
+"removal_min_knn_BORUTA","removal_med_median-other_VI",NA,NA
+"removal_min_knn_BORUTA","removal_med_mice_none",NA,NA
+"removal_min_knn_BORUTA","removal_min_knn_MI",NA,NA
+"removal_min_knn_BORUTA","removal_min_knn_none",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-frequency_MI",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-frequency_none",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-other_BORUTA",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-other_MCFS",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-other_MI",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-other_none",NA,NA
+"removal_min_knn_BORUTA","removal_min_median-other_VI",NA,NA
+"removal_min_knn_BORUTA","removal_min_mice_BORUTA",NA,NA
+"removal_min_knn_BORUTA","removal_min_mice_MI",NA,NA
+"removal_min_knn_BORUTA","removal_min_mice_none",NA,NA
+"removal_min_knn_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_knn_MI","removal_med_knn_BORUTA",NA,NA
+"removal_min_knn_MI","removal_med_knn_MI",NA,NA
+"removal_min_knn_MI","removal_med_knn_none",NA,NA
+"removal_min_knn_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_knn_MI","removal_med_median-frequency_MI",NA,NA
+"removal_min_knn_MI","removal_med_median-frequency_none",NA,NA
+"removal_min_knn_MI","removal_med_median-other_MCFS",NA,NA
+"removal_min_knn_MI","removal_med_median-other_none",NA,NA
+"removal_min_knn_MI","removal_med_median-other_VI",NA,NA
+"removal_min_knn_MI","removal_med_mice_none",NA,NA
+"removal_min_knn_MI","removal_min_knn_BORUTA",NA,NA
+"removal_min_knn_MI","removal_min_knn_none",NA,NA
+"removal_min_knn_MI","removal_min_median-frequency_MI",NA,NA
+"removal_min_knn_MI","removal_min_median-frequency_none",NA,NA
+"removal_min_knn_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_min_knn_MI","removal_min_median-other_MCFS",NA,NA
+"removal_min_knn_MI","removal_min_median-other_MI",NA,NA
+"removal_min_knn_MI","removal_min_median-other_none",NA,NA
+"removal_min_knn_MI","removal_min_median-other_VI",NA,NA
+"removal_min_knn_MI","removal_min_mice_BORUTA",NA,NA
+"removal_min_knn_MI","removal_min_mice_MI",NA,NA
+"removal_min_knn_MI","removal_min_mice_none",NA,NA
+"removal_min_knn_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_knn_none","removal_med_knn_BORUTA",NA,NA
+"removal_min_knn_none","removal_med_knn_MI",NA,NA
+"removal_min_knn_none","removal_med_knn_none",NA,NA
+"removal_min_knn_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_knn_none","removal_med_median-frequency_MI",NA,NA
+"removal_min_knn_none","removal_med_median-frequency_none",NA,NA
+"removal_min_knn_none","removal_med_median-other_MCFS",NA,NA
+"removal_min_knn_none","removal_med_median-other_none",NA,NA
+"removal_min_knn_none","removal_med_median-other_VI",NA,NA
+"removal_min_knn_none","removal_med_mice_none",NA,NA
+"removal_min_knn_none","removal_min_knn_BORUTA",NA,NA
+"removal_min_knn_none","removal_min_knn_MI",NA,NA
+"removal_min_knn_none","removal_min_median-frequency_MI",NA,NA
+"removal_min_knn_none","removal_min_median-frequency_none",NA,NA
+"removal_min_knn_none","removal_min_median-other_BORUTA",NA,NA
+"removal_min_knn_none","removal_min_median-other_MCFS",NA,NA
+"removal_min_knn_none","removal_min_median-other_MI",NA,NA
+"removal_min_knn_none","removal_min_median-other_none",NA,NA
+"removal_min_knn_none","removal_min_median-other_VI",NA,NA
+"removal_min_knn_none","removal_min_mice_BORUTA",NA,NA
+"removal_min_knn_none","removal_min_mice_MI",NA,NA
+"removal_min_knn_none","removal_min_mice_none",NA,NA
+"removal_min_median-frequency_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-frequency_MI","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-frequency_MI","removal_med_knn_MI",NA,NA
+"removal_min_median-frequency_MI","removal_med_knn_none",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-frequency_none",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-other_none",NA,NA
+"removal_min_median-frequency_MI","removal_med_median-other_VI",NA,NA
+"removal_min_median-frequency_MI","removal_med_mice_none",NA,NA
+"removal_min_median-frequency_MI","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-frequency_MI","removal_min_knn_MI",NA,NA
+"removal_min_median-frequency_MI","removal_min_knn_none",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-frequency_none",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-other_MI",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-other_none",NA,NA
+"removal_min_median-frequency_MI","removal_min_median-other_VI",NA,NA
+"removal_min_median-frequency_MI","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-frequency_MI","removal_min_mice_MI",NA,NA
+"removal_min_median-frequency_MI","removal_min_mice_none",NA,NA
+"removal_min_median-frequency_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-frequency_none","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-frequency_none","removal_med_knn_MI",NA,NA
+"removal_min_median-frequency_none","removal_med_knn_none",NA,NA
+"removal_min_median-frequency_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-frequency_none","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-frequency_none","removal_med_median-frequency_none",NA,NA
+"removal_min_median-frequency_none","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-frequency_none","removal_med_median-other_none",NA,NA
+"removal_min_median-frequency_none","removal_med_median-other_VI",NA,NA
+"removal_min_median-frequency_none","removal_med_mice_none",NA,NA
+"removal_min_median-frequency_none","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-frequency_none","removal_min_knn_MI",NA,NA
+"removal_min_median-frequency_none","removal_min_knn_none",NA,NA
+"removal_min_median-frequency_none","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-frequency_none","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-frequency_none","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-frequency_none","removal_min_median-other_MI",NA,NA
+"removal_min_median-frequency_none","removal_min_median-other_none",NA,NA
+"removal_min_median-frequency_none","removal_min_median-other_VI",NA,NA
+"removal_min_median-frequency_none","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-frequency_none","removal_min_mice_MI",NA,NA
+"removal_min_median-frequency_none","removal_min_mice_none",NA,NA
+"removal_min_median-other_BORUTA","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-other_BORUTA","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-other_BORUTA","removal_med_knn_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_med_knn_none",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-frequency_none",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-other_none",NA,NA
+"removal_min_median-other_BORUTA","removal_med_median-other_VI",NA,NA
+"removal_min_median-other_BORUTA","removal_med_mice_none",NA,NA
+"removal_min_median-other_BORUTA","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-other_BORUTA","removal_min_knn_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_min_knn_none",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-frequency_none",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-other_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-other_none",NA,NA
+"removal_min_median-other_BORUTA","removal_min_median-other_VI",NA,NA
+"removal_min_median-other_BORUTA","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-other_BORUTA","removal_min_mice_MI",NA,NA
+"removal_min_median-other_BORUTA","removal_min_mice_none",NA,NA
+"removal_min_median-other_MCFS","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-other_MCFS","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-other_MCFS","removal_med_knn_MI",NA,NA
+"removal_min_median-other_MCFS","removal_med_knn_none",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-frequency_none",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-other_none",NA,NA
+"removal_min_median-other_MCFS","removal_med_median-other_VI",NA,NA
+"removal_min_median-other_MCFS","removal_med_mice_none",NA,NA
+"removal_min_median-other_MCFS","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-other_MCFS","removal_min_knn_MI",NA,NA
+"removal_min_median-other_MCFS","removal_min_knn_none",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-frequency_none",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-other_MI",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-other_none",NA,NA
+"removal_min_median-other_MCFS","removal_min_median-other_VI",NA,NA
+"removal_min_median-other_MCFS","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-other_MCFS","removal_min_mice_MI",NA,NA
+"removal_min_median-other_MCFS","removal_min_mice_none",NA,NA
+"removal_min_median-other_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-other_MI","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-other_MI","removal_med_knn_MI",NA,NA
+"removal_min_median-other_MI","removal_med_knn_none",NA,NA
+"removal_min_median-other_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-other_MI","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-other_MI","removal_med_median-frequency_none",NA,NA
+"removal_min_median-other_MI","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-other_MI","removal_med_median-other_none",NA,NA
+"removal_min_median-other_MI","removal_med_median-other_VI",NA,NA
+"removal_min_median-other_MI","removal_med_mice_none",NA,NA
+"removal_min_median-other_MI","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-other_MI","removal_min_knn_MI",NA,NA
+"removal_min_median-other_MI","removal_min_knn_none",NA,NA
+"removal_min_median-other_MI","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-other_MI","removal_min_median-frequency_none",NA,NA
+"removal_min_median-other_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-other_MI","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-other_MI","removal_min_median-other_none",NA,NA
+"removal_min_median-other_MI","removal_min_median-other_VI",NA,NA
+"removal_min_median-other_MI","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-other_MI","removal_min_mice_MI",NA,NA
+"removal_min_median-other_MI","removal_min_mice_none",NA,NA
+"removal_min_median-other_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-other_none","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-other_none","removal_med_knn_MI",NA,NA
+"removal_min_median-other_none","removal_med_knn_none",NA,NA
+"removal_min_median-other_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-other_none","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-other_none","removal_med_median-frequency_none",NA,NA
+"removal_min_median-other_none","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-other_none","removal_med_median-other_none",NA,NA
+"removal_min_median-other_none","removal_med_median-other_VI",NA,NA
+"removal_min_median-other_none","removal_med_mice_none",NA,NA
+"removal_min_median-other_none","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-other_none","removal_min_knn_MI",NA,NA
+"removal_min_median-other_none","removal_min_knn_none",NA,NA
+"removal_min_median-other_none","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-other_none","removal_min_median-frequency_none",NA,NA
+"removal_min_median-other_none","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-other_none","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-other_none","removal_min_median-other_MI",NA,NA
+"removal_min_median-other_none","removal_min_median-other_VI",NA,NA
+"removal_min_median-other_none","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-other_none","removal_min_mice_MI",NA,NA
+"removal_min_median-other_none","removal_min_mice_none",NA,NA
+"removal_min_median-other_VI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_median-other_VI","removal_med_knn_BORUTA",NA,NA
+"removal_min_median-other_VI","removal_med_knn_MI",NA,NA
+"removal_min_median-other_VI","removal_med_knn_none",NA,NA
+"removal_min_median-other_VI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_median-other_VI","removal_med_median-frequency_MI",NA,NA
+"removal_min_median-other_VI","removal_med_median-frequency_none",NA,NA
+"removal_min_median-other_VI","removal_med_median-other_MCFS",NA,NA
+"removal_min_median-other_VI","removal_med_median-other_none",NA,NA
+"removal_min_median-other_VI","removal_med_median-other_VI",NA,NA
+"removal_min_median-other_VI","removal_med_mice_none",NA,NA
+"removal_min_median-other_VI","removal_min_knn_BORUTA",NA,NA
+"removal_min_median-other_VI","removal_min_knn_MI",NA,NA
+"removal_min_median-other_VI","removal_min_knn_none",NA,NA
+"removal_min_median-other_VI","removal_min_median-frequency_MI",NA,NA
+"removal_min_median-other_VI","removal_min_median-frequency_none",NA,NA
+"removal_min_median-other_VI","removal_min_median-other_BORUTA",NA,NA
+"removal_min_median-other_VI","removal_min_median-other_MCFS",NA,NA
+"removal_min_median-other_VI","removal_min_median-other_MI",NA,NA
+"removal_min_median-other_VI","removal_min_median-other_none",NA,NA
+"removal_min_median-other_VI","removal_min_mice_BORUTA",NA,NA
+"removal_min_median-other_VI","removal_min_mice_MI",NA,NA
+"removal_min_median-other_VI","removal_min_mice_none",NA,NA
+"removal_min_mice_BORUTA","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_mice_BORUTA","removal_med_knn_BORUTA",NA,NA
+"removal_min_mice_BORUTA","removal_med_knn_MI",NA,NA
+"removal_min_mice_BORUTA","removal_med_knn_none",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-frequency_MI",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-frequency_none",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-other_MCFS",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-other_none",NA,NA
+"removal_min_mice_BORUTA","removal_med_median-other_VI",NA,NA
+"removal_min_mice_BORUTA","removal_med_mice_none",NA,NA
+"removal_min_mice_BORUTA","removal_min_knn_BORUTA",NA,NA
+"removal_min_mice_BORUTA","removal_min_knn_MI",NA,NA
+"removal_min_mice_BORUTA","removal_min_knn_none",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-frequency_MI",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-frequency_none",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-other_BORUTA",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-other_MCFS",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-other_MI",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-other_none",NA,NA
+"removal_min_mice_BORUTA","removal_min_median-other_VI",NA,NA
+"removal_min_mice_BORUTA","removal_min_mice_MI",NA,NA
+"removal_min_mice_BORUTA","removal_min_mice_none",NA,NA
+"removal_min_mice_MI","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_mice_MI","removal_med_knn_BORUTA",NA,NA
+"removal_min_mice_MI","removal_med_knn_MI",NA,NA
+"removal_min_mice_MI","removal_med_knn_none",NA,NA
+"removal_min_mice_MI","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_mice_MI","removal_med_median-frequency_MI",NA,NA
+"removal_min_mice_MI","removal_med_median-frequency_none",NA,NA
+"removal_min_mice_MI","removal_med_median-other_MCFS",NA,NA
+"removal_min_mice_MI","removal_med_median-other_none",NA,NA
+"removal_min_mice_MI","removal_med_median-other_VI",NA,NA
+"removal_min_mice_MI","removal_med_mice_none",NA,NA
+"removal_min_mice_MI","removal_min_knn_BORUTA",NA,NA
+"removal_min_mice_MI","removal_min_knn_MI",NA,NA
+"removal_min_mice_MI","removal_min_knn_none",NA,NA
+"removal_min_mice_MI","removal_min_median-frequency_MI",NA,NA
+"removal_min_mice_MI","removal_min_median-frequency_none",NA,NA
+"removal_min_mice_MI","removal_min_median-other_BORUTA",NA,NA
+"removal_min_mice_MI","removal_min_median-other_MCFS",NA,NA
+"removal_min_mice_MI","removal_min_median-other_MI",NA,NA
+"removal_min_mice_MI","removal_min_median-other_none",NA,NA
+"removal_min_mice_MI","removal_min_median-other_VI",NA,NA
+"removal_min_mice_MI","removal_min_mice_BORUTA",NA,NA
+"removal_min_mice_MI","removal_min_mice_none",NA,NA
+"removal_min_mice_none","removal_max_knn_BORUTA",7.78895640936452e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_knn_MI",7.80329780303165e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_knn_none",7.86089730140819e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-frequency_BORUTA",7.87535582108181e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-frequency_MI",7.73182377633192e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-frequency_none",7.81766255627707e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-other_BORUTA",7.76034356985987e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-other_MCFS",7.74607205866465e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-other_MI",7.90434346487012e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-other_none",7.83205070187432e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_median-other_VI",7.88983786458125e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_max_mice_none",7.91887265495e-09,"Odrzucamy H"
+"removal_min_mice_none","removal_med_knn_BORUTA",NA,NA
+"removal_min_mice_none","removal_med_knn_MI",NA,NA
+"removal_min_mice_none","removal_med_knn_none",NA,NA
+"removal_min_mice_none","removal_med_median-frequency_BORUTA",NA,NA
+"removal_min_mice_none","removal_med_median-frequency_MI",NA,NA
+"removal_min_mice_none","removal_med_median-frequency_none",NA,NA
+"removal_min_mice_none","removal_med_median-other_MCFS",NA,NA
+"removal_min_mice_none","removal_med_median-other_none",NA,NA
+"removal_min_mice_none","removal_med_median-other_VI",NA,NA
+"removal_min_mice_none","removal_med_mice_none",NA,NA
+"removal_min_mice_none","removal_min_knn_BORUTA",NA,NA
+"removal_min_mice_none","removal_min_knn_MI",NA,NA
+"removal_min_mice_none","removal_min_knn_none",NA,NA
+"removal_min_mice_none","removal_min_median-frequency_MI",NA,NA
+"removal_min_mice_none","removal_min_median-frequency_none",NA,NA
+"removal_min_mice_none","removal_min_median-other_BORUTA",NA,NA
+"removal_min_mice_none","removal_min_median-other_MCFS",NA,NA
+"removal_min_mice_none","removal_min_median-other_MI",NA,NA
+"removal_min_mice_none","removal_min_median-other_none",NA,NA
+"removal_min_mice_none","removal_min_median-other_VI",NA,NA
+"removal_min_mice_none","removal_min_mice_BORUTA",NA,NA
+"removal_min_mice_none","removal_min_mice_MI",NA,NA
